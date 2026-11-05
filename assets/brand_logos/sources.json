@@ -1,0 +1,1360 @@
+[
+  {
+    "name": "Aion",
+    "key": "aion",
+    "asset": "assets/brand_logos/aion.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/aion-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "Aiways",
+    "key": "aiways",
+    "asset": "assets/brand_logos/aiways.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/aiways.png",
+    "source": "https://www.carlogos.org/car-logos/aiways-logo-2100x1350-show.png"
+  },
+  {
+    "name": "Avatr",
+    "key": "avatr",
+    "asset": "assets/brand_logos/avatr.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/avatr-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "BAIC",
+    "key": "baic",
+    "asset": "assets/brand_logos/baic.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/baic-motor.png",
+    "source": "https://www.carlogos.org/logo/BAIC-Motor-logo-2560x1440.png"
+  },
+  {
+    "name": "Baojun",
+    "key": "baojun",
+    "asset": "assets/brand_logos/baojun.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/baojun.png",
+    "source": "https://www.carlogos.org/logo/Baojun-logo-2010-1920x1080.png"
+  },
+  {
+    "name": "Borgward",
+    "key": "borgward",
+    "asset": "assets/brand_logos/borgward.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/borgward.png",
+    "source": "https://www.carlogos.org/logo/Borgward-logo-2016-1920x1080.png"
+  },
+  {
+    "name": "Brilliance",
+    "key": "brilliance",
+    "asset": "assets/brand_logos/brilliance.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/brilliance.png",
+    "source": "https://www.carlogos.org/logo/Brilliance-logo-3840x2160.png"
+  },
+  {
+    "name": "Bugatti",
+    "key": "bugatti",
+    "asset": "assets/brand_logos/bugatti.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/bugatti.png",
+    "source": "https://www.carlogos.org/logo/Bugatti-logo-1024x768.png"
+  },
+  {
+    "name": "Canoo",
+    "key": "canoo",
+    "asset": "assets/brand_logos/canoo.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/canoo.png",
+    "source": "https://www.carlogos.org/car-logos/canoo-logo-1100x500-show.png"
+  },
+  {
+    "name": "Changan",
+    "key": "changan",
+    "asset": "assets/brand_logos/changan.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/changan.png",
+    "source": "https://www.carlogos.org/logo/Changan-logo-2010-2560x1440.png"
+  },
+  {
+    "name": "Chery",
+    "key": "chery",
+    "asset": "assets/brand_logos/chery.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/chery.png",
+    "source": "https://www.carlogos.org/logo/Chery-logo-2013-3840x2160.png"
+  },
+  {
+    "name": "Chrysler",
+    "key": "chrysler",
+    "asset": "assets/brand_logos/chrysler.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/chrysler.png",
+    "source": "https://www.carlogos.org/car-logos/chrysler-logo-2009-640.png"
+  },
+  {
+    "name": "Daihatsu",
+    "key": "daihatsu",
+    "asset": "assets/brand_logos/daihatsu.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/daihatsu.png",
+    "source": "https://www.carlogos.org/logo/Daihatsu-logo-1997-1280x233.png"
+  },
+  {
+    "name": "Denza",
+    "key": "denza",
+    "asset": "assets/brand_logos/denza.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/denza-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "Dongfeng",
+    "key": "dongfeng",
+    "asset": "assets/brand_logos/dongfeng.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/dongfeng.png",
+    "source": "https://www.carlogos.org/logo/Dongfeng-logo-2560x1440.png"
+  },
+  {
+    "name": "FAW",
+    "key": "faw",
+    "asset": "assets/brand_logos/faw.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/faw.png",
+    "source": "https://www.carlogos.org/logo/FAW-logo-1920x1080.png"
+  },
+  {
+    "name": "Fisker",
+    "key": "fisker",
+    "asset": "assets/brand_logos/fisker.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/fisker.png",
+    "source": "https://www.carlogos.org/logo/Fisker-logo-2007-1920x1080.png"
+  },
+  {
+    "name": "Foton",
+    "key": "foton",
+    "asset": "assets/brand_logos/foton.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/foton.png",
+    "source": "https://www.carlogos.org/logo/Foton-logo-1920x1080.png"
+  },
+  {
+    "name": "GAC",
+    "key": "gac",
+    "asset": "assets/brand_logos/gac.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/gac-group.png",
+    "source": "https://www.carlogos.org/logo/GAC-Group-logo-2560x1440.png"
+  },
+  {
+    "name": "Geely",
+    "key": "geely",
+    "asset": "assets/brand_logos/geely.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/geely.png",
+    "source": "https://www.carlogos.org/logo/Geely-logo-2014-2560x1440.png"
+  },
+  {
+    "name": "Great Wall",
+    "key": "great-wall",
+    "asset": "assets/brand_logos/great-wall.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/great-wall.png",
+    "source": "https://www.carlogos.org/logo/Great-Wall-logo-2007-2048x2048.png"
+  },
+  {
+    "name": "GWM Ora",
+    "key": "gwm-ora",
+    "asset": "assets/brand_logos/gwm-ora.png",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/ora-logo.png",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "Haval",
+    "key": "haval",
+    "asset": "assets/brand_logos/haval.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/haval.png",
+    "source": "https://www.carlogos.org/logo/Haval-logo-1366x768.png"
+  },
+  {
+    "name": "Hino",
+    "key": "hino",
+    "asset": "assets/brand_logos/hino.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/hino.png",
+    "source": "https://www.carlogos.org/logo/Hino-logo-2048x2048.png"
+  },
+  {
+    "name": "INEOS",
+    "key": "ineos",
+    "asset": "assets/brand_logos/ineos.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/ineos-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "JAC",
+    "key": "jac",
+    "asset": "assets/brand_logos/jac.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/jac.png",
+    "source": "https://www.carlogos.org/logo/JAC-Motors-logo-2016-1920x1080.png"
+  },
+  {
+    "name": "Jetour",
+    "key": "jetour",
+    "asset": "assets/brand_logos/jetour.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/jetour.png",
+    "source": "/Users/filip.popranec/Develop/car-logos-dataset/local-logos/jetour.png"
+  },
+  {
+    "name": "Jetta",
+    "key": "jetta",
+    "asset": "assets/brand_logos/jetta.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/jetta.png",
+    "source": "https://www.carlogos.org/car-logos/jetta-logo-2019-1300x1100-show.png"
+  },
+  {
+    "name": "JMC",
+    "key": "jmc",
+    "asset": "assets/brand_logos/jmc.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/jmc.png",
+    "source": "https://www.carlogos.org/logo/Jiangling-logo-1280x1024.png"
+  },
+  {
+    "name": "KGM",
+    "key": "kgm",
+    "asset": "assets/brand_logos/kgm.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/kgm-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "Koenigsegg",
+    "key": "koenigsegg",
+    "asset": "assets/brand_logos/koenigsegg.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/koenigsegg.png",
+    "source": "https://www.carlogos.org/logo/Koenigsegg-logo-1994-2048x2048.png"
+  },
+  {
+    "name": "Lada",
+    "key": "lada",
+    "asset": "assets/brand_logos/lada.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/lada.png",
+    "source": "https://www.carlogos.org/logo/Lada-logo-silver-640x248.jpg"
+  },
+  {
+    "name": "Leapmotor",
+    "key": "leapmotor",
+    "asset": "assets/brand_logos/leapmotor.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/leapmotor.png",
+    "source": "https://www.carlogos.org/car-logos/leapmotor-logo-1000x650-show.png"
+  },
+  {
+    "name": "Li Auto",
+    "key": "li-auto",
+    "asset": "assets/brand_logos/li-auto.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/li-auto.png",
+    "source": "https://www.carlogos.org/car-logos/lixiang-logo-1050x300-show.png"
+  },
+  {
+    "name": "Lifan",
+    "key": "lifan",
+    "asset": "assets/brand_logos/lifan.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/lifan.png",
+    "source": "https://www.carlogos.org/logo/Lifan-logo-4000x1200.png"
+  },
+  {
+    "name": "Lotus",
+    "key": "lotus",
+    "asset": "assets/brand_logos/lotus.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/lotus.png",
+    "source": "https://www.carlogos.org/logo/Lotus-logo-2019-1800x1800.png"
+  },
+  {
+    "name": "Lucid",
+    "key": "lucid",
+    "asset": "assets/brand_logos/lucid.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/lucid.png",
+    "source": "https://www.carlogos.org/logo/Lucid-Motors-logo-1500x200.png"
+  },
+  {
+    "name": "Lynk & Co",
+    "key": "lynk-co",
+    "asset": "assets/brand_logos/lynk-co.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/lynk-and-co.png",
+    "source": "https://www.carlogos.org/car-logos/lynkco-logo-2150x400-show.png"
+  },
+  {
+    "name": "Mahindra",
+    "key": "mahindra",
+    "asset": "assets/brand_logos/mahindra.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mahindra.png",
+    "source": "https://www.carlogos.org/logo/Mahindra-logo-2560x1440.png"
+  },
+  {
+    "name": "Maruti Suzuki",
+    "key": "maruti-suzuki",
+    "asset": "assets/brand_logos/maruti-suzuki.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/maruti-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "Maxus",
+    "key": "maxus",
+    "asset": "assets/brand_logos/maxus.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/maxus.png",
+    "source": "https://www.carlogos.org/logo/Maxus-logo-2014-1920x1080.png"
+  },
+  {
+    "name": "Maybach",
+    "key": "maybach",
+    "asset": "assets/brand_logos/maybach.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/maybach.png",
+    "source": "https://www.carlogos.org/logo/Maybach-logo-2560x1440.png"
+  },
+  {
+    "name": "McLaren",
+    "key": "mclaren",
+    "asset": "assets/brand_logos/mclaren.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mclaren.png",
+    "source": "https://www.carlogos.org/logo/McLaren-logo-2002-2560x1440.png"
+  },
+  {
+    "name": "Mercury",
+    "key": "mercury",
+    "asset": "assets/brand_logos/mercury.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mercury.png",
+    "source": "https://www.carlogos.org/logo/Mercury-logo-1980-2500x2500.png"
+  },
+  {
+    "name": "Mitsuoka",
+    "key": "mitsuoka",
+    "asset": "assets/brand_logos/mitsuoka.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mitsuoka.png",
+    "source": "https://www.carlogos.org/logo/Mitsuoka-logo-2560x1440.png"
+  },
+  {
+    "name": "Morgan",
+    "key": "morgan",
+    "asset": "assets/brand_logos/morgan.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/morgan.png",
+    "source": "https://www.carlogos.org/logo/Morgan-logo-1920x1080.png"
+  },
+  {
+    "name": "NIO",
+    "key": "nio",
+    "asset": "assets/brand_logos/nio.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/nio.png",
+    "source": "https://www.carlogos.org/car-logos/nio-logo-1800x700-show.png"
+  },
+  {
+    "name": "Omoda",
+    "key": "omoda",
+    "asset": "assets/brand_logos/omoda.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/omoda.png",
+    "source": "/Users/filip.popranec/Develop/car-logos-dataset/local-logos/omoda.png"
+  },
+  {
+    "name": "Oldsmobile",
+    "key": "oldsmobile",
+    "asset": "assets/brand_logos/oldsmobile.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/oldsmobile.png",
+    "source": "https://www.carlogos.org/logo/Oldsmobile-logo-1996-1024x768.png"
+  },
+  {
+    "name": "Pagani",
+    "key": "pagani",
+    "asset": "assets/brand_logos/pagani.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/pagani.png",
+    "source": "https://www.carlogos.org/logo/Pagani-logo-1992-1440x900.png"
+  },
+  {
+    "name": "Perodua",
+    "key": "perodua",
+    "asset": "assets/brand_logos/perodua.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/perodua.png",
+    "source": "https://www.carlogos.org/logo/Perodua-logo-2008-2560x1440.png"
+  },
+  {
+    "name": "Polestar",
+    "key": "polestar",
+    "asset": "assets/brand_logos/polestar.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/polestar.png",
+    "source": "https://www.carlogos.org/logo/Polestar-logo-1366x768.png"
+  },
+  {
+    "name": "Pontiac",
+    "key": "pontiac",
+    "asset": "assets/brand_logos/pontiac.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/pontiac.png",
+    "source": "https://www.carlogos.org/logo/Pontiac-logo-2560x1440.png"
+  },
+  {
+    "name": "Proton",
+    "key": "proton",
+    "asset": "assets/brand_logos/proton.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/proton.png",
+    "source": "https://www.carlogos.org/logo/Proton-logo-2016-2048x2048.png"
+  },
+  {
+    "name": "Rimac",
+    "key": "rimac",
+    "asset": "assets/brand_logos/rimac.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/rimac.png",
+    "source": "https://www.carlogos.org/logo/Rimac-logo-2016-2048x2048.png"
+  },
+  {
+    "name": "Rivian",
+    "key": "rivian",
+    "asset": "assets/brand_logos/rivian.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/rivian.png",
+    "source": "https://www.carlogos.org/car-logos/rivian-logo-black-1300x1150-show.png"
+  },
+  {
+    "name": "Roewe",
+    "key": "roewe",
+    "asset": "assets/brand_logos/roewe.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/roewe.png",
+    "source": "https://www.carlogos.org/logo/Roewe-logo-2006-1920x1080.png"
+  },
+  {
+    "name": "Rolls-Royce",
+    "key": "rolls-royce",
+    "asset": "assets/brand_logos/rolls-royce.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/rolls-royce.png",
+    "source": "https://www.carlogos.org/logo/Rolls-Royce-logo-2048x2048.png"
+  },
+  {
+    "name": "Saab",
+    "key": "saab",
+    "asset": "assets/brand_logos/saab.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/saab.png",
+    "source": "https://www.carlogos.org/logo/Saab-logo-2013-2000x450.png"
+  },
+  {
+    "name": "SAIC",
+    "key": "saic",
+    "asset": "assets/brand_logos/saic.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/saic-motor.png",
+    "source": "https://www.carlogos.org/logo/SAIC-Motor-logo-1920x1080.png"
+  },
+  {
+    "name": "Soueast",
+    "key": "soueast",
+    "asset": "assets/brand_logos/soueast.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/soueast.png",
+    "source": "https://www.carlogos.org/logo/Soueast-logo-1995-800x600.png"
+  },
+  {
+    "name": "Suzuki",
+    "key": "suzuki",
+    "asset": "assets/brand_logos/suzuki.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/suzuki.png",
+    "source": "https://www.carlogos.org/logo/Suzuki-logo-5000x2500.png"
+  },
+  {
+    "name": "Tata",
+    "key": "tata",
+    "asset": "assets/brand_logos/tata.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/tata.png",
+    "source": "https://www.carlogos.org/logo/Tata-logo-2000-2560x1440.png"
+  },
+  {
+    "name": "Vauxhall",
+    "key": "vauxhall",
+    "asset": "assets/brand_logos/vauxhall.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/vauxhall.png",
+    "source": "https://www.carlogos.org/logo/Vauxhall-logo-2008-red-2560x1440.png"
+  },
+  {
+    "name": "VinFast",
+    "key": "vinfast",
+    "asset": "assets/brand_logos/vinfast.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/vinfast.png",
+    "source": "https://www.carlogos.org/car-logos/vinfast-logo-900x850-show.png"
+  },
+  {
+    "name": "Wuling",
+    "key": "wuling",
+    "asset": "assets/brand_logos/wuling.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/wuling.png",
+    "source": "https://www.carlogos.org/logo/Wuling-logo-1920x1080.png"
+  },
+  {
+    "name": "Wey",
+    "key": "wey",
+    "asset": "assets/brand_logos/wey.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/wey.png",
+    "source": "https://www.carlogos.org/car-logos/wey-logo-800x1100-show.png"
+  },
+  {
+    "name": "XPeng",
+    "key": "xpeng",
+    "asset": "assets/brand_logos/xpeng.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/xpeng.png",
+    "source": "https://www.carlogos.org/car-logos/xpeng-logo-2021-2700x1100-show.png"
+  },
+  {
+    "name": "Xiaomi",
+    "key": "xiaomi",
+    "asset": "assets/brand_logos/xiaomi.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/xiaomi-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "Yangwang",
+    "key": "yangwang",
+    "asset": "assets/brand_logos/yangwang.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/yangwang-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "Zeekr",
+    "key": "zeekr",
+    "asset": "assets/brand_logos/zeekr.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/zeekr.png",
+    "source": "https://www.carlogos.org/car-logos/zeekr-logo-2300x700-show.png"
+  },
+  {
+    "name": "Zotye",
+    "key": "zotye",
+    "asset": "assets/brand_logos/zotye.png",
+    "url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/zotye.png",
+    "source": "https://www.carlogos.org/logo/Zotye-logo-2560x1440.png"
+  },
+  {
+    "name": "Afeela",
+    "key": "afeela",
+    "asset": "assets/brand_logos/afeela.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Afeela_logo.svg",
+    "source": "https://en.wikipedia.org/wiki/Afeela"
+  },
+  {
+    "name": "BAIC BJEV",
+    "key": "baic-bjev",
+    "asset": "assets/brand_logos/baic-bjev.png",
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Logo_of_BAIC_BluePark.png",
+    "source": "https://en.wikipedia.org/wiki/BAIC_BluePark"
+  },
+  {
+    "name": "Changhe",
+    "key": "changhe",
+    "asset": "assets/brand_logos/changhe.png",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/28/Changhe-new-logo.png",
+    "source": "https://en.wikipedia.org/wiki/Changhe"
+  },
+  {
+    "name": "Dongfeng Fengon",
+    "key": "dongfeng-fengon",
+    "asset": "assets/brand_logos/fengon.png",
+    "url": "https://www.dfdongfeng.com.cn/static/web/img/logo.png?v=v8",
+    "source": "https://www.dfdongfeng.com.cn/"
+  },
+  {
+    "name": "Dongfeng Forthing",
+    "key": "dongfeng-forthing",
+    "asset": "assets/brand_logos/dongfeng-forthing.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Forthing_Logo.jpg",
+    "source": "https://en.wikipedia.org/wiki/Forthing"
+  },
+  {
+    "name": "Fangchengbao",
+    "key": "fangchengbao",
+    "asset": "assets/brand_logos/fangchengbao.png",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Fangchengbao_logo.png",
+    "source": "https://en.wikipedia.org/wiki/Fangchengbao"
+  },
+  {
+    "name": "Fengon",
+    "key": "fengon",
+    "asset": "assets/brand_logos/fengon.png",
+    "url": "https://www.dfdongfeng.com.cn/static/web/img/logo.png?v=v8",
+    "source": "https://www.dfdongfeng.com.cn/"
+  },
+  {
+    "name": "GAC Trumpchi",
+    "key": "gac-trumpchi",
+    "asset": "assets/brand_logos/gac-trumpchi.png",
+    "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/GAC_Chuanqi_Logo.png",
+    "source": "https://en.wikipedia.org/wiki/Trumpchi"
+  },
+  {
+    "name": "Hozon",
+    "key": "hozon",
+    "asset": "assets/brand_logos/hozon.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hozon_Auto_logo.png",
+    "source": "https://en.wikipedia.org/wiki/Hozon_Auto"
+  },
+  {
+    "name": "IM Motors",
+    "key": "im-motors",
+    "asset": "assets/brand_logos/im-motors.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/IM_Motors_2025.svg",
+    "source": "https://en.wikipedia.org/wiki/IM_Motors"
+  },
+  {
+    "name": "Jiyue",
+    "key": "jiyue",
+    "asset": "assets/brand_logos/jiyue.png",
+    "url": "https://static.jiduapp.cn/optimus/user-upload/751f6ec8c1.png",
+    "source": "https://www.jiyue-auto.com"
+  },
+  {
+    "name": "JMEV",
+    "key": "jmev",
+    "asset": "assets/brand_logos/jmev.png",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/40/JMEV_logo.png",
+    "source": "https://en.wikipedia.org/wiki/JMEV"
+  },
+  {
+    "name": "Livan",
+    "key": "livan",
+    "asset": "assets/brand_logos/livan.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Livan_Automotive_logo.svg",
+    "source": "https://en.wikipedia.org/wiki/Livan_Automotive"
+  },
+  {
+    "name": "Luxeed",
+    "key": "luxeed",
+    "asset": "assets/brand_logos/luxeed.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Luxeed_logo.svg",
+    "source": "https://en.wikipedia.org/wiki/Luxeed"
+  },
+  {
+    "name": "Maextro",
+    "key": "maextro",
+    "asset": "assets/brand_logos/maextro.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/Maextro_logo.svg",
+    "source": "https://en.wikipedia.org/wiki/Maextro"
+  },
+  {
+    "name": "Neta",
+    "key": "neta",
+    "asset": "assets/brand_logos/neta.svg",
+    "url": "https://netaauto.com.br/wp-content/uploads/2024/07/logo-neta-icone-preto.svg",
+    "source": "https://netaauto.com.br/"
+  },
+  {
+    "name": "Onvo",
+    "key": "onvo",
+    "asset": "assets/brand_logos/onvo.png",
+    "url": "https://carbrandlogos.com/logos/onvo.png",
+    "source": "https://carbrandlogos.com/brands/onvo"
+  },
+  {
+    "name": "Ravon",
+    "key": "ravon",
+    "asset": "assets/brand_logos/ravon.png",
+    "url": "https://1000logos.net/wp-content/uploads/2024/01/Ravon-logo.png",
+    "source": "https://1000logos.net/ravon-logo/"
+  },
+  {
+    "name": "Skywell",
+    "key": "skywell",
+    "asset": "assets/brand_logos/skywell.png",
+    "url": "https://carbrandlogos.com/logos/skywell.png",
+    "source": "https://carbrandlogos.com/brands/skywell"
+  },
+  {
+    "name": "Skyworth Auto",
+    "key": "skyworth-auto",
+    "asset": "assets/brand_logos/skyworth-auto.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Skyworth_Auto_logo.svg",
+    "source": "https://en.wikipedia.org/wiki/Skyworth_Auto"
+  },
+  {
+    "name": "Voyah",
+    "key": "voyah",
+    "asset": "assets/brand_logos/voyah.png",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Voyah_Logo.png",
+    "source": "https://en.wikipedia.org/wiki/Voyah"
+  },
+  {
+    "name": "Lincoln",
+    "key": "lincoln",
+    "asset": "assets/brand_logos/lincoln.svg",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/lincoln-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos"
+  },
+  {
+    "name": "AITO",
+    "key": "aito",
+    "url": "https://car2.autoimg.cn/cardfs/series/g31/M0B/EE/71/autohomecar__ChxoHWX85h-AGwuEAABla0Ui0JE217.png",
+    "source": "https://www.autohome.com.cn/carlogo/609",
+    "asset": "assets/brand_logos/aito.png"
+  },
+  {
+    "name": "Stelato",
+    "key": "stelato",
+    "url": "https://car2.autoimg.cn/cardfs/series/g34/M05/43/62/autohomecar__ChxpWGidpU2ACTXvAACM0_ScdA0743.png",
+    "source": "https://www.autohome.com.cn/carlogo/649",
+    "asset": "assets/brand_logos/stelato.png"
+  },
+  {
+    "name": "Shangjie",
+    "key": "shangjie",
+    "url": "https://car3.autoimg.cn/cardfs/series/g33/M04/4B/63/autohomecar__ChxpVWidpTaAZQQCAAAry96yj2A780.png",
+    "source": "https://www.autohome.com.cn/carlogo/648",
+    "asset": "assets/brand_logos/shangjie.png"
+  },
+  {
+    "name": "Firefly",
+    "key": "firefly",
+    "url": "https://car3.autoimg.cn/cardfs/series/g32/M03/6E/0C/autohomecar__ChxkPWdcEHaAV3lXAADchRRQP6c983.png",
+    "source": "https://www.autohome.com.cn/carlogo/629",
+    "asset": "assets/brand_logos/firefly.png"
+  },
+  {
+    "name": "Deepal",
+    "key": "deepal",
+    "url": "https://car2.autoimg.cn/cardfs/series/g30/M03/1E/DC/autohomecar__ChxknGVxcGOAMT6GAABr6PLKxz0965.png",
+    "source": "https://www.autohome.com.cn/carlogo/530",
+    "asset": "assets/brand_logos/deepal.png"
+  },
+  {
+    "name": "Changan Qiyuan",
+    "key": "changan-qiyuan",
+    "url": "https://car2.autoimg.cn/cardfs/series/g28/M0A/CE/4E/autohomecar__Chtlx2hkxieAV016AAAW2u1ys1Y084.png",
+    "source": "https://www.autohome.com.cn/carlogo/582",
+    "asset": "assets/brand_logos/changan-qiyuan.png"
+  },
+  {
+    "name": "Geely Galaxy",
+    "key": "geely-galaxy",
+    "url": "https://car3.autoimg.cn/cardfs/series/g30/M03/EE/E1/autohomecar__ChxknGQRKCKAZDQCAAAJLxGjmWo651.png",
+    "source": "https://www.autohome.com.cn/carlogo/575",
+    "asset": "assets/brand_logos/geely-galaxy.png"
+  },
+  {
+    "name": "Arcfox",
+    "key": "arcfox",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M08/8F/B8/autohomecar__ChxkjmUJhNqAJ8cmAAExEpGnrDM023.png",
+    "source": "https://www.autohome.com.cn/carlogo/272",
+    "asset": "assets/brand_logos/arcfox.png"
+  },
+  {
+    "name": "Hyptec",
+    "key": "hyptec",
+    "url": "https://car3.autoimg.cn/cardfs/series/g32/M07/47/BB/autohomecar__ChxkPmcPdo2AHgyVAABJuWbNY9M743.png",
+    "source": "https://www.autohome.com.cn/carlogo/590",
+    "asset": "assets/brand_logos/hyptec.png"
+  },
+  {
+    "name": "iCAR",
+    "key": "icar",
+    "url": "https://car2.autoimg.cn/cardfs/series/g31/M04/42/5F/autohomecar__ChtlyGYZEqGAZdecAAAiBekyWtY792.png",
+    "source": "https://www.autohome.com.cn/carlogo/476",
+    "asset": "assets/brand_logos/icar.png"
+  },
+  {
+    "name": "Tank",
+    "key": "tank",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M03/1D/1A/autohomecar__ChxkjmTIojGAGUXzAAGMAXtqVb0993.png",
+    "source": "https://www.autohome.com.cn/carlogo/458",
+    "asset": "assets/brand_logos/tank.png"
+  },
+  {
+    "name": "Exeed",
+    "key": "exeed",
+    "url": "https://car2.autoimg.cn/cardfs/series/g28/M06/35/0F/autohomecar__ChxkmmTLPPOADh1vAACbdFdy23I994.png",
+    "source": "https://www.autohome.com.cn/carlogo/350",
+    "asset": "assets/brand_logos/exeed.png"
+  },
+  {
+    "name": "Bestune",
+    "key": "bestune",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M06/FA/11/autohomecar__ChxkjmS-HsaAJbtwAAE0mHGXdNY805.png",
+    "source": "https://www.autohome.com.cn/carlogo/95",
+    "asset": "assets/brand_logos/bestune.png"
+  },
+  {
+    "name": "Venucia",
+    "key": "venucia",
+    "url": "https://car3.autoimg.cn/cardfs/series/g24/M03/2C/A1/autohomecar__CjIFWGVE2rmADgAyAAC7oxZpvKY216.png",
+    "source": "https://www.autohome.com.cn/carlogo/122",
+    "asset": "assets/brand_logos/venucia.png"
+  },
+  {
+    "name": "Dongfeng Aeolus",
+    "key": "dongfeng-aeolus",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M01/10/B2/autohomecar__ChtlxWUNeNOAZvfTAAD2AIUhKbM646.png",
+    "source": "https://www.autohome.com.cn/carlogo/113",
+    "asset": "assets/brand_logos/dongfeng-aeolus.png"
+  },
+  {
+    "name": "Dongfeng e-Pi",
+    "key": "dongfeng-e-pi",
+    "url": "https://car2.autoimg.cn/cardfs/series/g30/M08/63/48/autohomecar__CjIFU2UBIcaAfxVEAAB9jQfEFn0585.png",
+    "source": "https://www.autohome.com.cn/carlogo/597",
+    "asset": "assets/brand_logos/dongfeng-e-pi.png"
+  },
+  {
+    "name": "Dongfeng Nammi",
+    "key": "dongfeng-nammi",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M01/AC/E6/autohomecar__ChxkjmUNeOCAI4JVAABYIzb-iL4185.png",
+    "source": "https://www.autohome.com.cn/carlogo/447",
+    "asset": "assets/brand_logos/dongfeng-nammi.png"
+  },
+  {
+    "name": "M-Hero",
+    "key": "m-hero",
+    "url": "https://car3.autoimg.cn/cardfs/series/g28/M01/42/E0/autohomecar__Chtlx2S_YpqABNJfAACnbezNnro053.png",
+    "source": "https://www.autohome.com.cn/carlogo/541",
+    "asset": "assets/brand_logos/m-hero.png"
+  },
+  {
+    "name": "Seres",
+    "key": "seres",
+    "url": "https://car3.autoimg.cn/cardfs/series/g28/M03/3C/D8/autohomecar__ChxkmmUL8fWAOOa2AAJc8bUpD_8854.png",
+    "source": "https://www.autohome.com.cn/carlogo/325",
+    "asset": "assets/brand_logos/seres.png"
+  },
+  {
+    "name": "ROX",
+    "key": "rox",
+    "url": "https://car3.autoimg.cn/cardfs/series/g32/M05/A7/25/autohomecar__ChxkPWbrwM2AQCtVAADwvoaSwDY330.png",
+    "source": "https://www.autohome.com.cn/carlogo/589",
+    "asset": "assets/brand_logos/rox.png"
+  },
+  {
+    "name": "Landian",
+    "key": "landian",
+    "url": "https://car3.autoimg.cn/cardfs/series/g27/M01/C3/3B/autohomecar__CjIFVWQlBmaARWYlAAAsSA-K9Qk232.png",
+    "source": "https://www.autohome.com.cn/carlogo/580",
+    "asset": "assets/brand_logos/landian.png"
+  },
+  {
+    "name": "Kaiyi",
+    "key": "kaiyi",
+    "url": "https://car2.autoimg.cn/cardfs/series/g27/M0A/17/79/autohomecar__CjIFVWTCBv6AMrj8AAFMoHenXKA407.png",
+    "source": "https://www.autohome.com.cn/carlogo/214",
+    "asset": "assets/brand_logos/kaiyi.png"
+  },
+  {
+    "name": "Haima",
+    "key": "haima",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M05/6A/88/autohomecar__ChtlxWTCOPOAFOMiAADyBIHD3SA261.png",
+    "source": "https://www.autohome.com.cn/carlogo/86",
+    "asset": "assets/brand_logos/haima.png"
+  },
+  {
+    "name": "Rising Auto",
+    "key": "rising-auto",
+    "url": "https://car3.autoimg.cn/cardfs/series/g24/M02/80/D3/autohomecar__CjIFWGT1jP2ARQfQAABQA5j1mnY846.png",
+    "source": "https://www.autohome.com.cn/carlogo/438",
+    "asset": "assets/brand_logos/rising-auto.png"
+  },
+  {
+    "name": "Hycan",
+    "key": "hycan",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M00/6A/86/autohomecar__ChtlxWTCOLSATnorAAERojTcXtk563.png",
+    "source": "https://www.autohome.com.cn/carlogo/376",
+    "asset": "assets/brand_logos/hycan.png"
+  },
+  {
+    "name": "HiPhi",
+    "key": "hiphi",
+    "url": "https://car3.autoimg.cn/cardfs/series/g28/M04/14/D0/autohomecar__ChxkmmTCOlSAYD2TAABOXlZwMzA408.png",
+    "source": "https://www.autohome.com.cn/carlogo/383",
+    "asset": "assets/brand_logos/hiphi.png"
+  },
+  {
+    "name": "Luxgen",
+    "key": "luxgen",
+    "url": "https://car2.autoimg.cn/cardfs/series/g25/M02/98/E8/autohomecar__ChxkqWUL8bSAKLQ-AAIVSlsL6X4265.png",
+    "source": "https://www.autohome.com.cn/carlogo/130",
+    "asset": "assets/brand_logos/luxgen.png"
+  },
+  {
+    "name": "Riddara",
+    "key": "riddara",
+    "url": "https://car3.autoimg.cn/cardfs/series/g24/M00/2B/AD/autohomecar__Chtk3WTCBiOAexy2AABpOswzWfc483.png",
+    "source": "https://www.autohome.com.cn/carlogo/536",
+    "asset": "assets/brand_logos/riddara.png"
+  },
+  {
+    "name": "Jaecoo",
+    "key": "jaecoo",
+    "url": "https://raw.githubusercontent.com/vehiclespecs/brand-logos/main/jaecoo-logo.svg",
+    "source": "https://github.com/vehiclespecs/brand-logos",
+    "asset": "assets/brand_logos/jaecoo.svg"
+  },
+  {
+    "name": "Lancia",
+    "key": "lancia",
+    "url": "https://car2.autoimg.cn/cardfs/series/g27/M01/61/7A/autohomecar__ChtlxmTIn-mADlsdAAMWrE2toEI662.png",
+    "source": "https://www.autohome.com.cn/carlogo/121",
+    "asset": "assets/brand_logos/lancia.png"
+  },
+  {
+    "name": "Alpina",
+    "key": "alpina",
+    "url": "https://car2.autoimg.cn/cardfs/series/g34/M01/B1/81/autohomecar__ChtpWGmOjNCABAW1AADsskTpitI595.png",
+    "source": "https://www.autohome.com.cn/carlogo/276",
+    "asset": "assets/brand_logos/alpina.png"
+  },
+  {
+    "name": "Brabus",
+    "key": "brabus",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M02/8A/BE/autohomecar__ChtlxWTLOe-ANkUwAACVF2oMZME916.png",
+    "source": "https://www.autohome.com.cn/carlogo/140",
+    "asset": "assets/brand_logos/brabus.png"
+  },
+  {
+    "name": "Caterham",
+    "key": "caterham",
+    "url": "https://car3.autoimg.cn/cardfs/series/g28/M07/62/3D/autohomecar__Chtlx2TIn7mABBeIAAM2VWILkug367.png",
+    "source": "https://www.autohome.com.cn/carlogo/189",
+    "asset": "assets/brand_logos/caterham.png"
+  },
+  {
+    "name": "Ariel",
+    "key": "ariel",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M06/F3/86/autohomecar__ChtlxWUJhO-ATVFQAACqrP7PSq4384.png",
+    "source": "https://www.autohome.com.cn/carlogo/424",
+    "asset": "assets/brand_logos/ariel.png"
+  },
+  {
+    "name": "TVR",
+    "key": "tvr",
+    "url": "https://car2.autoimg.cn/cardfs/series/g28/M04/06/6B/autohomecar__Chtlx2StAwCAHPz3AABVXmoqlbs977.png",
+    "source": "https://www.autohome.com.cn/carlogo/135",
+    "asset": "assets/brand_logos/tvr.png"
+  },
+  {
+    "name": "Togg",
+    "key": "togg",
+    "url": "https://car3.autoimg.cn/cardfs/series/g24/M06/0B/59/autohomecar__Chxky2StAeqAW9CaAABm94CHPA0174.png",
+    "source": "https://www.autohome.com.cn/carlogo/403",
+    "asset": "assets/brand_logos/togg.png"
+  },
+  {
+    "name": "Audi Wordmark",
+    "key": "audi-wordmark",
+    "url": "https://car2.autoimg.cn/cardfs/series/g32/M04/93/A9/autohomecar__ChxkPWctvNKAZc9FAAAeK6yVp34646.png",
+    "source": "https://www.autohome.com.cn/carlogo/626",
+    "asset": "assets/brand_logos/audi-wordmark.png"
+  },
+  {
+    "name": "Chery Fulwin",
+    "key": "chery-fulwin",
+    "url": "https://car3.autoimg.cn/cardfs/series/g31/M08/33/DA/autohomecar__ChxoHWe-ed2ANxIdAABRy5E6qUQ511.png",
+    "source": "https://www.autohome.com.cn/carlogo/634",
+    "asset": "assets/brand_logos/chery-fulwin.png"
+  },
+  {
+    "name": "Zongheng",
+    "key": "zongheng",
+    "url": "https://car3.autoimg.cn/cardfs/series/g34/M07/F8/3B/autohomecar__ChxpV2itpv2AWjngAAAMPTfsQrI120.png",
+    "source": "https://www.autohome.com.cn/carlogo/650",
+    "asset": "assets/brand_logos/zongheng.png"
+  },
+  {
+    "name": "Aistaland",
+    "key": "aistaland",
+    "url": "https://car2.autoimg.cn/cardfs/series/g34/M07/5A/CD/autohomecar__ChxpWGodgyaAZd7PAABh_6fkJqs671.png",
+    "source": "https://www.autohome.com.cn/carlogo/668",
+    "asset": "assets/brand_logos/aistaland.png"
+  },
+  {
+    "name": "Epicland",
+    "key": "epicland",
+    "url": "https://car3.autoimg.cn/cardfs/series/g33/M0A/99/81/autohomecar__ChxpVmnxwEeASYm6AAFPpbGArqs284.png",
+    "source": "https://www.autohome.com.cn/carlogo/681",
+    "asset": "assets/brand_logos/epicland.png"
+  },
+  {
+    "name": "Huajing",
+    "key": "huajing",
+    "url": "https://car2.autoimg.cn/cardfs/series/g34/M00/22/EC/autohomecar__ChxpWGmgGg6AFVaqAAAmNqkuHXk139.png",
+    "source": "https://www.autohome.com.cn/carlogo/686",
+    "asset": "assets/brand_logos/huajing.png"
+  },
+  {
+    "name": "Linghui",
+    "key": "linghui",
+    "url": "https://car2.autoimg.cn/cardfs/series/g34/M08/B6/74/autohomecar__ChxpWGlwoGGARYQDAAAqbyRoydQ285.png",
+    "source": "https://www.autohome.com.cn/carlogo/680",
+    "asset": "assets/brand_logos/linghui.png"
+  },
+  {
+    "name": "Lepas",
+    "key": "lepas",
+    "url": "https://car2.autoimg.cn/cardfs/series/g33/M0B/7A/C2/autohomecar__ChxpVmnvQbeAdTsdAACqp6XayVY017.png",
+    "source": "https://www.autohome.com.cn/carlogo/690",
+    "asset": "assets/brand_logos/lepas.png"
+  },
+  {
+    "name": "Freelander",
+    "key": "freelander",
+    "url": "https://car3.autoimg.cn/cardfs/series/g33/M0A/BC/F9/autohomecar__Chto52nLc7aAC_vuAAByvfR0IAk932.png",
+    "source": "https://www.autohome.com.cn/carlogo/689",
+    "asset": "assets/brand_logos/freelander.png"
+  },
+  {
+    "name": "Scout",
+    "key": "scout",
+    "url": "https://car2.autoimg.cn/cardfs/series/g32/M08/22/F2/autohomecar__Chtk2WcbCteAPmmMAAAeFZOsciA966.png",
+    "source": "https://www.autohome.com.cn/carlogo/625",
+    "asset": "assets/brand_logos/scout.png"
+  },
+  {
+    "name": "Beijing Off-road",
+    "key": "beijing-off-road",
+    "url": "https://car3.autoimg.cn/cardfs/series/g31/M02/95/8C/autohomecar__ChxoHWgLQaSAG-9nAAH9T-YMof4352.png",
+    "source": "https://www.autohome.com.cn/carlogo/27",
+    "asset": "assets/brand_logos/beijing-off-road.png"
+  },
+  {
+    "name": "BAW",
+    "key": "baw",
+    "url": "https://car3.autoimg.cn/cardfs/series/g29/M07/C9/47/autohomecar__ChwFk2IEfjuAFJCQAAALhbiuJ7M541.png",
+    "source": "https://www.autohome.com.cn/carlogo/154",
+    "asset": "assets/brand_logos/baw.png"
+  },
+  {
+    "name": "212",
+    "key": "212",
+    "url": "https://car3.autoimg.cn/cardfs/series/g32/M01/1F/A5/autohomecar__ChxkPWaOXHOAPlD0AAAyP2DdhGQ208.png",
+    "source": "https://www.autohome.com.cn/carlogo/618",
+    "asset": "assets/brand_logos/212.png"
+  },
+  {
+    "name": "JAC Refine",
+    "key": "jac-refine",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M09/9E/7D/autohomecar__ChxkjmULpB2ALCsKAAAtX_-iYRQ628.png",
+    "source": "https://www.autohome.com.cn/carlogo/525",
+    "asset": "assets/brand_logos/jac-refine.png"
+  },
+  {
+    "name": "JAC Yiwei",
+    "key": "jac-yiwei",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M09/9E/7D/autohomecar__ChxkjmULpCiANnyqAAAvS6XSyNw161.png",
+    "source": "https://www.autohome.com.cn/carlogo/583",
+    "asset": "assets/brand_logos/jac-yiwei.png"
+  },
+  {
+    "name": "Yuanhang",
+    "key": "yuanhang",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M07/05/8D/autohomecar__ChtlxWUMAWuAPW0CAADy-DQH3W8108.png",
+    "source": "https://www.autohome.com.cn/carlogo/540",
+    "asset": "assets/brand_logos/yuanhang.png"
+  },
+  {
+    "name": "Jiangnan",
+    "key": "jiangnan",
+    "url": "https://car2.autoimg.cn/cardfs/series/g25/M0A/E7/89/autohomecar__ChtliGTCDoiAHjEVAAC-LMXyGrk496.png",
+    "source": "https://www.autohome.com.cn/carlogo/543",
+    "asset": "assets/brand_logos/jiangnan.png"
+  },
+  {
+    "name": "Yudo",
+    "key": "yudo",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M02/5D/DB/autohomecar__ChtlxWS-Hf2AN7DRAAB6wzlFC-o406.png",
+    "source": "https://www.autohome.com.cn/carlogo/286",
+    "asset": "assets/brand_logos/yudo.png"
+  },
+  {
+    "name": "Enranger",
+    "key": "enranger",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M09/04/EA/autohomecar__ChtlxWUL8muAE1osAAGifdspiQo349.png",
+    "source": "https://www.autohome.com.cn/carlogo/192",
+    "asset": "assets/brand_logos/enranger.png"
+  },
+  {
+    "name": "Lingbao",
+    "key": "lingbao",
+    "url": "https://car2.autoimg.cn/cardfs/series/g30/M01/A0/73/autohomecar__CjIFU2VkZk-Adh6lAADuiIGa3m0620.png",
+    "source": "https://www.autohome.com.cn/carlogo/420",
+    "asset": "assets/brand_logos/lingbao.png"
+  },
+  {
+    "name": "Zhidou",
+    "key": "zhidou",
+    "url": "https://car3.autoimg.cn/cardfs/series/g31/M04/98/51/autohomecar__ChxoHmYmD8qAOkCVAAB6pBEzDQA975.png",
+    "source": "https://www.autohome.com.cn/carlogo/206",
+    "asset": "assets/brand_logos/zhidou.png"
+  },
+  {
+    "name": "SWM",
+    "key": "swm",
+    "url": "https://car2.autoimg.cn/cardfs/series/g28/M08/08/39/autohomecar__CjIFVGUL8kCASB4SAABZrJXgylk594.png",
+    "source": "https://www.autohome.com.cn/carlogo/269",
+    "asset": "assets/brand_logos/swm.png"
+  },
+  {
+    "name": "LEVC",
+    "key": "levc",
+    "url": "https://car3.autoimg.cn/cardfs/series/g31/M01/42/50/autohomecar__ChxoHWXVYDWAZcEcAAArTt23ALY754.png",
+    "source": "https://www.autohome.com.cn/carlogo/320",
+    "asset": "assets/brand_logos/levc.png"
+  },
+  {
+    "name": "Everus",
+    "key": "everus",
+    "url": "https://car2.autoimg.cn/cardfs/series/g25/M01/E7/66/autohomecar__ChtliGTCBfqADUT2AALXlE3dxwA286.png",
+    "source": "https://www.autohome.com.cn/carlogo/124",
+    "asset": "assets/brand_logos/everus.png"
+  },
+  {
+    "name": "Lingxi",
+    "key": "lingxi",
+    "url": "https://car2.autoimg.cn/cardfs/series/g27/M07/78/68/autohomecar__ChtlxmUM9UKALgOFAACc8m1BJSc929.png",
+    "source": "https://www.autohome.com.cn/carlogo/598",
+    "asset": "assets/brand_logos/lingxi.png"
+  },
+  {
+    "name": "Chery New Energy",
+    "key": "chery-new-energy",
+    "url": "https://car2.autoimg.cn/cardfs/series/g28/M04/F6/73/autohomecar__CjIFVGTIoeeAM-7kAAD7cwoS4Kc807.png",
+    "source": "https://www.autohome.com.cn/carlogo/487",
+    "asset": "assets/brand_logos/chery-new-energy.png"
+  },
+  {
+    "name": "Jetour Shanhai",
+    "key": "jetour-shanhai",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M04/D0/FB/autohomecar__CjIFVmhJNFqAMqkNAAARbqQD4Kc626.png",
+    "source": "https://www.autohome.com.cn/carlogo/642",
+    "asset": "assets/brand_logos/jetour-shanhai.png"
+  },
+  {
+    "name": "Geometry",
+    "key": "geometry",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M07/AC/E9/autohomecar__ChxkjmUNeQKADWocAABCl2uGE5U089.png",
+    "source": "https://www.autohome.com.cn/carlogo/373",
+    "asset": "assets/brand_logos/geometry.png"
+  },
+  {
+    "name": "Oshan",
+    "key": "oshan",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M07/2D/E6/autohomecar__CjIFVmS-HdyAE3MSAAB8GvPTLiw599.png",
+    "source": "https://www.autohome.com.cn/carlogo/163",
+    "asset": "assets/brand_logos/oshan.png"
+  },
+  {
+    "name": "Pininfarina",
+    "key": "pininfarina",
+    "url": "https://car3.autoimg.cn/cardfs/series/g28/M06/35/03/autohomecar__ChxkmmTLOqyAQGTjAAFvzOhzEfY596.png",
+    "source": "https://www.autohome.com.cn/carlogo/257",
+    "asset": "assets/brand_logos/pininfarina.png"
+  },
+  {
+    "name": "Apollo",
+    "key": "apollo",
+    "url": "https://car3.autoimg.cn/cardfs/series/g25/M01/E2/A6/autohomecar__CjIFV2UJhLCAIkc3AAEBQFX8lgk107.png",
+    "source": "https://www.autohome.com.cn/carlogo/253",
+    "asset": "assets/brand_logos/apollo.png"
+  },
+  {
+    "name": "BAC",
+    "key": "bac",
+    "url": "https://car3.autoimg.cn/cardfs/series/g27/M09/88/37/autohomecar__ChxkmWUJhSCAOV3yAABJ405I6II090.png",
+    "source": "https://www.autohome.com.cn/carlogo/180",
+    "asset": "assets/brand_logos/bac.png"
+  },
+  {
+    "name": "Noble",
+    "key": "noble",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M04/F3/C9/autohomecar__CjIFVmSs_-aALxewAADujFn-HBE720.png",
+    "source": "https://www.autohome.com.cn/carlogo/136",
+    "asset": "assets/brand_logos/noble.png"
+  },
+  {
+    "name": "GMA",
+    "key": "gma",
+    "url": "https://car2.autoimg.cn/cardfs/series/g25/M01/92/14/autohomecar__ChxkqWUKm0yAOd6VAACLik03bnA280.png",
+    "source": "https://www.autohome.com.cn/carlogo/430",
+    "asset": "assets/brand_logos/gma.png"
+  },
+  {
+    "name": "Hennessey",
+    "key": "hennessey",
+    "url": "https://car2.autoimg.cn/cardfs/series/g24/M07/CF/27/autohomecar__Chtk3WSnq7OATj_SAAB2V7pAZmI051.png",
+    "source": "https://www.autohome.com.cn/carlogo/170",
+    "asset": "assets/brand_logos/hennessey.png"
+  },
+  {
+    "name": "SSC",
+    "key": "ssc",
+    "url": "https://car2.autoimg.cn/cardfs/series/g27/M08/61/7C/autohomecar__ChtlxmTIoISAF6GFAAGXCkU5nbM317.png",
+    "source": "https://www.autohome.com.cn/carlogo/138",
+    "asset": "assets/brand_logos/ssc.png"
+  },
+  {
+    "name": "Zenvo",
+    "key": "zenvo",
+    "url": "https://car2.autoimg.cn/cardfs/series/g30/M0A/14/C0/autohomecar__CjIFU2T_AGGAKQrNAAA2KzgX8nw104.png",
+    "source": "https://www.autohome.com.cn/carlogo/153",
+    "asset": "assets/brand_logos/zenvo.png"
+  },
+  {
+    "name": "Karma",
+    "key": "karma",
+    "url": "https://car3.autoimg.cn/cardfs/series/g24/M05/CF/31/autohomecar__Chtk3WSnrPKAUiEfAALoyIDhBdg871.png",
+    "source": "https://www.autohome.com.cn/carlogo/353",
+    "asset": "assets/brand_logos/karma.png"
+  },
+  {
+    "name": "Faraday Future",
+    "key": "faraday-future",
+    "url": "https://car3.autoimg.cn/cardfs/series/g24/M08/C3/D4/autohomecar__CjIFWGTLPIGACpB-AACDbJrhUFw825.png",
+    "source": "https://www.autohome.com.cn/carlogo/248",
+    "asset": "assets/brand_logos/faraday-future.png"
+  },
+  {
+    "name": "RUF",
+    "key": "ruf",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M01/31/5F/autohomecar__CjIFVmS_YPOAKDjPAABtnseTo4E619.png",
+    "source": "https://www.autohome.com.cn/carlogo/174",
+    "asset": "assets/brand_logos/ruf.png"
+  },
+  {
+    "name": "Wiesmann",
+    "key": "wiesmann",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M06/2E/4A/autohomecar__CjIFVmS-NsWAVYo6AAIJntP7ANQ619.png",
+    "source": "https://www.autohome.com.cn/carlogo/99",
+    "asset": "assets/brand_logos/wiesmann.png"
+  },
+  {
+    "name": "W Motors",
+    "key": "w-motors",
+    "url": "https://car3.autoimg.cn/cardfs/series/g25/M01/2E/43/autohomecar__ChxkqWStA4iAPzwnAAINvV8ZgSo691.png",
+    "source": "https://www.autohome.com.cn/carlogo/233",
+    "asset": "assets/brand_logos/w-motors.png"
+  },
+  {
+    "name": "Donkervoort",
+    "key": "donkervoort",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M05/A9/44/autohomecar__ChxkjmSnqTeAZwiVAAFKmzFKkb4665.png",
+    "source": "https://www.autohome.com.cn/carlogo/234",
+    "asset": "assets/brand_logos/donkervoort.png"
+  },
+  {
+    "name": "De Tomaso",
+    "key": "de-tomaso",
+    "url": "https://car2.autoimg.cn/cardfs/series/g25/M03/6D/4C/autohomecar__CjIFV2SnqQ2AdytAAABSuoqX2DE525.png",
+    "source": "https://www.autohome.com.cn/carlogo/380",
+    "asset": "assets/brand_logos/de-tomaso.png"
+  },
+  {
+    "name": "DeLorean",
+    "key": "delorean",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M0A/1D/0D/autohomecar__ChxkjmTIn52ATnqKAABU66skaSo576.png",
+    "source": "https://www.autohome.com.cn/carlogo/198",
+    "asset": "assets/brand_logos/delorean.png"
+  },
+  {
+    "name": "Ginetta",
+    "key": "ginetta",
+    "url": "https://car2.autoimg.cn/cardfs/series/g28/M02/83/D9/autohomecar__CjIFVGSnqziAIDJyAABUAOyeqxQ052.png",
+    "source": "https://www.autohome.com.cn/carlogo/365",
+    "asset": "assets/brand_logos/ginetta.png"
+  },
+  {
+    "name": "Rezvani",
+    "key": "rezvani",
+    "url": "https://car3.autoimg.cn/cardfs/series/g24/M00/0B/53/autohomecar__Chxky2StAOiAfce2AAB5LoyOWt8262.png",
+    "source": "https://www.autohome.com.cn/carlogo/239",
+    "asset": "assets/brand_logos/rezvani.png"
+  },
+  {
+    "name": "KTM",
+    "key": "ktm",
+    "url": "https://car3.autoimg.cn/cardfs/series/g25/M06/E0/A6/autohomecar__CjIFV2TIoZ-AdLHOAABRrgaUwWs059.png",
+    "source": "https://www.autohome.com.cn/carlogo/109",
+    "asset": "assets/brand_logos/ktm.png"
+  },
+  {
+    "name": "Praga",
+    "key": "praga",
+    "url": "https://car3.autoimg.cn/cardfs/series/g27/M05/D1/97/autohomecar__CjIFVWStABqAKA9fAACl-ZhXMGo556.png",
+    "source": "https://www.autohome.com.cn/carlogo/563",
+    "asset": "assets/brand_logos/praga.png"
+  },
+  {
+    "name": "Hummer",
+    "key": "hummer",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M0B/06/BA/autohomecar__ChxkjmTCOMGAIoRPAAAsfyvgdOc366.png",
+    "source": "https://www.autohome.com.cn/carlogo/43",
+    "asset": "assets/brand_logos/hummer.png"
+  },
+  {
+    "name": "Holden",
+    "key": "holden",
+    "url": "https://car2.autoimg.cn/cardfs/series/g28/M07/4B/36/autohomecar__Chtlx2TCDvCAbDCgAAFRpd0Qfik176.png",
+    "source": "https://www.autohome.com.cn/carlogo/240",
+    "asset": "assets/brand_logos/holden.png"
+  },
+  {
+    "name": "Datsun",
+    "key": "datsun",
+    "url": "https://car2.autoimg.cn/cardfs/series/g26/M0A/A8/C5/autohomecar__ChxkjmSnjYKABWXpAAIElL67pbo798.png",
+    "source": "https://www.autohome.com.cn/carlogo/217",
+    "asset": "assets/brand_logos/datsun.png"
+  },
+  {
+    "name": "Scion",
+    "key": "scion",
+    "url": "https://car2.autoimg.cn/cardfs/series/g24/M06/4D/31/autohomecar__Chtk3WTLPGaAJRrQAACXzdAqOno378.png",
+    "source": "https://www.autohome.com.cn/carlogo/137",
+    "asset": "assets/brand_logos/scion.png"
+  },
+  {
+    "name": "Weltmeister",
+    "key": "weltmeister",
+    "url": "https://car3.autoimg.cn/cardfs/series/g25/M08/DC/10/autohomecar__ChtliGS-NtyAILfoAACw7xHUIEM002.png",
+    "source": "https://www.autohome.com.cn/carlogo/291",
+    "asset": "assets/brand_logos/weltmeister.png"
+  },
+  {
+    "name": "Qoros",
+    "key": "qoros",
+    "url": "https://car3.autoimg.cn/cardfs/series/g25/M08/E8/44/autohomecar__ChtliGTCOXmAExoHAACsAyuV5Og658.png",
+    "source": "https://www.autohome.com.cn/carlogo/152",
+    "asset": "assets/brand_logos/qoros.png"
+  },
+  {
+    "name": "Hawtai",
+    "key": "hawtai",
+    "url": "https://car2.autoimg.cn/cardfs/series/g24/M0A/A2/76/autohomecar__CjIFWGTCDzSAUcM0AAGLQU61lIQ390.png",
+    "source": "https://www.autohome.com.cn/carlogo/87",
+    "asset": "assets/brand_logos/hawtai.png"
+  },
+  {
+    "name": "Leopaard",
+    "key": "leopaard",
+    "url": "https://car2.autoimg.cn/cardfs/series/g27/M06/49/83/autohomecar__ChtlxmTCBZyAS-OGAAGIWGszwc4862.png",
+    "source": "https://www.autohome.com.cn/carlogo/78",
+    "asset": "assets/brand_logos/leopaard.png"
+  },
+  {
+    "name": "Landwind",
+    "key": "landwind",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M0A/05/EF/autohomecar__ChxkjmTCBR6AQU4-AALDXrkCKTM004.png",
+    "source": "https://www.autohome.com.cn/carlogo/88",
+    "asset": "assets/brand_logos/landwind.png"
+  },
+  {
+    "name": "Hafei",
+    "key": "hafei",
+    "url": "https://car2.autoimg.cn/cardfs/series/g27/M0A/4A/6D/autohomecar__ChtlxmTCOSCAA46EAAGicbotpUk066.png",
+    "source": "https://www.autohome.com.cn/carlogo/24",
+    "asset": "assets/brand_logos/hafei.png"
+  },
+  {
+    "name": "Hengchi",
+    "key": "hengchi",
+    "url": "https://car2.autoimg.cn/cardfs/series/g27/M01/4A/6D/autohomecar__ChtlxmTCOKGAc-8CAARiGirS3bQ007.png",
+    "source": "https://www.autohome.com.cn/carlogo/428",
+    "asset": "assets/brand_logos/hengchi.png"
+  },
+  {
+    "name": "Hanteng",
+    "key": "hanteng",
+    "url": "https://car2.autoimg.cn/cardfs/series/g24/M01/51/6D/autohomecar__Chxky2TCOM6AKQ8eAAUwAkJW6nY369.png",
+    "source": "https://www.autohome.com.cn/carlogo/267",
+    "asset": "assets/brand_logos/hanteng.png"
+  },
+  {
+    "name": "Enovate",
+    "key": "enovate",
+    "url": "https://car2.autoimg.cn/cardfs/series/g28/M07/D3/F9/autohomecar__CjIFVGS-NyeAflQfAABmEyJlQH0925.png",
+    "source": "https://www.autohome.com.cn/carlogo/339",
+    "asset": "assets/brand_logos/enovate.png"
+  },
+  {
+    "name": "Zinoro",
+    "key": "zinoro",
+    "url": "https://car3.autoimg.cn/cardfs/series/g26/M04/5A/D8/autohomecar__CjIFVmTLPUeAELyxAAObGZCydRM033.png",
+    "source": "https://www.autohome.com.cn/carlogo/182",
+    "asset": "assets/brand_logos/zinoro.png"
+  },
+  {
+    "name": "Sehol",
+    "key": "sehol",
+    "url": "https://car3.autoimg.cn/cardfs/series/g24/M00/20/57/autohomecar__Chtk3WS-PeiAZHuPAAJylL1SPIs314.png",
+    "source": "https://www.autohome.com.cn/carlogo/330",
+    "asset": "assets/brand_logos/sehol.png"
+  }
+]
