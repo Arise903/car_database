@@ -1271,9 +1271,9 @@
       "sha256": "5332097edbd45c3b1affc80ea776f7908cc602b2b350ca9846b0f07ee5bd83e7"
     },
     "assets/car_cutouts/c101aad7b30cd8c6.webp": {
-      "bytes": 62212,
-      "object": "objects/71204aec4f6f75a4f566f1b9233faa96ccffaa1749d29945cd032f4b55c45265.webp",
-      "sha256": "71204aec4f6f75a4f566f1b9233faa96ccffaa1749d29945cd032f4b55c45265"
+      "bytes": 101475,
+      "object": "objects/576c76d7db4137566ba34e7572c65a289ab01d5c7d39987c4a6b9dc6253083f0.png",
+      "sha256": "576c76d7db4137566ba34e7572c65a289ab01d5c7d39987c4a6b9dc6253083f0"
     },
     "assets/car_cutouts/c46d4e7c48cae719.webp": {
       "bytes": 449356,
@@ -1476,9 +1476,9 @@
       "sha256": "7d5e542e4a8b727cee891cadd2ea13b1edc3b42186ec58098c3109184f8a4330"
     },
     "assets/car_database/images/Aion~autohome~4255.webp": {
-      "bytes": 21732,
-      "object": "objects/547c27c3230670a7a501a050d2452096d25b4f43c3bce5c52493e39ca3522c06.webp",
-      "sha256": "547c27c3230670a7a501a050d2452096d25b4f43c3bce5c52493e39ca3522c06"
+      "bytes": 103856,
+      "object": "objects/16c239e17d1ab613724f6a598494ec143e36b0275a785c46956675c672448173.png",
+      "sha256": "16c239e17d1ab613724f6a598494ec143e36b0275a785c46956675c672448173"
     },
     "assets/car_database/images/Aion~autohome~4291.webp": {
       "bytes": 21544,
@@ -1501,9 +1501,9 @@
       "sha256": "2f5821ba4a953355ad8c0983ade13c7ab04cbde706d333d44e848bfb2c20934a"
     },
     "assets/car_database/images/Aion~autohome~5976.webp": {
-      "bytes": 22760,
-      "object": "objects/42680237af1ef69eee815a614f80c23d61242ce87b786cbe5589ed770addf9ea.webp",
-      "sha256": "42680237af1ef69eee815a614f80c23d61242ce87b786cbe5589ed770addf9ea"
+      "bytes": 104774,
+      "object": "objects/00c591a729df799d0c8ad626afdd79847a22c9aeca710ce79c0b1ad8d105d1d4.png",
+      "sha256": "00c591a729df799d0c8ad626afdd79847a22c9aeca710ce79c0b1ad8d105d1d4"
     },
     "assets/car_database/images/Aion~autohome~6619.webp": {
       "bytes": 17854,
@@ -1521,9 +1521,9 @@
       "sha256": "f597cdd68525733da69fdef3ce6899d56be24142a0c1934d2c7766e5f3822c7e"
     },
     "assets/car_database/images/Aion~autohome~7918.webp": {
-      "bytes": 19472,
-      "object": "objects/7ac406027b90f47e54dada511b51c88518bb91f6f425a35b9d63e1fdf7df9291.webp",
-      "sha256": "7ac406027b90f47e54dada511b51c88518bb91f6f425a35b9d63e1fdf7df9291"
+      "bytes": 78825,
+      "object": "objects/cb48173c8ecedd07e0b9830608189507134b93133920acbc92a9c366d67ca544.png",
+      "sha256": "cb48173c8ecedd07e0b9830608189507134b93133920acbc92a9c366d67ca544"
     },
     "assets/car_database/images/Aion~autohome~8245.webp": {
       "bytes": 23804,
@@ -1556,14 +1556,14 @@
       "sha256": "2c0f406893f0b1f3d19ffb7301b008221d68548f0405ecf3b3156aedb2c192fc"
     },
     "assets/car_database/images/Aiways~autohome~4769.webp": {
-      "bytes": 19884,
-      "object": "objects/0707d386a632c6d03a84ce2b9ba901dda08ce8ea08297aa0b6b64965de249959.webp",
-      "sha256": "0707d386a632c6d03a84ce2b9ba901dda08ce8ea08297aa0b6b64965de249959"
+      "bytes": 95884,
+      "object": "objects/df32769f6e9cc7f8f2c09c6cc86fd37d6bca1dfc03f9d1e9d567587ea4c70a1c.png",
+      "sha256": "df32769f6e9cc7f8f2c09c6cc86fd37d6bca1dfc03f9d1e9d567587ea4c70a1c"
     },
     "assets/car_database/images/Aiways~autohome~5642.webp": {
-      "bytes": 18310,
-      "object": "objects/b118e5e2da32f41d3be20cbb8a2bb1a79b8d375e76edfe384f1c27ff91997529.webp",
-      "sha256": "b118e5e2da32f41d3be20cbb8a2bb1a79b8d375e76edfe384f1c27ff91997529"
+      "bytes": 86661,
+      "object": "objects/7f91e49ce01a2d127f04bde92ea81e332ed4d7438e1f66d37a53d727a0e7bd4a.png",
+      "sha256": "7f91e49ce01a2d127f04bde92ea81e332ed4d7438e1f66d37a53d727a0e7bd4a"
     },
     "assets/car_database/images/Alfa Romeo~4C~2e19fb8094c863dac827630084cb3a9d.webp": {
       "bytes": 26428,
@@ -1621,9 +1621,9 @@
       "sha256": "bfa5c7a46d86fc911ccb53db126a58dfed78c21ded6472621866711fa8403e6a"
     },
     "assets/car_database/images/Alpina~autohome~4212.webp": {
-      "bytes": 25612,
-      "object": "objects/d3e15327ff9e932d9c5f2b984e213555dff1894319a1815a7c4d0bb7c427f187.webp",
-      "sha256": "d3e15327ff9e932d9c5f2b984e213555dff1894319a1815a7c4d0bb7c427f187"
+      "bytes": 114475,
+      "object": "objects/12bbe454163accb45df84677db6673155724fa797f1c3bb1a2889bdc4cedf837.png",
+      "sha256": "12bbe454163accb45df84677db6673155724fa797f1c3bb1a2889bdc4cedf837"
     },
     "assets/car_database/images/Alpine~A110~969c13acc24d83ae83d4923a0248644b.webp": {
       "bytes": 26346,
@@ -1641,9 +1641,9 @@
       "sha256": "a230e285bacfbf8d3862f326a29fe6b1180fc9d5552b5552290746a8d10631f9"
     },
     "assets/car_database/images/Arcfox~autohome~8086.webp": {
-      "bytes": 18424,
-      "object": "objects/c76f9067d67baf53e081fc9ce28bb09c7ccf04d6b57ca581d299b57f32d4101f.webp",
-      "sha256": "c76f9067d67baf53e081fc9ce28bb09c7ccf04d6b57ca581d299b57f32d4101f"
+      "bytes": 88242,
+      "object": "objects/29213d0a07046efba951f1ec29fa64e6f540cce20b21cfcbb3ca866e1c1bc72b.png",
+      "sha256": "29213d0a07046efba951f1ec29fa64e6f540cce20b21cfcbb3ca866e1c1bc72b"
     },
     "assets/car_database/images/Arcfox~autohome~8190.webp": {
       "bytes": 15282,
@@ -1696,9 +1696,9 @@
       "sha256": "5f9ca3764da6fa6217323f46e4d178cde0d870af297b7289dbeeb19766c8077c"
     },
     "assets/car_database/images/Audi Wordmark~autohome~7925.webp": {
-      "bytes": 15376,
-      "object": "objects/167a681da2ef828e4fb5ed7090f25f3a6c2381f3a3449d9a3492e0297a00e222.webp",
-      "sha256": "167a681da2ef828e4fb5ed7090f25f3a6c2381f3a3449d9a3492e0297a00e222"
+      "bytes": 71964,
+      "object": "objects/6eea751981a2ce40c2ae3ad425ca1b842108c91d2b3b2f992d3d000375aefe82.png",
+      "sha256": "6eea751981a2ce40c2ae3ad425ca1b842108c91d2b3b2f992d3d000375aefe82"
     },
     "assets/car_database/images/Audi Wordmark~autohome~8449.webp": {
       "bytes": 14226,
@@ -2276,9 +2276,9 @@
       "sha256": "f742f0abc001e3d72192e3ae6c05f99998cdf941bec135bcf6bbe6c15059f817"
     },
     "assets/car_database/images/BAIC BJEV~autohome~3884.webp": {
-      "bytes": 23628,
-      "object": "objects/13f99be1096163fdb8fc9893fab473f3279edc67433874cf46d94375869a4511.webp",
-      "sha256": "13f99be1096163fdb8fc9893fab473f3279edc67433874cf46d94375869a4511"
+      "bytes": 109577,
+      "object": "objects/4a5865827f9659509cfa3deba0f9929ece98a3bb24f4f9329b70f0fdc1ca0251.png",
+      "sha256": "4a5865827f9659509cfa3deba0f9929ece98a3bb24f4f9329b70f0fdc1ca0251"
     },
     "assets/car_database/images/BAIC BJEV~autohome~4015.webp": {
       "bytes": 27628,
@@ -2316,9 +2316,9 @@
       "sha256": "fb30d00ec27f2764f52498daf47b71c000137b97e4df098c265e3dba7390c928"
     },
     "assets/car_database/images/BAIC~autohome~2791.webp": {
-      "bytes": 20118,
-      "object": "objects/d78498ee5c6a656464a1a5068765c0c39c906a2ac4ee640545030d058b50e1f3.webp",
-      "sha256": "d78498ee5c6a656464a1a5068765c0c39c906a2ac4ee640545030d058b50e1f3"
+      "bytes": 89811,
+      "object": "objects/3574fecf13a7eb6a5ff8b293bf10ecdedab6a0f88ba036838095e63f46e3b38d.png",
+      "sha256": "3574fecf13a7eb6a5ff8b293bf10ecdedab6a0f88ba036838095e63f46e3b38d"
     },
     "assets/car_database/images/BAIC~autohome~3417.webp": {
       "bytes": 19642,
@@ -2341,9 +2341,9 @@
       "sha256": "5f2bf7d5b379d16428b47e5f8d448e4568d6ee681684b73462df641e9301e00a"
     },
     "assets/car_database/images/BAIC~autohome~3794.webp": {
-      "bytes": 22112,
-      "object": "objects/e330d17f0bff8d01276ba552b14e91d0bb02c52abcc8156e53481d2d2d481fe3.webp",
-      "sha256": "e330d17f0bff8d01276ba552b14e91d0bb02c52abcc8156e53481d2d2d481fe3"
+      "bytes": 100820,
+      "object": "objects/ec445b51763b061b8f7883d13f7495e39887294ba2dd00ff6a32f0a5f0c98f5c.png",
+      "sha256": "ec445b51763b061b8f7883d13f7495e39887294ba2dd00ff6a32f0a5f0c98f5c"
     },
     "assets/car_database/images/BAIC~autohome~3795.webp": {
       "bytes": 20930,
@@ -2416,9 +2416,9 @@
       "sha256": "724caafb0289c1e954dda5a7ea82063f3d5c42ddffdc8f308d24b76acb185f55"
     },
     "assets/car_database/images/BAIC~autohome~6172.webp": {
-      "bytes": 17740,
-      "object": "objects/77e3f9ac62af6dcc61bfa2cb3dc5760fd20ec5527f8d3698464cb4609992368d.webp",
-      "sha256": "77e3f9ac62af6dcc61bfa2cb3dc5760fd20ec5527f8d3698464cb4609992368d"
+      "bytes": 66930,
+      "object": "objects/f333ec8355de6efed8a8f3e6f102b8b6da8bb9286294935315b7f0a88995822e.png",
+      "sha256": "f333ec8355de6efed8a8f3e6f102b8b6da8bb9286294935315b7f0a88995822e"
     },
     "assets/car_database/images/BAIC~autohome~6173.webp": {
       "bytes": 19592,
@@ -3021,9 +3021,9 @@
       "sha256": "eb46e6b53f207b7470e57831e909024c023ada03173beb2b7b458d3ba0d273a5"
     },
     "assets/car_database/images/Baojun~autohome~155.webp": {
-      "bytes": 28874,
-      "object": "objects/ec03df992c6e68195bc3050316f81c23ad459c9c66c283fe105e52b8c80f80af.webp",
-      "sha256": "ec03df992c6e68195bc3050316f81c23ad459c9c66c283fe105e52b8c80f80af"
+      "bytes": 143607,
+      "object": "objects/287e877f2a575dd06cc4572256487ebc7c4e391a3872e8ed114517288c768e7d.png",
+      "sha256": "287e877f2a575dd06cc4572256487ebc7c4e391a3872e8ed114517288c768e7d"
     },
     "assets/car_database/images/Baojun~autohome~2236.webp": {
       "bytes": 21506,
@@ -3046,9 +3046,9 @@
       "sha256": "78c50099b99c2b39897b5a86244b07f31463b3bd8973c6c2705bfa7fd3df0358"
     },
     "assets/car_database/images/Baojun~autohome~3774.webp": {
-      "bytes": 23204,
-      "object": "objects/f3da1ceb9e04cd11b30ebdae4cd3619e2d1b1529dc55e9f209a67ef28e4c6ab9.webp",
-      "sha256": "f3da1ceb9e04cd11b30ebdae4cd3619e2d1b1529dc55e9f209a67ef28e4c6ab9"
+      "bytes": 108141,
+      "object": "objects/c4f9a22c61644e9b7a11854384812467a8104b84d3785d868441e927bd025f6c.png",
+      "sha256": "c4f9a22c61644e9b7a11854384812467a8104b84d3785d868441e927bd025f6c"
     },
     "assets/car_database/images/Baojun~autohome~3993.webp": {
       "bytes": 22122,
@@ -3056,9 +3056,9 @@
       "sha256": "65ba6987f510c55d5bb739c6c93fbcbcbf7c7f37340940f6917792a38fcc7d7c"
     },
     "assets/car_database/images/Baojun~autohome~4077.webp": {
-      "bytes": 21508,
-      "object": "objects/f955603c648aae26946599c7648e2e396deb15b380978fa0a35721cda440631f.webp",
-      "sha256": "f955603c648aae26946599c7648e2e396deb15b380978fa0a35721cda440631f"
+      "bytes": 97718,
+      "object": "objects/ede64d1eafa8401b021ebc71dbe2ccd1b0a6ce3423eeb8b75a095001886091d3.png",
+      "sha256": "ede64d1eafa8401b021ebc71dbe2ccd1b0a6ce3423eeb8b75a095001886091d3"
     },
     "assets/car_database/images/Baojun~autohome~4166.webp": {
       "bytes": 24836,
@@ -3116,9 +3116,9 @@
       "sha256": "f44cd1e0fb9b3179458a0749f0e2170ddf6d8a38316705fda6bd0b80a87fa392"
     },
     "assets/car_database/images/Baojun~autohome~6053.webp": {
-      "bytes": 21014,
-      "object": "objects/27287de3eab0e20254a4feb5ae05e9b9049c7d2b38ad5d37f17bb6f3813a2af0.webp",
-      "sha256": "27287de3eab0e20254a4feb5ae05e9b9049c7d2b38ad5d37f17bb6f3813a2af0"
+      "bytes": 99497,
+      "object": "objects/72c8a629ebc675ab92628d4ff9c5bd5d6eacf0ce28eea848ae4225b9f7f4d1e4.png",
+      "sha256": "72c8a629ebc675ab92628d4ff9c5bd5d6eacf0ce28eea848ae4225b9f7f4d1e4"
     },
     "assets/car_database/images/Baojun~autohome~6155.webp": {
       "bytes": 18676,
@@ -3196,14 +3196,14 @@
       "sha256": "865d833adc1cef152ae93fc64d0a95146e002a31e8a80ef24797484192365ce8"
     },
     "assets/car_database/images/Bestune~autohome~8109.webp": {
-      "bytes": 17832,
-      "object": "objects/18087568c8f26cc0c57604edf10e867faf24c66bd7d3ebc7bbee3b13e6698bc7.webp",
-      "sha256": "18087568c8f26cc0c57604edf10e867faf24c66bd7d3ebc7bbee3b13e6698bc7"
+      "bytes": 80484,
+      "object": "objects/2cd26221c2a62e4e25c928894e9bd73ee90a86010e24b57128cc950cef69c4c9.png",
+      "sha256": "2cd26221c2a62e4e25c928894e9bd73ee90a86010e24b57128cc950cef69c4c9"
     },
     "assets/car_database/images/Borgward~autohome~3913.webp": {
-      "bytes": 24280,
-      "object": "objects/68f065da697323213ca9fd449beb08041ab940316bc74f42f36b7bf0e114001e.webp",
-      "sha256": "68f065da697323213ca9fd449beb08041ab940316bc74f42f36b7bf0e114001e"
+      "bytes": 115856,
+      "object": "objects/5868cc9f797770c1db5d23e53d0f662eafd092b5c62a204f2ec3de7448793023.png",
+      "sha256": "5868cc9f797770c1db5d23e53d0f662eafd092b5c62a204f2ec3de7448793023"
     },
     "assets/car_database/images/Borgward~autohome~4046.webp": {
       "bytes": 24728,
@@ -3266,9 +3266,9 @@
       "sha256": "07b4d5dcedb0c19b8b679a25d4bf8b381dcb75207aa0f0d82e2d72f83a32c616"
     },
     "assets/car_database/images/Brilliance~autohome~2998.webp": {
-      "bytes": 26392,
-      "object": "objects/8efb79e9e879a8a4d1ad56b7e5f71f870982e91967d3afb271f2423b34a72e01.webp",
-      "sha256": "8efb79e9e879a8a4d1ad56b7e5f71f870982e91967d3afb271f2423b34a72e01"
+      "bytes": 127132,
+      "object": "objects/c6220c9f13c48b7eec39198f1ddfd934b1001b42eee85b592ed1abb8707238ad.png",
+      "sha256": "c6220c9f13c48b7eec39198f1ddfd934b1001b42eee85b592ed1abb8707238ad"
     },
     "assets/car_database/images/Brilliance~autohome~2999.webp": {
       "bytes": 24554,
@@ -3281,9 +3281,9 @@
       "sha256": "070867ff7c317838d076b02fa6b324a0e17e39d5f9d88eef79ffda05fd5a0aaa"
     },
     "assets/car_database/images/Brilliance~autohome~3530.webp": {
-      "bytes": 24578,
-      "object": "objects/f93f95fae552fcb17a47b197711389770b64dcb8dd71f4ab88a951f9b4326dfb.webp",
-      "sha256": "f93f95fae552fcb17a47b197711389770b64dcb8dd71f4ab88a951f9b4326dfb"
+      "bytes": 111501,
+      "object": "objects/9952b3be04b198f07f6a445e69791deaabae95742ffc14e39638ea04d48b0166.png",
+      "sha256": "9952b3be04b198f07f6a445e69791deaabae95742ffc14e39638ea04d48b0166"
     },
     "assets/car_database/images/Brilliance~autohome~3878.webp": {
       "bytes": 22956,
@@ -3296,9 +3296,9 @@
       "sha256": "512ee10996a6cc7ba1e6188e2dcc6fb3035ec468f4c441810a445afa536f3c22"
     },
     "assets/car_database/images/Brilliance~autohome~4309.webp": {
-      "bytes": 27370,
-      "object": "objects/05f9e36dfaa396f2d284bc41ba13fc132acc099099d7c40f8b0711f6716d40cc.webp",
-      "sha256": "05f9e36dfaa396f2d284bc41ba13fc132acc099099d7c40f8b0711f6716d40cc"
+      "bytes": 106525,
+      "object": "objects/0fa64f7940473fac5faa14c8cc7ff37dc402cf77c344838cc073b5f7880ab2a5.png",
+      "sha256": "0fa64f7940473fac5faa14c8cc7ff37dc402cf77c344838cc073b5f7880ab2a5"
     },
     "assets/car_database/images/Brilliance~autohome~4498.webp": {
       "bytes": 22526,
@@ -3306,9 +3306,9 @@
       "sha256": "aa5565a1df7aec6cd407c8b361211b903ab846496557058ceed054c02f5c83c7"
     },
     "assets/car_database/images/Brilliance~autohome~4503.webp": {
-      "bytes": 23920,
-      "object": "objects/d6999147bf484cf94e1d9ed5faea93b456979dc0294d46e4276bcfb2359c7557.webp",
-      "sha256": "d6999147bf484cf94e1d9ed5faea93b456979dc0294d46e4276bcfb2359c7557"
+      "bytes": 116400,
+      "object": "objects/c4704c316d6601e9067c759ae92bbf3b5f849d24850dccb6974d806688711965.png",
+      "sha256": "c4704c316d6601e9067c759ae92bbf3b5f849d24850dccb6974d806688711965"
     },
     "assets/car_database/images/Brilliance~autohome~490.webp": {
       "bytes": 22792,
@@ -3321,9 +3321,9 @@
       "sha256": "d453b26ffaadfdfd523aea4f9ad08cbb1ff96629d182cce9fba4c74321caac1a"
     },
     "assets/car_database/images/Brilliance~autohome~825.webp": {
-      "bytes": 23150,
-      "object": "objects/13c5a7d0c8a5718057b6ca9552adbc6d24a336284682f71230aa346357b1fdbb.webp",
-      "sha256": "13c5a7d0c8a5718057b6ca9552adbc6d24a336284682f71230aa346357b1fdbb"
+      "bytes": 110238,
+      "object": "objects/b2f0cf393f3b70800240087c9f02f5e231c516af054481997a702bf642efb699.png",
+      "sha256": "b2f0cf393f3b70800240087c9f02f5e231c516af054481997a702bf642efb699"
     },
     "assets/car_database/images/Brilliance~autohome~860.webp": {
       "bytes": 25788,
@@ -3616,9 +3616,9 @@
       "sha256": "fb3911fcc9d724b0f7c1cf5fa1eeca4ea9748f9ab3abfa363402bd79b9bc138b"
     },
     "assets/car_database/images/Changan Qiyuan~autohome~8140.webp": {
-      "bytes": 20664,
-      "object": "objects/89c9d9261e5bddc24c9cfb2461097bd88899b9d0715ceec6988a5e34a0c6fb1f.webp",
-      "sha256": "89c9d9261e5bddc24c9cfb2461097bd88899b9d0715ceec6988a5e34a0c6fb1f"
+      "bytes": 88733,
+      "object": "objects/bed093038b09beb431706ab4aad88423b441078f6dc09317a7993f860b35903a.png",
+      "sha256": "bed093038b09beb431706ab4aad88423b441078f6dc09317a7993f860b35903a"
     },
     "assets/car_database/images/Changan Qiyuan~autohome~8732.webp": {
       "bytes": 15462,
@@ -3636,14 +3636,14 @@
       "sha256": "f8fcf872aaf6375ef785628748a198f77ae086e2b60f63efaaa260f0f534b0fc"
     },
     "assets/car_database/images/Changan~autohome~2046.webp": {
-      "bytes": 26812,
-      "object": "objects/384fa5fb3771e50b1e8b07148cde99d29526f391291f5909a2a81a6b1c037b9b.webp",
-      "sha256": "384fa5fb3771e50b1e8b07148cde99d29526f391291f5909a2a81a6b1c037b9b"
+      "bytes": 132573,
+      "object": "objects/c2e70ea6fac3fcf5a42a2d3820808e3b48b278021ebf0740ebbadaf5a2e226ff.png",
+      "sha256": "c2e70ea6fac3fcf5a42a2d3820808e3b48b278021ebf0740ebbadaf5a2e226ff"
     },
     "assets/car_database/images/Changan~autohome~2119.webp": {
-      "bytes": 27270,
-      "object": "objects/46d485ec5c4258c01552b085f7aaa3c129722eb1ca44561583ddb98fd4f9970a.webp",
-      "sha256": "46d485ec5c4258c01552b085f7aaa3c129722eb1ca44561583ddb98fd4f9970a"
+      "bytes": 133879,
+      "object": "objects/555bfd8ca8c53f283e16f087c5e39179afe16fa9a68cd504b9f95e09690fda66.png",
+      "sha256": "555bfd8ca8c53f283e16f087c5e39179afe16fa9a68cd504b9f95e09690fda66"
     },
     "assets/car_database/images/Changan~autohome~2429.webp": {
       "bytes": 18994,
@@ -3656,9 +3656,9 @@
       "sha256": "e60f430acdb66bac52ec3ceb7326a1b6371eac3cf6f18efa6a9c4e267bf0be6f"
     },
     "assets/car_database/images/Changan~autohome~2778.webp": {
-      "bytes": 22454,
-      "object": "objects/a58f9a9d2a5a6f434e34b9b16ad67b93d82bca33a217d2ec6a5a28a2e9e6344b.webp",
-      "sha256": "a58f9a9d2a5a6f434e34b9b16ad67b93d82bca33a217d2ec6a5a28a2e9e6344b"
+      "bytes": 105260,
+      "object": "objects/61ba6c03ccc7633913887986a741ad7f739e7cfb1e70c46770947e2b454b7099.png",
+      "sha256": "61ba6c03ccc7633913887986a741ad7f739e7cfb1e70c46770947e2b454b7099"
     },
     "assets/car_database/images/Changan~autohome~2785.webp": {
       "bytes": 15748,
@@ -3666,9 +3666,9 @@
       "sha256": "6bd81bb37217e8c7c51e522a1caea31d96cfd82e90419e357932ab09d203a1be"
     },
     "assets/car_database/images/Changan~autohome~2788.webp": {
-      "bytes": 25956,
-      "object": "objects/3cfd3098363f24854bbabb707bfc7c8af5091c7298bdd28b91dc57657e4adbdc.webp",
-      "sha256": "3cfd3098363f24854bbabb707bfc7c8af5091c7298bdd28b91dc57657e4adbdc"
+      "bytes": 125083,
+      "object": "objects/e55d31f14f08166277f4c166ab2166573e4d728c5e1b1347ac6123a7b3640358.png",
+      "sha256": "e55d31f14f08166277f4c166ab2166573e4d728c5e1b1347ac6123a7b3640358"
     },
     "assets/car_database/images/Changan~autohome~3121.webp": {
       "bytes": 22130,
@@ -3696,9 +3696,9 @@
       "sha256": "0702bc27007524f50270c757b093624f0480a626fda3021f44ff6609d4a0279a"
     },
     "assets/car_database/images/Changan~autohome~3924.webp": {
-      "bytes": 29680,
-      "object": "objects/a6dcb76fc05163fb5ffa86e1799d46acbb3f5c863d8226066186d09832f25116.webp",
-      "sha256": "a6dcb76fc05163fb5ffa86e1799d46acbb3f5c863d8226066186d09832f25116"
+      "bytes": 139171,
+      "object": "objects/3427efbe5a16c2afab33aee0e77234a8828fde4e94488c104e932ec60b3808e7.png",
+      "sha256": "3427efbe5a16c2afab33aee0e77234a8828fde4e94488c104e932ec60b3808e7"
     },
     "assets/car_database/images/Changan~autohome~4242.webp": {
       "bytes": 26474,
@@ -3706,14 +3706,14 @@
       "sha256": "44d350bbfe7fa16aceb0a57769999250bff64c68806f995b7545db772ea9eb7c"
     },
     "assets/car_database/images/Changan~autohome~4269.webp": {
-      "bytes": 24384,
-      "object": "objects/fc23cb38ba7bdaa0e12fdf45e378569a92c2cd875badbb16c1cc853d3716060f.webp",
-      "sha256": "fc23cb38ba7bdaa0e12fdf45e378569a92c2cd875badbb16c1cc853d3716060f"
+      "bytes": 113645,
+      "object": "objects/27177930be4ddf95203d64a766e18cebc8aa8dfdd20d658e73910181e7b99975.png",
+      "sha256": "27177930be4ddf95203d64a766e18cebc8aa8dfdd20d658e73910181e7b99975"
     },
     "assets/car_database/images/Changan~autohome~4343.webp": {
-      "bytes": 18304,
-      "object": "objects/fda56176b15865a86811801a845cc30acde7431ae90e7ede886f61f53b4c0d38.webp",
-      "sha256": "fda56176b15865a86811801a845cc30acde7431ae90e7ede886f61f53b4c0d38"
+      "bytes": 82254,
+      "object": "objects/f7307077f60e52295531633e0566445c3d6ef53950a8b894fd5aa951c514f7c7.png",
+      "sha256": "f7307077f60e52295531633e0566445c3d6ef53950a8b894fd5aa951c514f7c7"
     },
     "assets/car_database/images/Changan~autohome~4380.webp": {
       "bytes": 19942,
@@ -3731,19 +3731,19 @@
       "sha256": "484ace5e6601f0c2f15e94ff982f4e57f9fecb76869cdf6b89babe5de3960bfd"
     },
     "assets/car_database/images/Changan~autohome~4741.webp": {
-      "bytes": 26740,
-      "object": "objects/92010d3a13355c301e756e8916b236b79be7b8a2f82097eab838a6d6684df2e8.webp",
-      "sha256": "92010d3a13355c301e756e8916b236b79be7b8a2f82097eab838a6d6684df2e8"
+      "bytes": 124534,
+      "object": "objects/ad5ae6faa53988c765effb741ff8d6beb8defdd695ffccb4ff24b7249160666e.png",
+      "sha256": "ad5ae6faa53988c765effb741ff8d6beb8defdd695ffccb4ff24b7249160666e"
     },
     "assets/car_database/images/Changan~autohome~484.webp": {
-      "bytes": 31252,
-      "object": "objects/06f862b42f0f65f1522b69507ff0f67d2ad663f2ece06da17920b62e56ca2e6e.webp",
-      "sha256": "06f862b42f0f65f1522b69507ff0f67d2ad663f2ece06da17920b62e56ca2e6e"
+      "bytes": 151838,
+      "object": "objects/a65c78ea2d1777f453fad526dfe6e0f9da686415456fc3c1f989731d5b1464d0.png",
+      "sha256": "a65c78ea2d1777f453fad526dfe6e0f9da686415456fc3c1f989731d5b1464d0"
     },
     "assets/car_database/images/Changan~autohome~4885.webp": {
-      "bytes": 22038,
-      "object": "objects/e6eaa3accfb77cfb510fb064e825b795f771f5f0e2840e5bb718ba089151e601.webp",
-      "sha256": "e6eaa3accfb77cfb510fb064e825b795f771f5f0e2840e5bb718ba089151e601"
+      "bytes": 109067,
+      "object": "objects/999c02845e9b8e2c0ce7a7199f26abe4a404b5feaca972ca69465c5ddb53b852.png",
+      "sha256": "999c02845e9b8e2c0ce7a7199f26abe4a404b5feaca972ca69465c5ddb53b852"
     },
     "assets/car_database/images/Changan~autohome~4913.webp": {
       "bytes": 25462,
@@ -3761,9 +3761,9 @@
       "sha256": "6c2137042299e3b601d6d711b19294b2d36f975efb184d991519838397403abb"
     },
     "assets/car_database/images/Changan~autohome~5179.webp": {
-      "bytes": 21678,
-      "object": "objects/ac2d30412f8e272f26a93d067a94648b8751b8bde35c84397ee3beb30ee002ec.webp",
-      "sha256": "ac2d30412f8e272f26a93d067a94648b8751b8bde35c84397ee3beb30ee002ec"
+      "bytes": 97021,
+      "object": "objects/dc2c36404d0fb35008eb629ec76aa1946ace52e01cbc7fff97c283f608dcc0ec.png",
+      "sha256": "dc2c36404d0fb35008eb629ec76aa1946ace52e01cbc7fff97c283f608dcc0ec"
     },
     "assets/car_database/images/Changan~autohome~520.webp": {
       "bytes": 27336,
@@ -3801,9 +3801,9 @@
       "sha256": "c490923bd7b7b7cbf72e8141e13564bf931d282b6b618e78283f765dd35dc24f"
     },
     "assets/car_database/images/Changan~autohome~590.webp": {
-      "bytes": 26386,
-      "object": "objects/dbc7bf53a75d3bccf200ed08d9ce1b715162346960036e84d0711b043ee4c117.webp",
-      "sha256": "dbc7bf53a75d3bccf200ed08d9ce1b715162346960036e84d0711b043ee4c117"
+      "bytes": 128704,
+      "object": "objects/78d4d313793acb002612017e65eb34c6efbe94f53f0b51689d9161f6555eba27.png",
+      "sha256": "78d4d313793acb002612017e65eb34c6efbe94f53f0b51689d9161f6555eba27"
     },
     "assets/car_database/images/Changan~autohome~5927.webp": {
       "bytes": 22960,
@@ -3831,9 +3831,9 @@
       "sha256": "7227f274c2fad96ba13bff7a5afa822a3a34a3859f64455e63eaa233d16b8222"
     },
     "assets/car_database/images/Changan~autohome~6860.webp": {
-      "bytes": 25588,
-      "object": "objects/4fdf76e77f0b16287907319fadb3c289160bbc382f7dab821dd17e5b07fa8586.webp",
-      "sha256": "4fdf76e77f0b16287907319fadb3c289160bbc382f7dab821dd17e5b07fa8586"
+      "bytes": 110146,
+      "object": "objects/77c40fbc4ccbb09886de825d9e5316408d4006798ad915115f3157b12d5f9913.png",
+      "sha256": "77c40fbc4ccbb09886de825d9e5316408d4006798ad915115f3157b12d5f9913"
     },
     "assets/car_database/images/Changan~autohome~6923.webp": {
       "bytes": 20232,
@@ -3846,9 +3846,9 @@
       "sha256": "dd6b7c244680311abceb04dad14ffdec79e79e132951c7f1fe0bf5f7f6c86a84"
     },
     "assets/car_database/images/Changan~autohome~7048.webp": {
-      "bytes": 22820,
-      "object": "objects/71f3a5e6a8bef43d1fa84661549c89bc9998c27607f2f9904f575f84b3abf489.webp",
-      "sha256": "71f3a5e6a8bef43d1fa84661549c89bc9998c27607f2f9904f575f84b3abf489"
+      "bytes": 93664,
+      "object": "objects/920d03eb44bde164818aa3f7d6f536e53ec6f33b9593ee5e4d15701366ebd111.png",
+      "sha256": "920d03eb44bde164818aa3f7d6f536e53ec6f33b9593ee5e4d15701366ebd111"
     },
     "assets/car_database/images/Changan~autohome~705.webp": {
       "bytes": 22714,
@@ -3866,9 +3866,9 @@
       "sha256": "6c635f2f5bc338462da814a5b60a20443850524030735737b74d34af83e20b53"
     },
     "assets/car_database/images/Changan~autohome~7434.webp": {
-      "bytes": 23130,
-      "object": "objects/018495be5c1583abfa6c545585437dcc272170582861d46fea61d165099deb33.webp",
-      "sha256": "018495be5c1583abfa6c545585437dcc272170582861d46fea61d165099deb33"
+      "bytes": 104041,
+      "object": "objects/a7b1d2bfcb9bb8f8606a0d8c50d4080a50d2ef50c9b3a088621c4700eb51e909.png",
+      "sha256": "a7b1d2bfcb9bb8f8606a0d8c50d4080a50d2ef50c9b3a088621c4700eb51e909"
     },
     "assets/car_database/images/Changan~autohome~7512.webp": {
       "bytes": 20748,
@@ -3891,19 +3891,19 @@
       "sha256": "397c5421d0a7f42b58495e32c457cff125fcce7458fe6ea3896ba4cf4b6e0b58"
     },
     "assets/car_database/images/Changan~autohome~7923.webp": {
-      "bytes": 23502,
-      "object": "objects/1595cb2500743676eade719d550befeac3b827f8985ddb7534ce9377416d9577.webp",
-      "sha256": "1595cb2500743676eade719d550befeac3b827f8985ddb7534ce9377416d9577"
+      "bytes": 122043,
+      "object": "objects/65cef2f47e9cedb29c0369218acdfdfd6f21256edaaa8f5db8344577ed6d616f.png",
+      "sha256": "65cef2f47e9cedb29c0369218acdfdfd6f21256edaaa8f5db8344577ed6d616f"
     },
     "assets/car_database/images/Changan~autohome~8062.webp": {
-      "bytes": 18690,
-      "object": "objects/fff5d0158152d22235907a22cf54eb1e19388b0bf93a256ba29e50e2a8da7bd7.webp",
-      "sha256": "fff5d0158152d22235907a22cf54eb1e19388b0bf93a256ba29e50e2a8da7bd7"
+      "bytes": 80870,
+      "object": "objects/9922b4bc7f25175143c88952bcb63ba2194e96dadd88ce0deb6e5fa18a5844af.png",
+      "sha256": "9922b4bc7f25175143c88952bcb63ba2194e96dadd88ce0deb6e5fa18a5844af"
     },
     "assets/car_database/images/Changhe~autohome~2478.webp": {
-      "bytes": 28506,
-      "object": "objects/78cd4b21c56704354133c8dd96a611b4dc7ca0b1fa0a985c476b2c887e86b632.webp",
-      "sha256": "78cd4b21c56704354133c8dd96a611b4dc7ca0b1fa0a985c476b2c887e86b632"
+      "bytes": 128868,
+      "object": "objects/1b71b246e58ebbe2d9ad6db822b085cedb14c9058a7cb23e50a6c3fad453ebd4.png",
+      "sha256": "1b71b246e58ebbe2d9ad6db822b085cedb14c9058a7cb23e50a6c3fad453ebd4"
     },
     "assets/car_database/images/Changhe~autohome~3058.webp": {
       "bytes": 26660,
@@ -3916,19 +3916,19 @@
       "sha256": "a8879e1503e4d310f39e650dd0bfb16897233fea5797b0bd522f89a424196f4f"
     },
     "assets/car_database/images/Changhe~autohome~3922.webp": {
-      "bytes": 25106,
-      "object": "objects/2bb9b94da3e20a68c84e893d3e2f9c7e1f9638c6b36791d146173eadbe002cad.webp",
-      "sha256": "2bb9b94da3e20a68c84e893d3e2f9c7e1f9638c6b36791d146173eadbe002cad"
+      "bytes": 117602,
+      "object": "objects/b6286dc389579be643117629d27baa73ad32b2f07250d9ff9dfda6dd62120649.png",
+      "sha256": "b6286dc389579be643117629d27baa73ad32b2f07250d9ff9dfda6dd62120649"
     },
     "assets/car_database/images/Changhe~autohome~3980.webp": {
-      "bytes": 25118,
-      "object": "objects/1c016f189d0c7bad986929d4754098802e9519d1dd6a355913eb4dca1c9b0309.webp",
-      "sha256": "1c016f189d0c7bad986929d4754098802e9519d1dd6a355913eb4dca1c9b0309"
+      "bytes": 114436,
+      "object": "objects/2d6a4f6ab3168dbc3e84b2ffd672cfa1abe2fe1748244663ed513ee879fc0f12.png",
+      "sha256": "2d6a4f6ab3168dbc3e84b2ffd672cfa1abe2fe1748244663ed513ee879fc0f12"
     },
     "assets/car_database/images/Changhe~autohome~4141.webp": {
-      "bytes": 28690,
-      "object": "objects/627a566bf794a0e57c916270ca53f3fa2ca52dd03aaf2a1316191a78cea3c49b.webp",
-      "sha256": "627a566bf794a0e57c916270ca53f3fa2ca52dd03aaf2a1316191a78cea3c49b"
+      "bytes": 128615,
+      "object": "objects/32e2beddf12e755f4dd893faba5ee459dd4bb4ad62ab49da32441f4dab9d5b20.png",
+      "sha256": "32e2beddf12e755f4dd893faba5ee459dd4bb4ad62ab49da32441f4dab9d5b20"
     },
     "assets/car_database/images/Changhe~autohome~4142.webp": {
       "bytes": 30550,
@@ -3966,14 +3966,14 @@
       "sha256": "6dbec71e4496f209553a52788663fffd14e900b8b651374796ff08dc08105179"
     },
     "assets/car_database/images/Changhe~autohome~5456.webp": {
-      "bytes": 21994,
-      "object": "objects/3e2f7d49d1bdf8f239aea99139e9b2dba2d809e3c8ed9ceeeddf4d7e7f808364.webp",
-      "sha256": "3e2f7d49d1bdf8f239aea99139e9b2dba2d809e3c8ed9ceeeddf4d7e7f808364"
+      "bytes": 97137,
+      "object": "objects/6c8afc7f864f554c3b352eb0a11ba7444bc2a250ece1732629352fb655d6921b.png",
+      "sha256": "6c8afc7f864f554c3b352eb0a11ba7444bc2a250ece1732629352fb655d6921b"
     },
     "assets/car_database/images/Changhe~autohome~5457.webp": {
-      "bytes": 28310,
-      "object": "objects/14531b49a95566ea5701db26fb96af35e3ac4c25dd2f9fb7d77fc7c001d4787c.webp",
-      "sha256": "14531b49a95566ea5701db26fb96af35e3ac4c25dd2f9fb7d77fc7c001d4787c"
+      "bytes": 147973,
+      "object": "objects/e4a2ec70d874610ea17e9d2c35e586251197fa82e8e991ab7bca9dd62b7a476e.png",
+      "sha256": "e4a2ec70d874610ea17e9d2c35e586251197fa82e8e991ab7bca9dd62b7a476e"
     },
     "assets/car_database/images/Changhe~autohome~5740.webp": {
       "bytes": 23278,
@@ -3981,14 +3981,14 @@
       "sha256": "5cf7503e0196bc6a3b06b2531d34a6b1e0ccadcbac319103570c8b9b66d0e568"
     },
     "assets/car_database/images/Changhe~autohome~5872.webp": {
-      "bytes": 26326,
-      "object": "objects/4069345cc70b174f0660a2f8e77fd1c960d9ced3b55a61c1dabde2f535af8a29.webp",
-      "sha256": "4069345cc70b174f0660a2f8e77fd1c960d9ced3b55a61c1dabde2f535af8a29"
+      "bytes": 133135,
+      "object": "objects/719fedf9f40852956714ecdf873c3ad22f3e6a24846b30295d5469292cd8413b.png",
+      "sha256": "719fedf9f40852956714ecdf873c3ad22f3e6a24846b30295d5469292cd8413b"
     },
     "assets/car_database/images/Changhe~autohome~5873.webp": {
-      "bytes": 25868,
-      "object": "objects/bb28037d9b951476696c2e860331cf421f600d890692782a486c9a12dbc7a43e.webp",
-      "sha256": "bb28037d9b951476696c2e860331cf421f600d890692782a486c9a12dbc7a43e"
+      "bytes": 117706,
+      "object": "objects/e4ed7cf8cf3745dd3bd827c8655877df7832238248b200cd414237503ab4ef76.png",
+      "sha256": "e4ed7cf8cf3745dd3bd827c8655877df7832238248b200cd414237503ab4ef76"
     },
     "assets/car_database/images/Changhe~autohome~76.webp": {
       "bytes": 24352,
@@ -4006,9 +4006,9 @@
       "sha256": "eb59c686c9fe64bcb85d9573129bcf051101c991c432b7aa78a1190f1383b992"
     },
     "assets/car_database/images/Chery New Energy~autohome~3648.webp": {
-      "bytes": 19802,
-      "object": "objects/2f47a6edb5739715c226b2b0b75c75aafe499ef36582d0308dd258ec75c85e63.webp",
-      "sha256": "2f47a6edb5739715c226b2b0b75c75aafe499ef36582d0308dd258ec75c85e63"
+      "bytes": 91209,
+      "object": "objects/076f4c193186c4079b17dcfea4ccf81312bd9b8e9e2e5c92bd1af8a8af687e1e.png",
+      "sha256": "076f4c193186c4079b17dcfea4ccf81312bd9b8e9e2e5c92bd1af8a8af687e1e"
     },
     "assets/car_database/images/Chery New Energy~autohome~3920.webp": {
       "bytes": 24458,
@@ -4031,14 +4031,14 @@
       "sha256": "293fa488f21b798406d1f92e1da111d110d28a7f596eeb03e830719baf6fb6ae"
     },
     "assets/car_database/images/Chery~autohome~2331.webp": {
-      "bytes": 24950,
-      "object": "objects/467e700c10f7095dc71d1a53c75380bc083e490f33269ae236104f661d0fd1c6.webp",
-      "sha256": "467e700c10f7095dc71d1a53c75380bc083e490f33269ae236104f661d0fd1c6"
+      "bytes": 113735,
+      "object": "objects/d20cb8078eca9c4f96f7456497cc64ab4cc4b782fce11aa9ff0aaa4efbeee428.png",
+      "sha256": "d20cb8078eca9c4f96f7456497cc64ab4cc4b782fce11aa9ff0aaa4efbeee428"
     },
     "assets/car_database/images/Chery~autohome~2914.webp": {
-      "bytes": 28864,
-      "object": "objects/97b34ef9d602b4ca8498d4d4a4f95430451666401a38aa35603d7659fae75530.webp",
-      "sha256": "97b34ef9d602b4ca8498d4d4a4f95430451666401a38aa35603d7659fae75530"
+      "bytes": 142935,
+      "object": "objects/468829db3eaccd6fa8acd767558685c38b9de3765595b640d832ad0dc26a8b5c.png",
+      "sha256": "468829db3eaccd6fa8acd767558685c38b9de3765595b640d832ad0dc26a8b5c"
     },
     "assets/car_database/images/Chery~autohome~2953.webp": {
       "bytes": 24782,
@@ -4086,9 +4086,9 @@
       "sha256": "9792c0db1c5193fdc895e86ac5a0b13db2fa31e9a51d542038a7938d2f95811b"
     },
     "assets/car_database/images/Chery~autohome~396.webp": {
-      "bytes": 25810,
-      "object": "objects/a9aa359589e475b0aec0dc5949dd2a6d5fc490f18a58e37d439dcaff4f9fc960.webp",
-      "sha256": "a9aa359589e475b0aec0dc5949dd2a6d5fc490f18a58e37d439dcaff4f9fc960"
+      "bytes": 114320,
+      "object": "objects/a0b11739d21df627a1d0879f7da9e8786847ec626aad283ac70d32442e56c495.png",
+      "sha256": "a0b11739d21df627a1d0879f7da9e8786847ec626aad283ac70d32442e56c495"
     },
     "assets/car_database/images/Chery~autohome~4099.webp": {
       "bytes": 22384,
@@ -4101,14 +4101,14 @@
       "sha256": "39b0709bdc8d035a04dc31b797f56d38adf74a233d05a016d6754c3a6370f148"
     },
     "assets/car_database/images/Chery~autohome~434.webp": {
-      "bytes": 26304,
-      "object": "objects/41e7b821373ca1a471fc88bf9acc8ac54d8f12ba8780075edfeb5598c6fc2e05.webp",
-      "sha256": "41e7b821373ca1a471fc88bf9acc8ac54d8f12ba8780075edfeb5598c6fc2e05"
+      "bytes": 122414,
+      "object": "objects/6b85cb4565c8f12fe301bd90f75c960bf31fe93866b29fdfeccd605c569f105d.png",
+      "sha256": "6b85cb4565c8f12fe301bd90f75c960bf31fe93866b29fdfeccd605c569f105d"
     },
     "assets/car_database/images/Chery~autohome~451.webp": {
-      "bytes": 21762,
-      "object": "objects/58a9157e192b416cf501422a9d2625697a2138f1601e9b41807bc15c29de53fc.webp",
-      "sha256": "58a9157e192b416cf501422a9d2625697a2138f1601e9b41807bc15c29de53fc"
+      "bytes": 96140,
+      "object": "objects/12564628b0f5bda56f875a8b652ff0b59f9d23f2b8289352f9b207b6b5dd16d6.png",
+      "sha256": "12564628b0f5bda56f875a8b652ff0b59f9d23f2b8289352f9b207b6b5dd16d6"
     },
     "assets/car_database/images/Chery~autohome~4531.webp": {
       "bytes": 21866,
@@ -4131,9 +4131,9 @@
       "sha256": "bd027fb44c231513f6fb295bbbdefba11cd0fcc9f366cdab6a9fbee21ef49874"
     },
     "assets/car_database/images/Chery~autohome~518.webp": {
-      "bytes": 30588,
-      "object": "objects/ad073b76584427ff24d5a536204c1e24ba517b627bed49c7c01e2806b570e71b.webp",
-      "sha256": "ad073b76584427ff24d5a536204c1e24ba517b627bed49c7c01e2806b570e71b"
+      "bytes": 145485,
+      "object": "objects/0b36913a015d618fd14164fac5ed5b85584d571fd1b0e83b5fefc2d946b22e7d.png",
+      "sha256": "0b36913a015d618fd14164fac5ed5b85584d571fd1b0e83b5fefc2d946b22e7d"
     },
     "assets/car_database/images/Chery~autohome~530.webp": {
       "bytes": 22800,
@@ -4151,9 +4151,9 @@
       "sha256": "235efa5d1b705345e1bb1bb7e96c5bccc744609aba4637c2dd0aba2df06085b4"
     },
     "assets/car_database/images/Chery~autohome~612.webp": {
-      "bytes": 30920,
-      "object": "objects/d60438b44ba8ba313b2fc0b63f8de27883f81ea2ea1d0baf0ed9fd02b4d697a9.webp",
-      "sha256": "d60438b44ba8ba313b2fc0b63f8de27883f81ea2ea1d0baf0ed9fd02b4d697a9"
+      "bytes": 147973,
+      "object": "objects/954b10608658b865afec69d7f88208cf442716a6209e82bed5f57c373badc5c1.png",
+      "sha256": "954b10608658b865afec69d7f88208cf442716a6209e82bed5f57c373badc5c1"
     },
     "assets/car_database/images/Chery~autohome~6147.webp": {
       "bytes": 24248,
@@ -4161,9 +4161,9 @@
       "sha256": "a59fa790b832e7f88b8d4835c5c20cc5460d5d02421eb4e7c1cb7b4f6f0e5a9a"
     },
     "assets/car_database/images/Chery~autohome~6227.webp": {
-      "bytes": 23600,
-      "object": "objects/30e5d936d15cc0c1f3053c111621971f91e5e4a4d30f4220afad033c880b1dd6.webp",
-      "sha256": "30e5d936d15cc0c1f3053c111621971f91e5e4a4d30f4220afad033c880b1dd6"
+      "bytes": 109133,
+      "object": "objects/352eac2a049fe4fe7056058f68b10e20185f37b51ad1ae883549be1a2ce185f5.png",
+      "sha256": "352eac2a049fe4fe7056058f68b10e20185f37b51ad1ae883549be1a2ce185f5"
     },
     "assets/car_database/images/Chery~autohome~6288.webp": {
       "bytes": 23702,
@@ -4221,9 +4221,9 @@
       "sha256": "a529e1b6872e9652c0e91d3bca6a8270be7d9d660f307f5ddc0be78272985c4c"
     },
     "assets/car_database/images/Chery~autohome~7858.webp": {
-      "bytes": 24928,
-      "object": "objects/f9d377c2c0f23c2d668a33b9c21c77217995009dc9455e7d562f57a72bceae54.webp",
-      "sha256": "f9d377c2c0f23c2d668a33b9c21c77217995009dc9455e7d562f57a72bceae54"
+      "bytes": 117941,
+      "object": "objects/619ac13c69d97a45db2fd4a8fd81f8468382c6aef4961ac25dd6f53a5e05b653.png",
+      "sha256": "619ac13c69d97a45db2fd4a8fd81f8468382c6aef4961ac25dd6f53a5e05b653"
     },
     "assets/car_database/images/Chery~autohome~7862.webp": {
       "bytes": 21272,
@@ -4231,9 +4231,9 @@
       "sha256": "0eed9d51c65412ce86856c0782fedeedede6d2345f3986cb28cab7bc1de5f817"
     },
     "assets/car_database/images/Chery~autohome~8041.webp": {
-      "bytes": 20316,
-      "object": "objects/4408fd5b5a2c24cadd84df57bfbe3bce1a9e3723285a45370cd1d36b717a1e2d.webp",
-      "sha256": "4408fd5b5a2c24cadd84df57bfbe3bce1a9e3723285a45370cd1d36b717a1e2d"
+      "bytes": 77242,
+      "object": "objects/b0dde0c75b19106be6d633436aaac32e281566c17fd96ad658c8f8e4e836e5b2.png",
+      "sha256": "b0dde0c75b19106be6d633436aaac32e281566c17fd96ad658c8f8e4e836e5b2"
     },
     "assets/car_database/images/Chery~autohome~83.webp": {
       "bytes": 22792,
@@ -4241,24 +4241,24 @@
       "sha256": "5147d53cc77e84b986654f94ed699df4dc6b66ef53f24b908e342270ece364c5"
     },
     "assets/car_database/images/Chery~autohome~837.webp": {
-      "bytes": 26352,
-      "object": "objects/d9277c833856c8f74545255c633687642ca4984c3ea30988e5b44b221811688d.webp",
-      "sha256": "d9277c833856c8f74545255c633687642ca4984c3ea30988e5b44b221811688d"
+      "bytes": 124352,
+      "object": "objects/d1c74c37c979d26d30b1682a33d1a6b890802d4bfe43a2976b2c6cd968c759be.png",
+      "sha256": "d1c74c37c979d26d30b1682a33d1a6b890802d4bfe43a2976b2c6cd968c759be"
     },
     "assets/car_database/images/Chery~autohome~84.webp": {
-      "bytes": 17362,
-      "object": "objects/641542ab22b7b7484c84f273ada6446d63a69bbbad473a4df04da34b46c4dfb4.webp",
-      "sha256": "641542ab22b7b7484c84f273ada6446d63a69bbbad473a4df04da34b46c4dfb4"
+      "bytes": 76179,
+      "object": "objects/0b518b97af16dbfb6eda2451f936c503b0ab45850e1a48bfd952810e993ed5f9.png",
+      "sha256": "0b518b97af16dbfb6eda2451f936c503b0ab45850e1a48bfd952810e993ed5f9"
     },
     "assets/car_database/images/Chery~autohome~85.webp": {
-      "bytes": 26438,
-      "object": "objects/4152118028bc4c48012371e1ccf600eed2a086674d2074e3ac632bea0faff3e9.webp",
-      "sha256": "4152118028bc4c48012371e1ccf600eed2a086674d2074e3ac632bea0faff3e9"
+      "bytes": 120706,
+      "object": "objects/2a0dd1ef5d45724d17cb367f47dcedd13b49e638aecf81964c6b69a2daf1aaa2.png",
+      "sha256": "2a0dd1ef5d45724d17cb367f47dcedd13b49e638aecf81964c6b69a2daf1aaa2"
     },
     "assets/car_database/images/Chery~autohome~854.webp": {
-      "bytes": 26012,
-      "object": "objects/1f1fa28565503f6d6474d1cc214be5dfde07e0305a650e2eaa8dadf072177c45.webp",
-      "sha256": "1f1fa28565503f6d6474d1cc214be5dfde07e0305a650e2eaa8dadf072177c45"
+      "bytes": 119337,
+      "object": "objects/c1c8f62363122dbf838b447d8760e3f5e3f461fdb4bf8fc259cb1b7965c6e556.png",
+      "sha256": "c1c8f62363122dbf838b447d8760e3f5e3f461fdb4bf8fc259cb1b7965c6e556"
     },
     "assets/car_database/images/Chery~autohome~8546.webp": {
       "bytes": 19962,
@@ -4581,14 +4581,14 @@
       "sha256": "d0a9032640126b35dd2f650bdb03a6f2ece3ec5f99fab99f241b8eef3855e7b0"
     },
     "assets/car_database/images/Chrysler~autohome~222.webp": {
-      "bytes": 20592,
-      "object": "objects/56019eb07bed5eaaad19a470b39015715bf0c2823c94286e774c9d216535b21d.webp",
-      "sha256": "56019eb07bed5eaaad19a470b39015715bf0c2823c94286e774c9d216535b21d"
+      "bytes": 93569,
+      "object": "objects/eae9bedc13d8bbe13995b142c509e5b436f2badccba0f8c9465ed79724107161.png",
+      "sha256": "eae9bedc13d8bbe13995b142c509e5b436f2badccba0f8c9465ed79724107161"
     },
     "assets/car_database/images/Chrysler~autohome~227.webp": {
-      "bytes": 28606,
-      "object": "objects/93b7bd89de127c242d281606b31f370072b3565ec853a8773dd699f08f7d1f86.webp",
-      "sha256": "93b7bd89de127c242d281606b31f370072b3565ec853a8773dd699f08f7d1f86"
+      "bytes": 131352,
+      "object": "objects/655e1b2f385631ad10934677ef558d28588b5375cecdfa053336dbbfe4c64d07.png",
+      "sha256": "655e1b2f385631ad10934677ef558d28588b5375cecdfa053336dbbfe4c64d07"
     },
     "assets/car_database/images/Chrysler~autohome~342.webp": {
       "bytes": 19986,
@@ -4596,9 +4596,9 @@
       "sha256": "c972401b9fdc464f8fb3554ceda1aac034605079b5bf9597e8661c01e0ba1391"
     },
     "assets/car_database/images/Chrysler~autohome~380.webp": {
-      "bytes": 29522,
-      "object": "objects/783846e005ca5851517b3c3e240ba924b7c5bcb2e5166b779d1928ff2f701aac.webp",
-      "sha256": "783846e005ca5851517b3c3e240ba924b7c5bcb2e5166b779d1928ff2f701aac"
+      "bytes": 138198,
+      "object": "objects/067886ac4bb4fcf9a918ecf42446a61da1ec951daed6af3cd4bb4136a0e4ceae.png",
+      "sha256": "067886ac4bb4fcf9a918ecf42446a61da1ec951daed6af3cd4bb4136a0e4ceae"
     },
     "assets/car_database/images/Chrysler~autohome~4604.webp": {
       "bytes": 21184,
@@ -4606,9 +4606,9 @@
       "sha256": "6293d8bd3d9d4003cad5d620aa5063e408cdd84893d0e5d2daac1e563225abb9"
     },
     "assets/car_database/images/Chrysler~autohome~487.webp": {
-      "bytes": 22348,
-      "object": "objects/cce2225ee226c96fa081dc438e374647570b80f80b9ceb77c4f61c5f9dd61e6a.webp",
-      "sha256": "cce2225ee226c96fa081dc438e374647570b80f80b9ceb77c4f61c5f9dd61e6a"
+      "bytes": 105440,
+      "object": "objects/374ed1fe65fd19f07e84e2e7d68afd0e9322e0204cdd17bd48e8f72f37c65a4b.png",
+      "sha256": "374ed1fe65fd19f07e84e2e7d68afd0e9322e0204cdd17bd48e8f72f37c65a4b"
     },
     "assets/car_database/images/Chrysler~autohome~566.webp": {
       "bytes": 26072,
@@ -5126,14 +5126,14 @@
       "sha256": "775a023a93eba53c90ded3fff138b0d5080079c341c9e2dab9880beb292b118c"
     },
     "assets/car_database/images/Dongfeng Aeolus~autohome~8782.webp": {
-      "bytes": 16242,
-      "object": "objects/6a190158c778e127cd3078e89cf519ae60c8bfaceaded5b4381f868d11523f29.webp",
-      "sha256": "6a190158c778e127cd3078e89cf519ae60c8bfaceaded5b4381f868d11523f29"
+      "bytes": 72393,
+      "object": "objects/7669f454320da5c3d0fa209968a477e9b81c90b2859f4180b6c5fd68581e99b9.png",
+      "sha256": "7669f454320da5c3d0fa209968a477e9b81c90b2859f4180b6c5fd68581e99b9"
     },
     "assets/car_database/images/Dongfeng Forthing~autohome~2540.webp": {
-      "bytes": 24442,
-      "object": "objects/f9fd0ada8eb9af9f14d0e6baaa53cd823465120f9e326852356af11b6d2f5d6b.webp",
-      "sha256": "f9fd0ada8eb9af9f14d0e6baaa53cd823465120f9e326852356af11b6d2f5d6b"
+      "bytes": 115071,
+      "object": "objects/768d0c41da7026901cdfb61c39dc41d00e3f1cf7f42b91091e2f112c3d459cb0.png",
+      "sha256": "768d0c41da7026901cdfb61c39dc41d00e3f1cf7f42b91091e2f112c3d459cb0"
     },
     "assets/car_database/images/Dongfeng Forthing~autohome~2742.webp": {
       "bytes": 24856,
@@ -5141,9 +5141,9 @@
       "sha256": "2df84869f51a54c96957a5d3f060f3fb97374df5686f149575042a4f95e94fee"
     },
     "assets/car_database/images/Dongfeng Forthing~autohome~2990.webp": {
-      "bytes": 24686,
-      "object": "objects/4ac68acd6277430e3f779ff13aa76ab61e18f74e22beea2b9c71bdbe759853df.webp",
-      "sha256": "4ac68acd6277430e3f779ff13aa76ab61e18f74e22beea2b9c71bdbe759853df"
+      "bytes": 115231,
+      "object": "objects/92691ec3ab7e28f1847798c0f234224069a36e6aa26c7683b7d8dc2882360f10.png",
+      "sha256": "92691ec3ab7e28f1847798c0f234224069a36e6aa26c7683b7d8dc2882360f10"
     },
     "assets/car_database/images/Dongfeng Forthing~autohome~3128.webp": {
       "bytes": 22500,
@@ -5321,14 +5321,14 @@
       "sha256": "e3f795d98b8297b660e5c940533faed1b172b6aee7c81ba4982ab80d8d783f41"
     },
     "assets/car_database/images/Dongfeng~autohome~3279.webp": {
-      "bytes": 35718,
-      "object": "objects/7082ba30fed2be395c382eb9da875be5b3ab80066da0df4373cbabebb7c804c7.webp",
-      "sha256": "7082ba30fed2be395c382eb9da875be5b3ab80066da0df4373cbabebb7c804c7"
+      "bytes": 168642,
+      "object": "objects/7a299f334dd4d46074d2c9113c02d5907aa4dafb3b6717ab1b802969e65b1191.png",
+      "sha256": "7a299f334dd4d46074d2c9113c02d5907aa4dafb3b6717ab1b802969e65b1191"
     },
     "assets/car_database/images/Dongfeng~autohome~3716.webp": {
-      "bytes": 22484,
-      "object": "objects/7901a582aa1fbfcc5a5b8387bf3653df138e3c43470a00e57e46de7418be8d79.webp",
-      "sha256": "7901a582aa1fbfcc5a5b8387bf3653df138e3c43470a00e57e46de7418be8d79"
+      "bytes": 92576,
+      "object": "objects/0db6d162ee07934eb67037f3fd1e2a1f493a10c3eb019032fa9ae2009e6f89cb.png",
+      "sha256": "0db6d162ee07934eb67037f3fd1e2a1f493a10c3eb019032fa9ae2009e6f89cb"
     },
     "assets/car_database/images/Dongfeng~autohome~4486.webp": {
       "bytes": 30542,
@@ -5336,9 +5336,9 @@
       "sha256": "52d1143c27bd1d85749d1ab1ed893cba73b278c0f6c3057b79e551634727937e"
     },
     "assets/car_database/images/Dongfeng~autohome~4560.webp": {
-      "bytes": 25034,
-      "object": "objects/2ca25838e1003d1764d30e15a430f4075c0607a236b77f7d9753e5aaa1009a05.webp",
-      "sha256": "2ca25838e1003d1764d30e15a430f4075c0607a236b77f7d9753e5aaa1009a05"
+      "bytes": 109530,
+      "object": "objects/a673d0f25705c6b2d6522c9a465991e5350ca1c37fe4d174066673a8cf8fadf9.png",
+      "sha256": "a673d0f25705c6b2d6522c9a465991e5350ca1c37fe4d174066673a8cf8fadf9"
     },
     "assets/car_database/images/Dongfeng~autohome~4740.webp": {
       "bytes": 19416,
@@ -5351,9 +5351,9 @@
       "sha256": "40b7abbcaf9fc6a6c213e312f72a04d234fea5ee3b0128a2f7ac3b9d0a8af395"
     },
     "assets/car_database/images/Dongfeng~autohome~4858.webp": {
-      "bytes": 20834,
-      "object": "objects/6d33b5634d7d3405876c5b5520e617a0c02d23e3a164ec39d32d53a57eaf71f1.webp",
-      "sha256": "6d33b5634d7d3405876c5b5520e617a0c02d23e3a164ec39d32d53a57eaf71f1"
+      "bytes": 87916,
+      "object": "objects/507f117316a3c1766ddc2e0a2640c9d2bd3f5a54e39247b2f5edd587b39d471a.png",
+      "sha256": "507f117316a3c1766ddc2e0a2640c9d2bd3f5a54e39247b2f5edd587b39d471a"
     },
     "assets/car_database/images/Dongfeng~autohome~4888.webp": {
       "bytes": 22438,
@@ -5451,9 +5451,9 @@
       "sha256": "60a96010733534ed6dec57395091bfcf2e0cd56539faf258d5e191194ca71cf9"
     },
     "assets/car_database/images/Dongfeng~autohome~8067.webp": {
-      "bytes": 19926,
-      "object": "objects/4808b93085c0e24b767ef9512fa412b0ca28903db22d45fb30093e4230fb70b6.webp",
-      "sha256": "4808b93085c0e24b767ef9512fa412b0ca28903db22d45fb30093e4230fb70b6"
+      "bytes": 84012,
+      "object": "objects/dca0d5337d3baa658ff920a9b8b8b420dd0c472d74340731bab0cbbad4b8656d.png",
+      "sha256": "dca0d5337d3baa658ff920a9b8b8b420dd0c472d74340731bab0cbbad4b8656d"
     },
     "assets/car_database/images/Dongfeng~autohome~8068.webp": {
       "bytes": 21830,
@@ -5471,19 +5471,19 @@
       "sha256": "7335023c5d822ec694603d206f5a7802e7e17bff390500477a6bdc4defc11ab7"
     },
     "assets/car_database/images/Dongfeng~autohome~8491.webp": {
-      "bytes": 23198,
-      "object": "objects/cf5b2f9997c45e2421059e60606169c25a1342bd77e97dbd48dcfcdd757f853a.webp",
-      "sha256": "cf5b2f9997c45e2421059e60606169c25a1342bd77e97dbd48dcfcdd757f853a"
+      "bytes": 90212,
+      "object": "objects/adbd76e60bf43c9345e1990695b1e2c53c0bdf8c2d4b8bfafde9338e99527053.png",
+      "sha256": "adbd76e60bf43c9345e1990695b1e2c53c0bdf8c2d4b8bfafde9338e99527053"
     },
     "assets/car_database/images/Dongfeng~autohome~8492.webp": {
-      "bytes": 24886,
-      "object": "objects/10738cc7c737fe83950a4f664dd6858d99de0408124e150a371b031f732bf595.webp",
-      "sha256": "10738cc7c737fe83950a4f664dd6858d99de0408124e150a371b031f732bf595"
+      "bytes": 125140,
+      "object": "objects/fb11807d759da806cf759be0b7e5dc1c2107e35e024b4319c7649796b7ed815e.png",
+      "sha256": "fb11807d759da806cf759be0b7e5dc1c2107e35e024b4319c7649796b7ed815e"
     },
     "assets/car_database/images/Dongfeng~autohome~8493.webp": {
-      "bytes": 25384,
-      "object": "objects/5d4ecfece925f257cefa2ab225ec54994f5f3c08814f18f399e26333ff0120a3.webp",
-      "sha256": "5d4ecfece925f257cefa2ab225ec54994f5f3c08814f18f399e26333ff0120a3"
+      "bytes": 134363,
+      "object": "objects/06621330f0b5797b0a37471472f1eb4a3ae9b79d852d9099c22cc6fd2861e93c.png",
+      "sha256": "06621330f0b5797b0a37471472f1eb4a3ae9b79d852d9099c22cc6fd2861e93c"
     },
     "assets/car_database/images/Dongfeng~autohome~8494.webp": {
       "bytes": 24904,
@@ -5491,9 +5491,9 @@
       "sha256": "2fe5a0d8dcd7d1d8c180c70e620d38cfdd4f61c0843f2a595905029314ab5592"
     },
     "assets/car_database/images/Dongfeng~autohome~8495.webp": {
-      "bytes": 23818,
-      "object": "objects/6352bb70170719b565ebf4b64120f9b2d6a6b0e7cbd7af47df5edbb4f20d2beb.webp",
-      "sha256": "6352bb70170719b565ebf4b64120f9b2d6a6b0e7cbd7af47df5edbb4f20d2beb"
+      "bytes": 126094,
+      "object": "objects/765051c5d36a118570247350a2a478af12371346224baa4c296b900f8787fa71.png",
+      "sha256": "765051c5d36a118570247350a2a478af12371346224baa4c296b900f8787fa71"
     },
     "assets/car_database/images/Dongfeng~autohome~8504.webp": {
       "bytes": 25386,
@@ -5511,14 +5511,14 @@
       "sha256": "d2b8273e9314489d1dee44fd1fc8f4143cf2021a5598a5511902ec9800fdee59"
     },
     "assets/car_database/images/Dongfeng~autohome~8539.webp": {
-      "bytes": 19898,
-      "object": "objects/065277b6792bc98813dbb16de59ba4bfc413d34350731cb2750789977802dd71.webp",
-      "sha256": "065277b6792bc98813dbb16de59ba4bfc413d34350731cb2750789977802dd71"
+      "bytes": 92672,
+      "object": "objects/002b08ef78cc6a5c718281931ccd5a5d443cf00e576b88f39c3e6c473a5ab725.png",
+      "sha256": "002b08ef78cc6a5c718281931ccd5a5d443cf00e576b88f39c3e6c473a5ab725"
     },
     "assets/car_database/images/Dongfeng~autohome~8576.webp": {
-      "bytes": 19844,
-      "object": "objects/fb227f7beb30009721dd82e61c4c89582fa73a76b6a708035e68a58e3e7698cc.webp",
-      "sha256": "fb227f7beb30009721dd82e61c4c89582fa73a76b6a708035e68a58e3e7698cc"
+      "bytes": 83358,
+      "object": "objects/6bdac62c20bf48a0c4d99de628e867ae05246ad91440c5ed4327409dc4e87302.png",
+      "sha256": "6bdac62c20bf48a0c4d99de628e867ae05246ad91440c5ed4327409dc4e87302"
     },
     "assets/car_database/images/Dongfeng~autohome~8577.webp": {
       "bytes": 24856,
@@ -5561,9 +5561,9 @@
       "sha256": "7ff54c06a784dcef9bf6037acbc46aafe2dff7bde6aa813eb2b5a97e65d0ca7d"
     },
     "assets/car_database/images/Enranger~autohome~3306.webp": {
-      "bytes": 23246,
-      "object": "objects/21c2bd251074b99ee5eaa1598d4c99d024f500b5366216f8d0dabd568b86409f.webp",
-      "sha256": "21c2bd251074b99ee5eaa1598d4c99d024f500b5366216f8d0dabd568b86409f"
+      "bytes": 109868,
+      "object": "objects/3af4d8c4dd4fb87ccf078a5ecc8cc94080d74967fd4607604add9ef19695de2b.png",
+      "sha256": "3af4d8c4dd4fb87ccf078a5ecc8cc94080d74967fd4607604add9ef19695de2b"
     },
     "assets/car_database/images/Enranger~autohome~4657.webp": {
       "bytes": 20622,
@@ -5621,14 +5621,14 @@
       "sha256": "0769d7583f42c7e1c065cb3b7ff7238b9007eacbd3a5e9be9e54c75cb08dce8b"
     },
     "assets/car_database/images/FAW~autohome~2464.webp": {
-      "bytes": 28446,
-      "object": "objects/5d24fe6310298dc4d08a6dd914a574c376830d9978810cf6b77a94fb210c5f27.webp",
-      "sha256": "5d24fe6310298dc4d08a6dd914a574c376830d9978810cf6b77a94fb210c5f27"
+      "bytes": 136444,
+      "object": "objects/770b42ecac782d5028a7c10808c003f56c9ccaeaf37479d64623ea58fb8a92d3.png",
+      "sha256": "770b42ecac782d5028a7c10808c003f56c9ccaeaf37479d64623ea58fb8a92d3"
     },
     "assets/car_database/images/FAW~autohome~2465.webp": {
-      "bytes": 28988,
-      "object": "objects/96cd3fa7996194cdc0aa0825a6dc0a8a96be52c3056daa6b1e97db7228e30e5c.webp",
-      "sha256": "96cd3fa7996194cdc0aa0825a6dc0a8a96be52c3056daa6b1e97db7228e30e5c"
+      "bytes": 126626,
+      "object": "objects/bab5e77c871bd33c5b48aa00ce9990981d3c4092d4ea5929074d52127e8ac69b.png",
+      "sha256": "bab5e77c871bd33c5b48aa00ce9990981d3c4092d4ea5929074d52127e8ac69b"
     },
     "assets/car_database/images/FAW~autohome~2468.webp": {
       "bytes": 29142,
@@ -5636,14 +5636,14 @@
       "sha256": "b956c4b37dacd0d8ca23e70ca9b3eca16faddb5fb259a8bea47184d936c1b8b3"
     },
     "assets/car_database/images/FAW~autohome~2469.webp": {
-      "bytes": 32360,
-      "object": "objects/8462ad6d72244289305bf41d16c869c48132d5371381bb96ca74f34818f62e3a.webp",
-      "sha256": "8462ad6d72244289305bf41d16c869c48132d5371381bb96ca74f34818f62e3a"
+      "bytes": 164028,
+      "object": "objects/698a8b68fb9449e2c6323948eb55af9700008df74d896ccd87cc2dec155cc75c.png",
+      "sha256": "698a8b68fb9449e2c6323948eb55af9700008df74d896ccd87cc2dec155cc75c"
     },
     "assets/car_database/images/FAW~autohome~2525.webp": {
-      "bytes": 26080,
-      "object": "objects/80288a5d3ab10e0f353be647451282ae79eb88bfd23f310cbab745c79b03e649.webp",
-      "sha256": "80288a5d3ab10e0f353be647451282ae79eb88bfd23f310cbab745c79b03e649"
+      "bytes": 118759,
+      "object": "objects/63f785df9fff6a78e39c9c7fbe2dc1414b48e190f083c398e08c1f834bb41467.png",
+      "sha256": "63f785df9fff6a78e39c9c7fbe2dc1414b48e190f083c398e08c1f834bb41467"
     },
     "assets/car_database/images/FAW~autohome~2526.webp": {
       "bytes": 26688,
@@ -5681,9 +5681,9 @@
       "sha256": "ed55478cb4a9afbd4fabeff44b18bb7e8a9a7162126799ca2ccea0dc4c927bf0"
     },
     "assets/car_database/images/FAW~autohome~3459.webp": {
-      "bytes": 24756,
-      "object": "objects/40ab29d58b7562ac18bf185b7024338a34eda1cf90e3524185ef0171ae2ed5c7.webp",
-      "sha256": "40ab29d58b7562ac18bf185b7024338a34eda1cf90e3524185ef0171ae2ed5c7"
+      "bytes": 110233,
+      "object": "objects/cbf1813de2d7237207710a13cad52eed4a237fe11ceea6635cf1369aa91f457d.png",
+      "sha256": "cbf1813de2d7237207710a13cad52eed4a237fe11ceea6635cf1369aa91f457d"
     },
     "assets/car_database/images/FAW~autohome~3775.webp": {
       "bytes": 27962,
@@ -5721,19 +5721,19 @@
       "sha256": "349568b649fc50c4a43caeaa044c3a36580250d4abcd39026233bb9cf3e10ca3"
     },
     "assets/car_database/images/FAW~autohome~444.webp": {
-      "bytes": 24608,
-      "object": "objects/9aeadd4cf676afbbdf142a79d1b0d17160886a84f8680ba43367aeb0e88b1c4e.webp",
-      "sha256": "9aeadd4cf676afbbdf142a79d1b0d17160886a84f8680ba43367aeb0e88b1c4e"
+      "bytes": 114863,
+      "object": "objects/ba43d154cb9cddfa12dbb8f2654180f759f693f7fbc14fa5307b081114048027.png",
+      "sha256": "ba43d154cb9cddfa12dbb8f2654180f759f693f7fbc14fa5307b081114048027"
     },
     "assets/car_database/images/FAW~autohome~4680.webp": {
-      "bytes": 26172,
-      "object": "objects/c64b2a3d4c22756a0e7437964ac1b0909db3376d469d021cf4ca3839e2cd3eea.webp",
-      "sha256": "c64b2a3d4c22756a0e7437964ac1b0909db3376d469d021cf4ca3839e2cd3eea"
+      "bytes": 123131,
+      "object": "objects/87e8907614bafd746871041f880d8b977ce70622833bba81b8fcb39b9838d0d0.png",
+      "sha256": "87e8907614bafd746871041f880d8b977ce70622833bba81b8fcb39b9838d0d0"
     },
     "assets/car_database/images/FAW~autohome~4754.webp": {
-      "bytes": 26972,
-      "object": "objects/fc10d08cddf1c6e79491f0252b501cebf6303abe6868af04052c07179dc4825a.webp",
-      "sha256": "fc10d08cddf1c6e79491f0252b501cebf6303abe6868af04052c07179dc4825a"
+      "bytes": 125705,
+      "object": "objects/9fa2b61b86cbbe5f2f77ac43c3cc9ed1aeaddd2e2b1348cbcc245d49d85ef4e2.png",
+      "sha256": "9fa2b61b86cbbe5f2f77ac43c3cc9ed1aeaddd2e2b1348cbcc245d49d85ef4e2"
     },
     "assets/car_database/images/FAW~autohome~4855.webp": {
       "bytes": 27596,
@@ -5761,14 +5761,14 @@
       "sha256": "7bc6dfc1fd19a8daaaf830c14d7348e9e5fc92da7086afb5a239a1bd44c1c787"
     },
     "assets/car_database/images/FAW~autohome~6289.webp": {
-      "bytes": 25246,
-      "object": "objects/cbdca2708f5b79104c659adadd118b60a7528d02a895404110ee4fb7bc2c972d.webp",
-      "sha256": "cbdca2708f5b79104c659adadd118b60a7528d02a895404110ee4fb7bc2c972d"
+      "bytes": 124044,
+      "object": "objects/4e3f43fc3fdf257b4b268244f9fa215e4dae58b6389a6ebc3c16140d3c610bf3.png",
+      "sha256": "4e3f43fc3fdf257b4b268244f9fa215e4dae58b6389a6ebc3c16140d3c610bf3"
     },
     "assets/car_database/images/FAW~autohome~878.webp": {
-      "bytes": 24214,
-      "object": "objects/f3fe0dee1611ca7c86d20eb0b2e2a54f7a2f11a13735b4b0e4091aaf720ecf91.webp",
-      "sha256": "f3fe0dee1611ca7c86d20eb0b2e2a54f7a2f11a13735b4b0e4091aaf720ecf91"
+      "bytes": 119446,
+      "object": "objects/38e4caf0110fe44a55e595af3c5ae4f2383418a75b47659666115084da5d83ad.png",
+      "sha256": "38e4caf0110fe44a55e595af3c5ae4f2383418a75b47659666115084da5d83ad"
     },
     "assets/car_database/images/FAW~autohome~879.webp": {
       "bytes": 28950,
@@ -5786,9 +5786,9 @@
       "sha256": "8c1cab7428a0bf2d873459a2784787619f54ff62d5273f121ba733d29a1112ee"
     },
     "assets/car_database/images/Fangchengbao~autohome~7353.webp": {
-      "bytes": 21610,
-      "object": "objects/17036f9de1cf73b834b7f6963652c7dc1c563d403a31aa3c7c808a8e737f978a.webp",
-      "sha256": "17036f9de1cf73b834b7f6963652c7dc1c563d403a31aa3c7c808a8e737f978a"
+      "bytes": 95364,
+      "object": "objects/314d7dd746904e39c904ee65a4d5e12b053dcb2d2e9fe50f57a616e6e75e740c.png",
+      "sha256": "314d7dd746904e39c904ee65a4d5e12b053dcb2d2e9fe50f57a616e6e75e740c"
     },
     "assets/car_database/images/Fangchengbao~autohome~7356.webp": {
       "bytes": 19708,
@@ -5821,29 +5821,29 @@
       "sha256": "6f8ded0f491e5cf27215039a25e01e67f79656dde734bcae98d2b02451fc0805"
     },
     "assets/car_database/images/Fengon~autohome~3086.webp": {
-      "bytes": 31330,
-      "object": "objects/8fe14ae0b7b2b09e953b64e4505a8931eedc399bc718b3b783048307bf9f8d46.webp",
-      "sha256": "8fe14ae0b7b2b09e953b64e4505a8931eedc399bc718b3b783048307bf9f8d46"
+      "bytes": 154467,
+      "object": "objects/0404a36e566a36acdcd2b8a917f97539bc29a6b87ac07a6d10e5e2a45b9f059d.png",
+      "sha256": "0404a36e566a36acdcd2b8a917f97539bc29a6b87ac07a6d10e5e2a45b9f059d"
     },
     "assets/car_database/images/Fengon~autohome~3828.webp": {
-      "bytes": 24868,
-      "object": "objects/9fe5881df6161f8bc12b7351edaa272240f18300778a693ad9b609f000d944f2.webp",
-      "sha256": "9fe5881df6161f8bc12b7351edaa272240f18300778a693ad9b609f000d944f2"
+      "bytes": 113551,
+      "object": "objects/d96853339bdc2b360fca45d2ea7727b5d585fd70a85dddf736fcb38da938532e.png",
+      "sha256": "d96853339bdc2b360fca45d2ea7727b5d585fd70a85dddf736fcb38da938532e"
     },
     "assets/car_database/images/Fengon~autohome~3829.webp": {
-      "bytes": 29300,
-      "object": "objects/7c9f9f9434d1d0aeba48b16467bb97477fec13f4510c509a20c719b2e43a0c20.webp",
-      "sha256": "7c9f9f9434d1d0aeba48b16467bb97477fec13f4510c509a20c719b2e43a0c20"
+      "bytes": 136040,
+      "object": "objects/5460b905b81449bbcb71bc7caecab2d76d077323d6b2a7c0769b672ab88508ac.png",
+      "sha256": "5460b905b81449bbcb71bc7caecab2d76d077323d6b2a7c0769b672ab88508ac"
     },
     "assets/car_database/images/Fengon~autohome~3830.webp": {
-      "bytes": 28668,
-      "object": "objects/fd7203c58ef50e9279452e9213c4d4ab2f77420ef173c719232ed338348e0df5.webp",
-      "sha256": "fd7203c58ef50e9279452e9213c4d4ab2f77420ef173c719232ed338348e0df5"
+      "bytes": 136725,
+      "object": "objects/a571ea0e68a0b2f5aecf368d280d2d27b5a7ed5852f2e9967658e5390d9ce0d9.png",
+      "sha256": "a571ea0e68a0b2f5aecf368d280d2d27b5a7ed5852f2e9967658e5390d9ce0d9"
     },
     "assets/car_database/images/Fengon~autohome~3925.webp": {
-      "bytes": 24022,
-      "object": "objects/560021b10cdffc4d1cd12e309b09720a1630dc8b92a2470edc21c24ba4932b78.webp",
-      "sha256": "560021b10cdffc4d1cd12e309b09720a1630dc8b92a2470edc21c24ba4932b78"
+      "bytes": 110049,
+      "object": "objects/9b7b3efd8d223345ab29fd2330f6d861d0f11acd95f1b4890a8a7386848efa94.png",
+      "sha256": "9b7b3efd8d223345ab29fd2330f6d861d0f11acd95f1b4890a8a7386848efa94"
     },
     "assets/car_database/images/Fengon~autohome~4023.webp": {
       "bytes": 19022,
@@ -5856,9 +5856,9 @@
       "sha256": "5f9aad856e2f5277d319131b2d9e9e2d6414f8ef2264656e2d5dceb5ffbcbed5"
     },
     "assets/car_database/images/Fengon~autohome~4759.webp": {
-      "bytes": 23682,
-      "object": "objects/512327dd7d8a9331ac4645b9ccc5dcee4adbaf7a630b6905648df4903516c2c8.webp",
-      "sha256": "512327dd7d8a9331ac4645b9ccc5dcee4adbaf7a630b6905648df4903516c2c8"
+      "bytes": 123376,
+      "object": "objects/ec4ed99f2a9f7093b8e018ca73e68a6eb96270fce46458bc56b9d421e2c330fd.png",
+      "sha256": "ec4ed99f2a9f7093b8e018ca73e68a6eb96270fce46458bc56b9d421e2c330fd"
     },
     "assets/car_database/images/Fengon~autohome~4799.webp": {
       "bytes": 17950,
@@ -5886,9 +5886,9 @@
       "sha256": "41d59e76e0baf61683e135930f30bf7c891079094b3c2ad4afd1fcc0e9412caa"
     },
     "assets/car_database/images/Fengon~autohome~5871.webp": {
-      "bytes": 17986,
-      "object": "objects/b4e288311aab658de55f553c933229db08af2228a0110953a06e5d05cb66352d.webp",
-      "sha256": "b4e288311aab658de55f553c933229db08af2228a0110953a06e5d05cb66352d"
+      "bytes": 82423,
+      "object": "objects/57c955c749133b54ae9d369559e77c5b8e830f32832ffc268f75bdac2618146e.png",
+      "sha256": "57c955c749133b54ae9d369559e77c5b8e830f32832ffc268f75bdac2618146e"
     },
     "assets/car_database/images/Fengon~autohome~6391.webp": {
       "bytes": 21552,
@@ -5896,14 +5896,14 @@
       "sha256": "07a63a5c3e7b32159786f4ad5f59ac34cdaa586ec2b7cd9d45ae831ca04eba54"
     },
     "assets/car_database/images/Fengon~autohome~6431.webp": {
-      "bytes": 24670,
-      "object": "objects/2878eb8b25592d64411a3e60a7fca583d298d418ad7a106545a6a2ed523d8b21.webp",
-      "sha256": "2878eb8b25592d64411a3e60a7fca583d298d418ad7a106545a6a2ed523d8b21"
+      "bytes": 114765,
+      "object": "objects/2c2b20b86aa6d747d4b9c2396d57e67c9717767873a9e9df3c1433caad5aa74c.png",
+      "sha256": "2c2b20b86aa6d747d4b9c2396d57e67c9717767873a9e9df3c1433caad5aa74c"
     },
     "assets/car_database/images/Fengon~autohome~6581.webp": {
-      "bytes": 26160,
-      "object": "objects/a0596689e6315b77e64592ed8d36b7ce70d3532573475c6ef6292730f9a35d0b.webp",
-      "sha256": "a0596689e6315b77e64592ed8d36b7ce70d3532573475c6ef6292730f9a35d0b"
+      "bytes": 124395,
+      "object": "objects/ae7dec9c11df221cfc9a6363181944a8e689e701d9410826f06b8110af5bf209.png",
+      "sha256": "ae7dec9c11df221cfc9a6363181944a8e689e701d9410826f06b8110af5bf209"
     },
     "assets/car_database/images/Fengon~autohome~7644.webp": {
       "bytes": 25712,
@@ -5981,9 +5981,9 @@
       "sha256": "0b963f2a56d498a8f6d8275b4864856c985b85911cc5ec465d52b93f401a8184"
     },
     "assets/car_database/images/Firefly~autohome~7990.webp": {
-      "bytes": 19992,
-      "object": "objects/33f85ce05981658de59da5cdbbd7f1ff2df61bf2c3a115db99eb7374420b9e75.webp",
-      "sha256": "33f85ce05981658de59da5cdbbd7f1ff2df61bf2c3a115db99eb7374420b9e75"
+      "bytes": 90386,
+      "object": "objects/56f514cad65edb6645255103d48a4170f52db15b26d1a0fd1f32ffe653f01b64.png",
+      "sha256": "56f514cad65edb6645255103d48a4170f52db15b26d1a0fd1f32ffe653f01b64"
     },
     "assets/car_database/images/Fisker~wikimedia~15216182.webp": {
       "bytes": 109436,
@@ -6461,9 +6461,9 @@
       "sha256": "5659874991192b2b96ab0dd857bc2ec6451c6d2d6d3e1d1e8d1707e11d1ab2dc"
     },
     "assets/car_database/images/Foton~autohome~2535.webp": {
-      "bytes": 27286,
-      "object": "objects/31dc629a6a2209f275b426231be446486fe8566666b8b81d8a64ac6693cfd0bb.webp",
-      "sha256": "31dc629a6a2209f275b426231be446486fe8566666b8b81d8a64ac6693cfd0bb"
+      "bytes": 127722,
+      "object": "objects/732fa9bea82d05573e3c651548fabf9c1053298f909649e9de428882d84ba935.png",
+      "sha256": "732fa9bea82d05573e3c651548fabf9c1053298f909649e9de428882d84ba935"
     },
     "assets/car_database/images/Foton~autohome~2542.webp": {
       "bytes": 24322,
@@ -6471,14 +6471,14 @@
       "sha256": "67d6d876163541c0bb66ef92e5590c10ee7ec99ef69998fdd7a587e7624a077f"
     },
     "assets/car_database/images/Foton~autohome~2577.webp": {
-      "bytes": 20360,
-      "object": "objects/aaf24375796eb789ce9d226ea813f919d0c7cb9ec750733a34e9015ad029fd6b.webp",
-      "sha256": "aaf24375796eb789ce9d226ea813f919d0c7cb9ec750733a34e9015ad029fd6b"
+      "bytes": 92434,
+      "object": "objects/04759f439df73ae7f419b7c1a52275a147934acb03861a831abd4374ae1ef402.png",
+      "sha256": "04759f439df73ae7f419b7c1a52275a147934acb03861a831abd4374ae1ef402"
     },
     "assets/car_database/images/Foton~autohome~2579.webp": {
-      "bytes": 21148,
-      "object": "objects/8805e1c3e8f468397c33efe54276e995e2042d108d7bc769eb9b589ddec7e305.webp",
-      "sha256": "8805e1c3e8f468397c33efe54276e995e2042d108d7bc769eb9b589ddec7e305"
+      "bytes": 94905,
+      "object": "objects/0e312641eb80edc0b9526665dd61fb4a3d542ef202a0a90ea1c9dc9b1612d372.png",
+      "sha256": "0e312641eb80edc0b9526665dd61fb4a3d542ef202a0a90ea1c9dc9b1612d372"
     },
     "assets/car_database/images/Foton~autohome~3089.webp": {
       "bytes": 23958,
@@ -6546,9 +6546,9 @@
       "sha256": "6759337b61746e677aa9fadaa90a623727f4742aaf0a4300b72ce37b477ae0ee"
     },
     "assets/car_database/images/Foton~autohome~4760.webp": {
-      "bytes": 27104,
-      "object": "objects/d8e27dc8809ac4f2bd398dd0056d067b0d17aa601ef4a0dc029f9092d130506d.webp",
-      "sha256": "d8e27dc8809ac4f2bd398dd0056d067b0d17aa601ef4a0dc029f9092d130506d"
+      "bytes": 124979,
+      "object": "objects/c922734a648518bb50e51b708b1e587f779b8b6806fd83afb458c3baade4f019.png",
+      "sha256": "c922734a648518bb50e51b708b1e587f779b8b6806fd83afb458c3baade4f019"
     },
     "assets/car_database/images/Foton~autohome~4893.webp": {
       "bytes": 28366,
@@ -6556,9 +6556,9 @@
       "sha256": "9aac218a9a0e3d714e344375a0dbe4195fa3bfb6b7766bda9aee5cf0b012a417"
     },
     "assets/car_database/images/Foton~autohome~5018.webp": {
-      "bytes": 27518,
-      "object": "objects/18ca5c8c072eabe0d4ec7ddd16c40fdcabbe99004ac22bc330c16ad3796b638c.webp",
-      "sha256": "18ca5c8c072eabe0d4ec7ddd16c40fdcabbe99004ac22bc330c16ad3796b638c"
+      "bytes": 124262,
+      "object": "objects/981c26fa78b337b0b40da73380637eba1cef8c06eaa28def7cd54356cf7d0efe.png",
+      "sha256": "981c26fa78b337b0b40da73380637eba1cef8c06eaa28def7cd54356cf7d0efe"
     },
     "assets/car_database/images/Foton~autohome~5075.webp": {
       "bytes": 28214,
@@ -6566,9 +6566,9 @@
       "sha256": "2a6078e3c02a32a81ceab4c69e331d5f47767bf1727b67bd07e9b963e9982abc"
     },
     "assets/car_database/images/Foton~autohome~5156.webp": {
-      "bytes": 28266,
-      "object": "objects/fdb42a9ff527fe57c9a484b9537200c114f6a9345cfcd46445fa4611f9940ffd.webp",
-      "sha256": "fdb42a9ff527fe57c9a484b9537200c114f6a9345cfcd46445fa4611f9940ffd"
+      "bytes": 131847,
+      "object": "objects/1b535ad712ca6ffbf256747a3f0bc3b7192447e32a733e6bcdce1466cb813891.png",
+      "sha256": "1b535ad712ca6ffbf256747a3f0bc3b7192447e32a733e6bcdce1466cb813891"
     },
     "assets/car_database/images/Foton~autohome~5362.webp": {
       "bytes": 26048,
@@ -6591,14 +6591,14 @@
       "sha256": "e1bd5481b8effa185571574cde74c16bc91b425053143f03621f514579368fbe"
     },
     "assets/car_database/images/Foton~autohome~5781.webp": {
-      "bytes": 30114,
-      "object": "objects/b384f3ede5985bddab4e3e7052dac537d0591b3b6221cabf03fcdfad38b1c8b3.webp",
-      "sha256": "b384f3ede5985bddab4e3e7052dac537d0591b3b6221cabf03fcdfad38b1c8b3"
+      "bytes": 143969,
+      "object": "objects/7308bc77557c5e575ed1f884bfcbf43688dc981fa71db03214eb0223a7aacdc4.png",
+      "sha256": "7308bc77557c5e575ed1f884bfcbf43688dc981fa71db03214eb0223a7aacdc4"
     },
     "assets/car_database/images/Foton~autohome~6292.webp": {
-      "bytes": 23144,
-      "object": "objects/fc3cfaa93faf8bd3196c0f59f99a843516415d8015e0c1e27727147716a16b1b.webp",
-      "sha256": "fc3cfaa93faf8bd3196c0f59f99a843516415d8015e0c1e27727147716a16b1b"
+      "bytes": 109156,
+      "object": "objects/fd7897059994334b6a3f6b5ffa0382cd7359d74f3f695d45f2ccdbba37df0d19.png",
+      "sha256": "fd7897059994334b6a3f6b5ffa0382cd7359d74f3f695d45f2ccdbba37df0d19"
     },
     "assets/car_database/images/Foton~autohome~6577.webp": {
       "bytes": 19716,
@@ -6606,14 +6606,14 @@
       "sha256": "38af23d3d892d35d1266d58e87d19e8816283665198a6699fc947648f785f9f1"
     },
     "assets/car_database/images/Foton~autohome~6604.webp": {
-      "bytes": 23148,
-      "object": "objects/99a557e41a16acb6f5b958246149e9bad387fa2a4bb5942382b8b8dadbaa04af.webp",
-      "sha256": "99a557e41a16acb6f5b958246149e9bad387fa2a4bb5942382b8b8dadbaa04af"
+      "bytes": 104698,
+      "object": "objects/620967261e624b560585a83c2163bceb8279133b88e460d2962ec4b8d70a6ba6.png",
+      "sha256": "620967261e624b560585a83c2163bceb8279133b88e460d2962ec4b8d70a6ba6"
     },
     "assets/car_database/images/Foton~autohome~661.webp": {
-      "bytes": 26318,
-      "object": "objects/82e0fcbc192136c18cf5384b74baa4b1c8fb892bfcd70a266dd3360d999f3b4f.webp",
-      "sha256": "82e0fcbc192136c18cf5384b74baa4b1c8fb892bfcd70a266dd3360d999f3b4f"
+      "bytes": 126352,
+      "object": "objects/1c33d4677a8f647178692eaa77f2d3a605618715e75ac860363aced3893860bf.png",
+      "sha256": "1c33d4677a8f647178692eaa77f2d3a605618715e75ac860363aced3893860bf"
     },
     "assets/car_database/images/Foton~autohome~6611.webp": {
       "bytes": 24880,
@@ -6621,19 +6621,19 @@
       "sha256": "fec47fb38a9bff3bcd88090c0cfa3fe4e788e1c92e29e79e5b1b210b60f1e0a7"
     },
     "assets/car_database/images/Foton~autohome~6680.webp": {
-      "bytes": 22492,
-      "object": "objects/f2dd9b9b2fe14943480ae2a49d5fb7d3d370bf42f444fcbcb7fffffdf1f01609.webp",
-      "sha256": "f2dd9b9b2fe14943480ae2a49d5fb7d3d370bf42f444fcbcb7fffffdf1f01609"
+      "bytes": 100306,
+      "object": "objects/a3cb8b426bcb9b04bb0959abf634b5a07a7cf50f0cb06825dd2dc2690744d134.png",
+      "sha256": "a3cb8b426bcb9b04bb0959abf634b5a07a7cf50f0cb06825dd2dc2690744d134"
     },
     "assets/car_database/images/Foton~autohome~6704.webp": {
-      "bytes": 17414,
-      "object": "objects/3cba63cf0016465ba05fafcb549b67a73cecd64a05df0efe3c58f48106e2d886.webp",
-      "sha256": "3cba63cf0016465ba05fafcb549b67a73cecd64a05df0efe3c58f48106e2d886"
+      "bytes": 78482,
+      "object": "objects/fc104805de34076f76d49de789ad17d256ef6a33c572ae1064d4f778cd9de12b.png",
+      "sha256": "fc104805de34076f76d49de789ad17d256ef6a33c572ae1064d4f778cd9de12b"
     },
     "assets/car_database/images/Foton~autohome~6705.webp": {
-      "bytes": 17414,
-      "object": "objects/3cba63cf0016465ba05fafcb549b67a73cecd64a05df0efe3c58f48106e2d886.webp",
-      "sha256": "3cba63cf0016465ba05fafcb549b67a73cecd64a05df0efe3c58f48106e2d886"
+      "bytes": 78482,
+      "object": "objects/fc104805de34076f76d49de789ad17d256ef6a33c572ae1064d4f778cd9de12b.png",
+      "sha256": "fc104805de34076f76d49de789ad17d256ef6a33c572ae1064d4f778cd9de12b"
     },
     "assets/car_database/images/Foton~autohome~6711.webp": {
       "bytes": 27802,
@@ -6656,9 +6656,9 @@
       "sha256": "b04f15aeb2a356db0e810718cb6da57ce0a05e51b015061bb9f39f82841bd2fc"
     },
     "assets/car_database/images/Foton~autohome~7160.webp": {
-      "bytes": 21722,
-      "object": "objects/a925c5bc18912c33398cabc3d46f289e45e98ebeb99acb1577b7e3bc81f39533.webp",
-      "sha256": "a925c5bc18912c33398cabc3d46f289e45e98ebeb99acb1577b7e3bc81f39533"
+      "bytes": 95278,
+      "object": "objects/e3de028f852325d2dc4823c8c78ee713390bd525283ab573d7001ae94362b7a1.png",
+      "sha256": "e3de028f852325d2dc4823c8c78ee713390bd525283ab573d7001ae94362b7a1"
     },
     "assets/car_database/images/Foton~autohome~7164.webp": {
       "bytes": 19922,
@@ -6666,9 +6666,9 @@
       "sha256": "5b1b80d6e697cee71ab3cb37d0fa6eb20491563ca8e2c5bd6c49e17d330d10fc"
     },
     "assets/car_database/images/Foton~autohome~7259.webp": {
-      "bytes": 25606,
-      "object": "objects/9c9dc1dd4c5eb978135236882ee5be024f475625a5e38bd2e6cf451c42068b0a.webp",
-      "sha256": "9c9dc1dd4c5eb978135236882ee5be024f475625a5e38bd2e6cf451c42068b0a"
+      "bytes": 116845,
+      "object": "objects/492bedf75b312128aa53b37feec58bfaf27f1de6285bee85d0bcd2b78ca341c3.png",
+      "sha256": "492bedf75b312128aa53b37feec58bfaf27f1de6285bee85d0bcd2b78ca341c3"
     },
     "assets/car_database/images/Foton~autohome~7260.webp": {
       "bytes": 20260,
@@ -6721,14 +6721,14 @@
       "sha256": "daecd2fadb668d12baad58fa5915a8b635183cf3fdb9ca98d4a055389b5a31c8"
     },
     "assets/car_database/images/Foton~autohome~8247.webp": {
-      "bytes": 23026,
-      "object": "objects/62a244e70a09a5125354406d148145bb99acc9f07dc2c1ae0978b8f4f4c0e800.webp",
-      "sha256": "62a244e70a09a5125354406d148145bb99acc9f07dc2c1ae0978b8f4f4c0e800"
+      "bytes": 114105,
+      "object": "objects/7872cfa9f24e459c020d72132399909f0b36338d413bb020ade4ff98e74a0c66.png",
+      "sha256": "7872cfa9f24e459c020d72132399909f0b36338d413bb020ade4ff98e74a0c66"
     },
     "assets/car_database/images/Foton~autohome~8248.webp": {
-      "bytes": 18918,
-      "object": "objects/d5f292d967838939bbb4eed83a8ca54fbc16b955165af2500fc7ebe3a7c84cce.webp",
-      "sha256": "d5f292d967838939bbb4eed83a8ca54fbc16b955165af2500fc7ebe3a7c84cce"
+      "bytes": 79967,
+      "object": "objects/201eecd33190600f61adcaa9636af14ccf86bf32ac8723a9af9cea5324a403f8.png",
+      "sha256": "201eecd33190600f61adcaa9636af14ccf86bf32ac8723a9af9cea5324a403f8"
     },
     "assets/car_database/images/Foton~autohome~8249.webp": {
       "bytes": 17548,
@@ -6746,9 +6746,9 @@
       "sha256": "ae089658cc71c9a8095b3bc370860d99de269ec18eaced37f622df752978c976"
     },
     "assets/car_database/images/Foton~autohome~8426.webp": {
-      "bytes": 28314,
-      "object": "objects/afc33b0e5a0012fd4d48b2450cdf10bf5fe0b1e805cbe4595b08584a99860922.webp",
-      "sha256": "afc33b0e5a0012fd4d48b2450cdf10bf5fe0b1e805cbe4595b08584a99860922"
+      "bytes": 130731,
+      "object": "objects/9b52b252bec7c0e5af5802a9e492662f20206a3036d67eed4cd851f8dc1a377f.png",
+      "sha256": "9b52b252bec7c0e5af5802a9e492662f20206a3036d67eed4cd851f8dc1a377f"
     },
     "assets/car_database/images/Foton~autohome~8533.webp": {
       "bytes": 23386,
@@ -6781,14 +6781,14 @@
       "sha256": "7ea6c0c5d9a48d4e0eabba6349621e07515bf58122e0913ef3eed8aafabb66e1"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~2560.webp": {
-      "bytes": 23552,
-      "object": "objects/b947b01d5103de2f6472c9253f2816ae5d14eaece6e090927c3cf91d7f48b1b1.webp",
-      "sha256": "b947b01d5103de2f6472c9253f2816ae5d14eaece6e090927c3cf91d7f48b1b1"
+      "bytes": 118430,
+      "object": "objects/6eb135125aea9c7fb20e43cb5ec5d1bfebf169a0af70f3c912ec50cf5036c1aa.png",
+      "sha256": "6eb135125aea9c7fb20e43cb5ec5d1bfebf169a0af70f3c912ec50cf5036c1aa"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~3069.webp": {
-      "bytes": 19058,
-      "object": "objects/5d6779a3b2168a8c10d1b4f234e3629c319f0e305863de92b640fd56aa61d906.webp",
-      "sha256": "5d6779a3b2168a8c10d1b4f234e3629c319f0e305863de92b640fd56aa61d906"
+      "bytes": 87431,
+      "object": "objects/8a65e4270e2d90efb210348e08e76be34829ba970b1599746bb6debf7a2816b8.png",
+      "sha256": "8a65e4270e2d90efb210348e08e76be34829ba970b1599746bb6debf7a2816b8"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~3349.webp": {
       "bytes": 20222,
@@ -6816,14 +6816,14 @@
       "sha256": "8062b41a36a6136fed961c10036943baa1ffd6d5cf7290a8589948b0a1e93f8e"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~3782.webp": {
-      "bytes": 21208,
-      "object": "objects/79922b2cd251e9a78da8ec64b0f4ccaddeee59a46d0d600a7c5daced36c70965.webp",
-      "sha256": "79922b2cd251e9a78da8ec64b0f4ccaddeee59a46d0d600a7c5daced36c70965"
+      "bytes": 110007,
+      "object": "objects/4bd06346e65b9f5ce621133910291d5faf0f5bf574eee5192da01bd0d78b8500.png",
+      "sha256": "4bd06346e65b9f5ce621133910291d5faf0f5bf574eee5192da01bd0d78b8500"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~4094.webp": {
-      "bytes": 19776,
-      "object": "objects/6931514e0c66e757d00ee621b2acb63f5423c0a6257cb2a1c7bf5cc17c7e43be.webp",
-      "sha256": "6931514e0c66e757d00ee621b2acb63f5423c0a6257cb2a1c7bf5cc17c7e43be"
+      "bytes": 93112,
+      "object": "objects/2ba2639c5d8a91ab8190f8c157d1ebc5db12b3b92d50c6512774642e47ec8940.png",
+      "sha256": "2ba2639c5d8a91ab8190f8c157d1ebc5db12b3b92d50c6512774642e47ec8940"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~4174.webp": {
       "bytes": 25232,
@@ -6831,14 +6831,14 @@
       "sha256": "e46c4a04e445fbac4e3fea0dbb9339987827de978b650d1fa8598635625c3c5e"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~4230.webp": {
-      "bytes": 24692,
-      "object": "objects/8033d12fa6a539699aaa297e7880679bb53f7ffa644e4cb48612e7367e0fec1d.webp",
-      "sha256": "8033d12fa6a539699aaa297e7880679bb53f7ffa644e4cb48612e7367e0fec1d"
+      "bytes": 109763,
+      "object": "objects/776fea4956802f22d923ace17297df4a7c3188f1f8915dd60dbb686e446663dc.png",
+      "sha256": "776fea4956802f22d923ace17297df4a7c3188f1f8915dd60dbb686e446663dc"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~4256.webp": {
-      "bytes": 21284,
-      "object": "objects/29397d0f8da8f02c8c6ea1f0bbd89c12646c5af3a2ecf15c1014a119b91babce.webp",
-      "sha256": "29397d0f8da8f02c8c6ea1f0bbd89c12646c5af3a2ecf15c1014a119b91babce"
+      "bytes": 100384,
+      "object": "objects/b3c6945fd2e2422d2b9b38de318065170a1d3b3dee31306c16aab98c7b5e474d.png",
+      "sha256": "b3c6945fd2e2422d2b9b38de318065170a1d3b3dee31306c16aab98c7b5e474d"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~4340.webp": {
       "bytes": 21168,
@@ -6856,9 +6856,9 @@
       "sha256": "808e7d65b4e07099fcfcca6ca720cbdae34178061db604acd088b054e6020954"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~5812.webp": {
-      "bytes": 27746,
-      "object": "objects/f293d6174fda5dbb2e7326208fbf8e9ab2efeb62f34b1dc35e02a22bc453b83b.webp",
-      "sha256": "f293d6174fda5dbb2e7326208fbf8e9ab2efeb62f34b1dc35e02a22bc453b83b"
+      "bytes": 131773,
+      "object": "objects/84922413ecbed7e3f04ceab64d7406cb1685ffac1ed190e9200bfd615480c6f2.png",
+      "sha256": "84922413ecbed7e3f04ceab64d7406cb1685ffac1ed190e9200bfd615480c6f2"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~5944.webp": {
       "bytes": 18112,
@@ -6866,9 +6866,9 @@
       "sha256": "147dd4b43dbfb500c721ee96458b7b002af0bad043849c56c62667c236c9a92d"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~6270.webp": {
-      "bytes": 20594,
-      "object": "objects/cdc72b0c5a36bdb6fa3e28044e2363fa295b8a94565c8bccd2ea4b65c2cbc2da.webp",
-      "sha256": "cdc72b0c5a36bdb6fa3e28044e2363fa295b8a94565c8bccd2ea4b65c2cbc2da"
+      "bytes": 91177,
+      "object": "objects/eaac98672723edb9451199db1c82ec83e559efc65b2b17db69d3cb454a3251c8.png",
+      "sha256": "eaac98672723edb9451199db1c82ec83e559efc65b2b17db69d3cb454a3251c8"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~6495.webp": {
       "bytes": 22754,
@@ -6911,9 +6911,9 @@
       "sha256": "829a41b13711c32769d38589b38dc9f61561b7cf823473324aaffb39dbc2f3c7"
     },
     "assets/car_database/images/GAC Trumpchi~autohome~8627.webp": {
-      "bytes": 25478,
-      "object": "objects/7683505ae0d22632b533679a0e22c9f3f43665c5853c673550b0240db3bbcd49.webp",
-      "sha256": "7683505ae0d22632b533679a0e22c9f3f43665c5853c673550b0240db3bbcd49"
+      "bytes": 106376,
+      "object": "objects/f4985ce17b519aff9eda97b7deda28517efae8b390e4cbc2a94577ddebb86f2c.png",
+      "sha256": "f4985ce17b519aff9eda97b7deda28517efae8b390e4cbc2a94577ddebb86f2c"
     },
     "assets/car_database/images/GAC~autohome~4431.webp": {
       "bytes": 18354,
@@ -6931,9 +6931,9 @@
       "sha256": "305271515fc4994b3fa7ae99463166e617b16ec1ca566fb5d95383f21da07395"
     },
     "assets/car_database/images/GAC~autohome~4985.webp": {
-      "bytes": 26956,
-      "object": "objects/8f328cf3e464438a6f52a41a9f74bcb87de9cb60f06b385575059a2b2661aac3.webp",
-      "sha256": "8f328cf3e464438a6f52a41a9f74bcb87de9cb60f06b385575059a2b2661aac3"
+      "bytes": 119798,
+      "object": "objects/e5e6e463dcafb07bf7a1bf3d8fc03d64c406f2250cb438c60429bf3fc1a48000.png",
+      "sha256": "e5e6e463dcafb07bf7a1bf3d8fc03d64c406f2250cb438c60429bf3fc1a48000"
     },
     "assets/car_database/images/GAC~autohome~5372.webp": {
       "bytes": 18558,
@@ -6941,9 +6941,9 @@
       "sha256": "275101d4034e37269e0d93fbdca9316c23e67656cc421346d8247a8b8f562172"
     },
     "assets/car_database/images/GAC~autohome~5953.webp": {
-      "bytes": 19396,
-      "object": "objects/73fea0f95805bbf7bd89151b9d283748377cbc2b5634b19d8f62acb49935bf91.webp",
-      "sha256": "73fea0f95805bbf7bd89151b9d283748377cbc2b5634b19d8f62acb49935bf91"
+      "bytes": 85398,
+      "object": "objects/1d0ed5be7be80d4d995998d453a36c7c419cdb0eaa4a441f5f3af4e0341e9ccc.png",
+      "sha256": "1d0ed5be7be80d4d995998d453a36c7c419cdb0eaa4a441f5f3af4e0341e9ccc"
     },
     "assets/car_database/images/GMA~wikimedia~64755892.webp": {
       "bytes": 272542,
@@ -7126,9 +7126,9 @@
       "sha256": "bc1ff76704d679b2d44c0c0b88c6e779e69be289eb30271cfd9b282acc41f136"
     },
     "assets/car_database/images/GWM Ora~autohome~4678.webp": {
-      "bytes": 21584,
-      "object": "objects/d424d9809b61adeff54b062c0c4ba8e21307066dcafc1e93f4fdb71c134b207e.webp",
-      "sha256": "d424d9809b61adeff54b062c0c4ba8e21307066dcafc1e93f4fdb71c134b207e"
+      "bytes": 112597,
+      "object": "objects/6b5a782724e7904b5daaa73a21a7ef44f9fa3cf41f6bfc0f6e945fe141e699e7.png",
+      "sha256": "6b5a782724e7904b5daaa73a21a7ef44f9fa3cf41f6bfc0f6e945fe141e699e7"
     },
     "assets/car_database/images/GWM Ora~autohome~4826.webp": {
       "bytes": 23778,
@@ -7136,9 +7136,9 @@
       "sha256": "dc062dce1a007c1ae2de246687fb869a622698e71b362139db93cd03dbe8f8c4"
     },
     "assets/car_database/images/GWM Ora~autohome~4827.webp": {
-      "bytes": 20780,
-      "object": "objects/2b9539bb62ecc616f3772f822ffa8e14922232b86cfd8d91aedb2b39b339ab4b.webp",
-      "sha256": "2b9539bb62ecc616f3772f822ffa8e14922232b86cfd8d91aedb2b39b339ab4b"
+      "bytes": 97731,
+      "object": "objects/82ed42f036d2a14528597b4eb6c9fbcfa29e41e7f4661a8eddc606286ddfa358.png",
+      "sha256": "82ed42f036d2a14528597b4eb6c9fbcfa29e41e7f4661a8eddc606286ddfa358"
     },
     "assets/car_database/images/GWM Ora~autohome~5823.webp": {
       "bytes": 20606,
@@ -7156,9 +7156,9 @@
       "sha256": "fe05b44526d7c799eb53ff7b4ae701781ea79816df5e69117eb4abd4bac5aa3d"
     },
     "assets/car_database/images/GWM Ora~autohome~6345.webp": {
-      "bytes": 19420,
-      "object": "objects/31af74f896efb64f2e35d3054b9a342f388f62cc633bea5f5120f0b2913ab81e.webp",
-      "sha256": "31af74f896efb64f2e35d3054b9a342f388f62cc633bea5f5120f0b2913ab81e"
+      "bytes": 85451,
+      "object": "objects/1e8be993d0dd24f34a1f3b73890b21ede0627e5f7d893c67a8d2e5f5257fd75f.png",
+      "sha256": "1e8be993d0dd24f34a1f3b73890b21ede0627e5f7d893c67a8d2e5f5257fd75f"
     },
     "assets/car_database/images/GWM Ora~autohome~8290.webp": {
       "bytes": 21412,
@@ -7181,19 +7181,19 @@
       "sha256": "6e45098fc12d947e92dd492dc1b9adcc8ec23e0e402e04043e32c49fd7d8e334"
     },
     "assets/car_database/images/GWM Ora~autohome~8752.webp": {
-      "bytes": 20656,
-      "object": "objects/8e0387389984629f332cd60d87a41c7bbc0e86edb5b859302d1025cdcb802c08.webp",
-      "sha256": "8e0387389984629f332cd60d87a41c7bbc0e86edb5b859302d1025cdcb802c08"
+      "bytes": 85477,
+      "object": "objects/96f4ce450cd504f03991bfcf9407955cb508bb3aa2797500690f2beedb171ba2.png",
+      "sha256": "96f4ce450cd504f03991bfcf9407955cb508bb3aa2797500690f2beedb171ba2"
     },
     "assets/car_database/images/GWM Ora~autohome~8755.webp": {
-      "bytes": 20258,
-      "object": "objects/eb76f28d1e8c6e11d8fce24af8c8ec6a5c5c0ab283b23fcd66958fea72448931.webp",
-      "sha256": "eb76f28d1e8c6e11d8fce24af8c8ec6a5c5c0ab283b23fcd66958fea72448931"
+      "bytes": 85072,
+      "object": "objects/9ef58bb73ece536b4716d0e0ab6a944cfea508da4c18026ea6189808acc544b6.png",
+      "sha256": "9ef58bb73ece536b4716d0e0ab6a944cfea508da4c18026ea6189808acc544b6"
     },
     "assets/car_database/images/GWM Ora~autohome~8756.webp": {
-      "bytes": 19050,
-      "object": "objects/dfd2a737f569711dfa7f11efd9c6ead896774e6b288454368a76ffc4a4f63c87.webp",
-      "sha256": "dfd2a737f569711dfa7f11efd9c6ead896774e6b288454368a76ffc4a4f63c87"
+      "bytes": 80220,
+      "object": "objects/d017d2d73e6c701bd3cd132af4bf0d6c4759a93d44a35c7d8cc52bfe2c9705b2.png",
+      "sha256": "d017d2d73e6c701bd3cd132af4bf0d6c4759a93d44a35c7d8cc52bfe2c9705b2"
     },
     "assets/car_database/images/GWM Ora~autohome~8771.webp": {
       "bytes": 17422,
@@ -7246,9 +7246,9 @@
       "sha256": "fcc916860d51ca30e25f72bef93cbb33a27e73717dba638b32466a698ee82a56"
     },
     "assets/car_database/images/Geely~autohome~2051.webp": {
-      "bytes": 22546,
-      "object": "objects/2d9a2e5adb4bf8b41877db41a9bd34bea1dcb3bb121a4417543f5af73e993a40.webp",
-      "sha256": "2d9a2e5adb4bf8b41877db41a9bd34bea1dcb3bb121a4417543f5af73e993a40"
+      "bytes": 102588,
+      "object": "objects/6f5030ff7516379ead48d70d08bfd888e15b52613c502517e23f0facb3a9e229.png",
+      "sha256": "6f5030ff7516379ead48d70d08bfd888e15b52613c502517e23f0facb3a9e229"
     },
     "assets/car_database/images/Geely~autohome~2111.webp": {
       "bytes": 23384,
@@ -7266,9 +7266,9 @@
       "sha256": "6cd4e3796dde2b92abb2358ab378aebca9990d7a47e5312a58d78b13020494e4"
     },
     "assets/car_database/images/Geely~autohome~2192.webp": {
-      "bytes": 23220,
-      "object": "objects/7abcf3e2c2606fbb86157c0edf28618bf89fe5306b711cbec49a0fff45f24cf3.webp",
-      "sha256": "7abcf3e2c2606fbb86157c0edf28618bf89fe5306b711cbec49a0fff45f24cf3"
+      "bytes": 101115,
+      "object": "objects/070e70f015883c1bfa1f2a512c5d0e52aeec388a84aeb7f22de167b9f22f5cba.png",
+      "sha256": "070e70f015883c1bfa1f2a512c5d0e52aeec388a84aeb7f22de167b9f22f5cba"
     },
     "assets/car_database/images/Geely~autohome~2840.webp": {
       "bytes": 24690,
@@ -7276,9 +7276,9 @@
       "sha256": "1d2e6c880d427505fdb5ce1d9e3e763156a731328fcff766e14cf2a06aad36b8"
     },
     "assets/car_database/images/Geely~autohome~2964.webp": {
-      "bytes": 23360,
-      "object": "objects/98703261061facf164bee96e8688fe024d7776c401b80d5aabd6a5813a4dd46d.webp",
-      "sha256": "98703261061facf164bee96e8688fe024d7776c401b80d5aabd6a5813a4dd46d"
+      "bytes": 105644,
+      "object": "objects/b4ec6686378a8246b52fbf02f0bcca286bbf2ca565361b49e40f022b336d159c.png",
+      "sha256": "b4ec6686378a8246b52fbf02f0bcca286bbf2ca565361b49e40f022b336d159c"
     },
     "assets/car_database/images/Geely~autohome~3465.webp": {
       "bytes": 24280,
@@ -7306,9 +7306,9 @@
       "sha256": "44e0b81c0b1d55e202d83a811e44309cacf8086877b356d61543f29c78c2db59"
     },
     "assets/car_database/images/Geely~autohome~409.webp": {
-      "bytes": 33388,
-      "object": "objects/e56ddb5f4415406dbec027e1ce117a2ba2745a926d2b30c875aadb546d4a1ebb.webp",
-      "sha256": "e56ddb5f4415406dbec027e1ce117a2ba2745a926d2b30c875aadb546d4a1ebb"
+      "bytes": 149488,
+      "object": "objects/206634b754f14cd9bfbd39d18b7181c0e6b7b58df6b63519c82153a58899c9fa.png",
+      "sha256": "206634b754f14cd9bfbd39d18b7181c0e6b7b58df6b63519c82153a58899c9fa"
     },
     "assets/car_database/images/Geely~autohome~4133.webp": {
       "bytes": 22940,
@@ -7381,9 +7381,9 @@
       "sha256": "66024e8e593f466578aafede87b653d40ddea68108af03983ec51608599c386b"
     },
     "assets/car_database/images/Geely~autohome~4813.webp": {
-      "bytes": 21016,
-      "object": "objects/6e9454e94e5999a91c118c20d2171a3594cfa97b081af04e1a88c0a94b21af40.webp",
-      "sha256": "6e9454e94e5999a91c118c20d2171a3594cfa97b081af04e1a88c0a94b21af40"
+      "bytes": 97260,
+      "object": "objects/2721a369ac17139bc1e113a066228402db4ab2615f5261b43cea427e40ee41e1.png",
+      "sha256": "2721a369ac17139bc1e113a066228402db4ab2615f5261b43cea427e40ee41e1"
     },
     "assets/car_database/images/Geely~autohome~4852.webp": {
       "bytes": 18470,
@@ -7436,9 +7436,9 @@
       "sha256": "78a5743d9602aa218ab3d3679667d886af3927fbd5d6149fe973d4c41409c273"
     },
     "assets/car_database/images/Geely~autohome~609.webp": {
-      "bytes": 31202,
-      "object": "objects/23e803bc611b6c527d29a2fd4cb0e70a5fa24940463eaedfe94905588ee9697f.webp",
-      "sha256": "23e803bc611b6c527d29a2fd4cb0e70a5fa24940463eaedfe94905588ee9697f"
+      "bytes": 140369,
+      "object": "objects/c81b5ff7f749ae17083a47e238a2d4a748750eef7db50b45c16f325ef0c0295c.png",
+      "sha256": "c81b5ff7f749ae17083a47e238a2d4a748750eef7db50b45c16f325ef0c0295c"
     },
     "assets/car_database/images/Geely~autohome~611.webp": {
       "bytes": 24680,
@@ -7476,9 +7476,9 @@
       "sha256": "e67f57fd2eee87e2a0573836e88ef27fa0ad256fcf8279d6c2ecb94ad18e4e8a"
     },
     "assets/car_database/images/Geely~autohome~7437.webp": {
-      "bytes": 19474,
-      "object": "objects/601da6598098f0c0f66607b2d89030a6950abc9a62637ab3780c8a99cf8b5131.webp",
-      "sha256": "601da6598098f0c0f66607b2d89030a6950abc9a62637ab3780c8a99cf8b5131"
+      "bytes": 85309,
+      "object": "objects/a9517dad7d13be212ca5d37cc7924436ed90a5a96511cc2b89c6ef36a7feba22.png",
+      "sha256": "a9517dad7d13be212ca5d37cc7924436ed90a5a96511cc2b89c6ef36a7feba22"
     },
     "assets/car_database/images/Geely~autohome~7440.webp": {
       "bytes": 21446,
@@ -7501,24 +7501,24 @@
       "sha256": "e636affe6b6134c68d67be0864db27887412b691efa07e854b2add3619ffcd6f"
     },
     "assets/car_database/images/Geely~autohome~841.webp": {
-      "bytes": 24964,
-      "object": "objects/d8bef606cfc9b9ee5acfcf5f55d33c3027d2b50a5f473dd73f17755a5c8aec52.webp",
-      "sha256": "d8bef606cfc9b9ee5acfcf5f55d33c3027d2b50a5f473dd73f17755a5c8aec52"
+      "bytes": 113655,
+      "object": "objects/f076ce1ffad81ee8494f2aaf9de7e3eb14a2f244ffc0ede6551e7fe59af53acb.png",
+      "sha256": "f076ce1ffad81ee8494f2aaf9de7e3eb14a2f244ffc0ede6551e7fe59af53acb"
     },
     "assets/car_database/images/Geely~autohome~8536.webp": {
-      "bytes": 19178,
-      "object": "objects/86f9b6f63113da82df09d6fc12446c1143b206073852ae747f83d4a332be5564.webp",
-      "sha256": "86f9b6f63113da82df09d6fc12446c1143b206073852ae747f83d4a332be5564"
+      "bytes": 85257,
+      "object": "objects/2e58cc953eebd219f210e770b4fe42a83733e0a83b03b73b00c02a30e83848fa.png",
+      "sha256": "2e58cc953eebd219f210e770b4fe42a83733e0a83b03b73b00c02a30e83848fa"
     },
     "assets/car_database/images/Geely~autohome~8544.webp": {
-      "bytes": 18536,
-      "object": "objects/02d35ef36738a4cdd506d0413ec14fdb5874244931170cc8c97b7d511e6ed508.webp",
-      "sha256": "02d35ef36738a4cdd506d0413ec14fdb5874244931170cc8c97b7d511e6ed508"
+      "bytes": 83212,
+      "object": "objects/900052ad2f9d3a73b3f2956727228150fb3853cdfea960852f8c6556c9d21634.png",
+      "sha256": "900052ad2f9d3a73b3f2956727228150fb3853cdfea960852f8c6556c9d21634"
     },
     "assets/car_database/images/Geely~autohome~8768.webp": {
-      "bytes": 21222,
-      "object": "objects/a977d5a83ce843d4bf1bac9105c0b91f3672fd17a4854c199a8ad58568c30240.webp",
-      "sha256": "a977d5a83ce843d4bf1bac9105c0b91f3672fd17a4854c199a8ad58568c30240"
+      "bytes": 96544,
+      "object": "objects/07c7ba8e0a2a4338af14d462702f99f4ada722e8f121419fe5c1be14019ea798.png",
+      "sha256": "07c7ba8e0a2a4338af14d462702f99f4ada722e8f121419fe5c1be14019ea798"
     },
     "assets/car_database/images/Geely~autohome~989.webp": {
       "bytes": 26006,
@@ -7646,9 +7646,9 @@
       "sha256": "7c1d3e16981082eb3a00f70975e162910ecb05c474d802162b429d0d5ebffee2"
     },
     "assets/car_database/images/Geometry~autohome~4983.webp": {
-      "bytes": 17338,
-      "object": "objects/bf9a77e4c3629e1e0dbeaa770cd91a1b413bc974f67cf52b25084340b7fefbff.webp",
-      "sha256": "bf9a77e4c3629e1e0dbeaa770cd91a1b413bc974f67cf52b25084340b7fefbff"
+      "bytes": 81932,
+      "object": "objects/2418c025d52d6cbc4062fc8a3925caf3142dd69b14e036aada7499f8a24076a1.png",
+      "sha256": "2418c025d52d6cbc4062fc8a3925caf3142dd69b14e036aada7499f8a24076a1"
     },
     "assets/car_database/images/Geometry~autohome~6863.webp": {
       "bytes": 17202,
@@ -7666,19 +7666,19 @@
       "sha256": "8e7c6abdd56e16dc7b1205b8cec6e12da779a2b67167b302d6de18904b227b83"
     },
     "assets/car_database/images/Hafei~autohome~68.webp": {
-      "bytes": 28242,
-      "object": "objects/e7f835f984d5df0d00e217db1d84f88f138688f0bd2a8f1b71d3072ee0cf03dd.webp",
-      "sha256": "e7f835f984d5df0d00e217db1d84f88f138688f0bd2a8f1b71d3072ee0cf03dd"
+      "bytes": 138073,
+      "object": "objects/353a5e4d0715c238d5b26de92b392716866951c910422e035e2dcbefb7429ef4.png",
+      "sha256": "353a5e4d0715c238d5b26de92b392716866951c910422e035e2dcbefb7429ef4"
     },
     "assets/car_database/images/Haima~autohome~2318.webp": {
-      "bytes": 29392,
-      "object": "objects/32d9f19ac54b028891ebe617b0555d000cc3259b59b9352ed3537e5e0cd5777f.webp",
-      "sha256": "32d9f19ac54b028891ebe617b0555d000cc3259b59b9352ed3537e5e0cd5777f"
+      "bytes": 151782,
+      "object": "objects/8d0c4367eb39f92db195c88872451fbb75ae47de6b4f93e1f1d65ef2eb184ef6.png",
+      "sha256": "8d0c4367eb39f92db195c88872451fbb75ae47de6b4f93e1f1d65ef2eb184ef6"
     },
     "assets/car_database/images/Haima~autohome~4459.webp": {
-      "bytes": 22598,
-      "object": "objects/70d07a800d9d82be0d68915cf2eb429c4cc05658a6b482d503a52708c1428301.webp",
-      "sha256": "70d07a800d9d82be0d68915cf2eb429c4cc05658a6b482d503a52708c1428301"
+      "bytes": 103682,
+      "object": "objects/ddf3121c8d8eb6f2a7f9c0addcd448f238fb894c66258f4c20b30c90147ea26e.png",
+      "sha256": "ddf3121c8d8eb6f2a7f9c0addcd448f238fb894c66258f4c20b30c90147ea26e"
     },
     "assets/car_database/images/Haima~autohome~4770.webp": {
       "bytes": 19450,
@@ -7711,19 +7711,19 @@
       "sha256": "8e74ca3596e5e0c005ae1b9b24cfd3250e8ff4b50337a4dbab264f919c94c0ae"
     },
     "assets/car_database/images/Haval~autohome~2615.webp": {
-      "bytes": 23680,
-      "object": "objects/19792199ae8603afe32b44b8ccae8b86a3a93b6c232deec2e7a8b0517071b2d6.webp",
-      "sha256": "19792199ae8603afe32b44b8ccae8b86a3a93b6c232deec2e7a8b0517071b2d6"
+      "bytes": 109487,
+      "object": "objects/2fc07f57df2000affcb3523c6ec0d82db776e328a089c2621c4723a1c91c2d09.png",
+      "sha256": "2fc07f57df2000affcb3523c6ec0d82db776e328a089c2621c4723a1c91c2d09"
     },
     "assets/car_database/images/Haval~autohome~3074.webp": {
-      "bytes": 21246,
-      "object": "objects/10f2655ec9d08d690558a325c92fa22d95dff9c63a7e991f84d39e4d989f1848.webp",
-      "sha256": "10f2655ec9d08d690558a325c92fa22d95dff9c63a7e991f84d39e4d989f1848"
+      "bytes": 97249,
+      "object": "objects/13dcb70419b08137a308cf3943b64e6251f621863339172f0ea9ad0b943a65fe.png",
+      "sha256": "13dcb70419b08137a308cf3943b64e6251f621863339172f0ea9ad0b943a65fe"
     },
     "assets/car_database/images/Haval~autohome~3298.webp": {
-      "bytes": 20204,
-      "object": "objects/6814075344fa02eb9664bc55b6a62db85c247d5679869e32fe1f302da5640105.webp",
-      "sha256": "6814075344fa02eb9664bc55b6a62db85c247d5679869e32fe1f302da5640105"
+      "bytes": 83570,
+      "object": "objects/38630a8be1a80f80f41cf37bc700a21e1e452d554f5d4d0dab3764af5a8fbe39.png",
+      "sha256": "38630a8be1a80f80f41cf37bc700a21e1e452d554f5d4d0dab3764af5a8fbe39"
     },
     "assets/car_database/images/Haval~autohome~3454.webp": {
       "bytes": 25120,
@@ -7731,9 +7731,9 @@
       "sha256": "d9b93c8f8785fe126b8396b2fa1d21055d62a240862d06627b4a108be4822ee0"
     },
     "assets/car_database/images/Haval~autohome~3481.webp": {
-      "bytes": 25004,
-      "object": "objects/ef1cb95ebcffedad8f7d4a874a8ba066748ca36c950a8687454e3909e03b2877.webp",
-      "sha256": "ef1cb95ebcffedad8f7d4a874a8ba066748ca36c950a8687454e3909e03b2877"
+      "bytes": 115482,
+      "object": "objects/113144efe81e1de43c67d2ed46235dadd59b8805b84c7eaf459ea9531f1817cb.png",
+      "sha256": "113144efe81e1de43c67d2ed46235dadd59b8805b84c7eaf459ea9531f1817cb"
     },
     "assets/car_database/images/Haval~autohome~395.webp": {
       "bytes": 26106,
@@ -7756,9 +7756,9 @@
       "sha256": "502c90a074ebf7e6ec755f2397f177fad10390040a9a1b26afcf50e4ba36fb29"
     },
     "assets/car_database/images/Haval~autohome~4792.webp": {
-      "bytes": 26748,
-      "object": "objects/4b54e95af9544ac8a7f2f9d38bbd53c337923d165e46789a07561293ed7d7ae0.webp",
-      "sha256": "4b54e95af9544ac8a7f2f9d38bbd53c337923d165e46789a07561293ed7d7ae0"
+      "bytes": 134585,
+      "object": "objects/7aa8810daea36f842e773afd3a51d25dc755ac535bfa9847d36f88627c8d0097.png",
+      "sha256": "7aa8810daea36f842e773afd3a51d25dc755ac535bfa9847d36f88627c8d0097"
     },
     "assets/car_database/images/Haval~autohome~4898.webp": {
       "bytes": 18228,
@@ -7766,9 +7766,9 @@
       "sha256": "608d51f0cb02805a224c87c6b23698119081622962bcf897ce03fe48b1992d2f"
     },
     "assets/car_database/images/Haval~autohome~4984.webp": {
-      "bytes": 22046,
-      "object": "objects/c0f6da07c1e674855bb0adb269a988caf758e9379943140079205b957cc020ef.webp",
-      "sha256": "c0f6da07c1e674855bb0adb269a988caf758e9379943140079205b957cc020ef"
+      "bytes": 100448,
+      "object": "objects/69eafab2dd9400cbdf0d88b79c7c7a3c6aa3da72f3295465bd316acec58bf5c7.png",
+      "sha256": "69eafab2dd9400cbdf0d88b79c7c7a3c6aa3da72f3295465bd316acec58bf5c7"
     },
     "assets/car_database/images/Haval~autohome~5770.webp": {
       "bytes": 21036,
@@ -7811,9 +7811,9 @@
       "sha256": "9985636f880bceeb89a4534cdc6be58da324abc79999eda177d736c465a37ffd"
     },
     "assets/car_database/images/Haval~autohome~6926.webp": {
-      "bytes": 19264,
-      "object": "objects/54dc80c499a58e50bfdf9e65193de6f72827ac85e85d3193c06451e8147d5ce7.webp",
-      "sha256": "54dc80c499a58e50bfdf9e65193de6f72827ac85e85d3193c06451e8147d5ce7"
+      "bytes": 94106,
+      "object": "objects/fec2da6eae2116b6289ad39291659d5161e57ea267c026265a5eccfd546ff04d.png",
+      "sha256": "fec2da6eae2116b6289ad39291659d5161e57ea267c026265a5eccfd546ff04d"
     },
     "assets/car_database/images/Haval~autohome~7092.webp": {
       "bytes": 21432,
@@ -7851,9 +7851,9 @@
       "sha256": "828e1c2e62fd298645edd7dcebf3b64f2000a6949b6f7faf3bab34c31901aaa9"
     },
     "assets/car_database/images/Haval~autohome~8586.webp": {
-      "bytes": 22762,
-      "object": "objects/436aaf7ef90a21e898e349198330a9b0a211fa9867e8b1637c0a5aecde344a99.webp",
-      "sha256": "436aaf7ef90a21e898e349198330a9b0a211fa9867e8b1637c0a5aecde344a99"
+      "bytes": 96413,
+      "object": "objects/de2548ff24f1843c88806aaca74f7fe07556d01ccee734ce1caa2afaec5fe9cd.png",
+      "sha256": "de2548ff24f1843c88806aaca74f7fe07556d01ccee734ce1caa2afaec5fe9cd"
     },
     "assets/car_database/images/Haval~autohome~8701.webp": {
       "bytes": 17522,
@@ -7881,9 +7881,9 @@
       "sha256": "59582b9ddc7e2515d46d038e328fde266d3cbddf653ff4aedaedc5bc74e3365c"
     },
     "assets/car_database/images/HiPhi~autohome~5387.webp": {
-      "bytes": 17126,
-      "object": "objects/060cc99238f708c48e4b6bcd48a03ee558e1c5a23ab92bdc6f38193c723b960e.webp",
-      "sha256": "060cc99238f708c48e4b6bcd48a03ee558e1c5a23ab92bdc6f38193c723b960e"
+      "bytes": 80397,
+      "object": "objects/6415726e5bc0ec21f65b2d24306e4085e5137ed4990d3d722ba7e8e4de54cb91.png",
+      "sha256": "6415726e5bc0ec21f65b2d24306e4085e5137ed4990d3d722ba7e8e4de54cb91"
     },
     "assets/car_database/images/HiPhi~autohome~6472.webp": {
       "bytes": 20364,
@@ -8396,9 +8396,9 @@
       "sha256": "5905043f47b4e027fa6b40dba89db89e551de871ea1fbdc35c38b9f06b0176d5"
     },
     "assets/car_database/images/IM Motors~autohome~8215.webp": {
-      "bytes": 21266,
-      "object": "objects/1d15fadfb93ee3a365b95b3755c8cccf25969be187acbfc88521d04bb6252b61.webp",
-      "sha256": "1d15fadfb93ee3a365b95b3755c8cccf25969be187acbfc88521d04bb6252b61"
+      "bytes": 112840,
+      "object": "objects/b24371620d83a2e6d0d3ec16e4031f6362519d46c8734c57927c08da91356660.png",
+      "sha256": "b24371620d83a2e6d0d3ec16e4031f6362519d46c8734c57927c08da91356660"
     },
     "assets/car_database/images/IM Motors~autohome~8470.webp": {
       "bytes": 18058,
@@ -8531,9 +8531,9 @@
       "sha256": "3215fe7f105a8bc2887ad9cbc96836460f1bd451c16f919e418e195d1805eec9"
     },
     "assets/car_database/images/JAC~autohome~7251.webp": {
-      "bytes": 15972,
-      "object": "objects/68a5e1e07d7055e12a9be56ec8d7878d596b6dd74a845def4fbe778342d3769a.webp",
-      "sha256": "68a5e1e07d7055e12a9be56ec8d7878d596b6dd74a845def4fbe778342d3769a"
+      "bytes": 72902,
+      "object": "objects/90ca3f43e2b0a9d313b3cd2dfe64f2cdd5c6c21f4b53a8c87a8a6cf9f0818788.png",
+      "sha256": "90ca3f43e2b0a9d313b3cd2dfe64f2cdd5c6c21f4b53a8c87a8a6cf9f0818788"
     },
     "assets/car_database/images/JAC~autohome~7435.webp": {
       "bytes": 22874,
@@ -8556,9 +8556,9 @@
       "sha256": "92d078e803c1cd59024aba09865ad6309418cb3edb60ad287ea27c1fa0cb07b4"
     },
     "assets/car_database/images/JMC~autohome~2674.webp": {
-      "bytes": 21934,
-      "object": "objects/a0b06e76450b333151eafd1bc12b848796899c0743ca5d481f4f7ef608bb96ae.webp",
-      "sha256": "a0b06e76450b333151eafd1bc12b848796899c0743ca5d481f4f7ef608bb96ae"
+      "bytes": 114201,
+      "object": "objects/b47076a2cf18c9f7c294fe0f4958551eb1f8d24e07b92aefd7cd0fec14292a25.png",
+      "sha256": "b47076a2cf18c9f7c294fe0f4958551eb1f8d24e07b92aefd7cd0fec14292a25"
     },
     "assets/car_database/images/JMC~autohome~2860.webp": {
       "bytes": 23196,
@@ -8576,14 +8576,14 @@
       "sha256": "88654e446f0e74c07d7f3d58a60c30f2c9a569a56920efd3cb1cb923e0e4de9c"
     },
     "assets/car_database/images/JMC~autohome~4922.webp": {
-      "bytes": 26178,
-      "object": "objects/ff65c733c6cba972aaae80083e46fe586cadd23a213059af3884d500caf2506d.webp",
-      "sha256": "ff65c733c6cba972aaae80083e46fe586cadd23a213059af3884d500caf2506d"
+      "bytes": 118286,
+      "object": "objects/b852f659163674acb1a9975a883852ee8f24f805d661f10d9bf8082558c17d03.png",
+      "sha256": "b852f659163674acb1a9975a883852ee8f24f805d661f10d9bf8082558c17d03"
     },
     "assets/car_database/images/JMC~autohome~4930.webp": {
-      "bytes": 20914,
-      "object": "objects/9e8afbfab1397ae239ab6e1a815f0df0b519fcc10c67f4d3978610381482fcba.webp",
-      "sha256": "9e8afbfab1397ae239ab6e1a815f0df0b519fcc10c67f4d3978610381482fcba"
+      "bytes": 91710,
+      "object": "objects/e84682f3f2d271456034115022e1d6459b3cbbfaa488e0397d88ab63265644be.png",
+      "sha256": "e84682f3f2d271456034115022e1d6459b3cbbfaa488e0397d88ab63265644be"
     },
     "assets/car_database/images/JMC~autohome~4931.webp": {
       "bytes": 23742,
@@ -8606,14 +8606,14 @@
       "sha256": "a3d7d299ec5a18c0d44279640ff4c72e20802a1a47f72f7a4fcb403408d6c366"
     },
     "assets/car_database/images/JMC~autohome~6838.webp": {
-      "bytes": 23286,
-      "object": "objects/c2350c8ec0304c5282acb2abe3b87dc7ff569c803013e3fe5a5394f99314e8f3.webp",
-      "sha256": "c2350c8ec0304c5282acb2abe3b87dc7ff569c803013e3fe5a5394f99314e8f3"
+      "bytes": 101945,
+      "object": "objects/7c1ffcc515ff5c0f8f7b3821404cd94cf7d6692dee068c659ef733c1c4b46bf3.png",
+      "sha256": "7c1ffcc515ff5c0f8f7b3821404cd94cf7d6692dee068c659ef733c1c4b46bf3"
     },
     "assets/car_database/images/JMC~autohome~7029.webp": {
-      "bytes": 21418,
-      "object": "objects/335bdc66d6f9200ec5dfb92035374469055e6910fe095ecdf2b9a6605fbc8a9f.webp",
-      "sha256": "335bdc66d6f9200ec5dfb92035374469055e6910fe095ecdf2b9a6605fbc8a9f"
+      "bytes": 82392,
+      "object": "objects/b5b12851700e61dcd1a7c96bdc644f8047f5dfbd3e1ba39fc4daaf8e1e35ef28.png",
+      "sha256": "b5b12851700e61dcd1a7c96bdc644f8047f5dfbd3e1ba39fc4daaf8e1e35ef28"
     },
     "assets/car_database/images/JMC~autohome~7195.webp": {
       "bytes": 20050,
@@ -8631,9 +8631,9 @@
       "sha256": "091ca4c08f8be7dcef743e8eddccdb3c27ef0368d51075c9574ec899adff00c1"
     },
     "assets/car_database/images/JMC~autohome~7366.webp": {
-      "bytes": 29728,
-      "object": "objects/76fb1abe4c48c8afbc3abc989f4a09316521b04aefee67096268d61d1aeea4cd.webp",
-      "sha256": "76fb1abe4c48c8afbc3abc989f4a09316521b04aefee67096268d61d1aeea4cd"
+      "bytes": 111565,
+      "object": "objects/8bbddb201cb9230b655b45c56b333541901f9b33be641935e40288a026367328.png",
+      "sha256": "8bbddb201cb9230b655b45c56b333541901f9b33be641935e40288a026367328"
     },
     "assets/car_database/images/JMC~autohome~7367.webp": {
       "bytes": 27484,
@@ -8646,9 +8646,9 @@
       "sha256": "c7b82660b0434be922bbc85aa8c0d5d9dbce7b8622ad11ff4d418094e3f23697"
     },
     "assets/car_database/images/JMC~autohome~7933.webp": {
-      "bytes": 24904,
-      "object": "objects/cd99f11c892fafd0a147d223ee03038a84eaf85aa07aa79cdf428fe7ac5b6bf0.webp",
-      "sha256": "cd99f11c892fafd0a147d223ee03038a84eaf85aa07aa79cdf428fe7ac5b6bf0"
+      "bytes": 126636,
+      "object": "objects/e9c281433ceb91378fc33feff016326511fcf57178a6a33681cde93d04dcceb5.png",
+      "sha256": "e9c281433ceb91378fc33feff016326511fcf57178a6a33681cde93d04dcceb5"
     },
     "assets/car_database/images/JMC~autohome~7934.webp": {
       "bytes": 20668,
@@ -8656,9 +8656,9 @@
       "sha256": "c9ec86cf4ccd1b40a64b244b37605e96265f644fa7d60ab9736e50e64ccffb42"
     },
     "assets/car_database/images/JMC~autohome~8007.webp": {
-      "bytes": 21508,
-      "object": "objects/2c338038bc586758bf7676cb4bbc4ee677ef939fdfa06f4420104082128da135.webp",
-      "sha256": "2c338038bc586758bf7676cb4bbc4ee677ef939fdfa06f4420104082128da135"
+      "bytes": 97310,
+      "object": "objects/aeed9cd96b9a86270e82c5d5a524ad0d43019058293260fd90b8f543abaeed02.png",
+      "sha256": "aeed9cd96b9a86270e82c5d5a524ad0d43019058293260fd90b8f543abaeed02"
     },
     "assets/car_database/images/JMC~autohome~8150.webp": {
       "bytes": 20798,
@@ -8686,9 +8686,9 @@
       "sha256": "d69ee87bafafa9ad84dae1ead449d45d68cfe85d664a5556c514e0539ec7204c"
     },
     "assets/car_database/images/JMEV~autohome~4375.webp": {
-      "bytes": 26974,
-      "object": "objects/e1e18d8badb7bfa83b958a9c833cc9bcb079b4358e20f27ecf997633e4eadee7.webp",
-      "sha256": "e1e18d8badb7bfa83b958a9c833cc9bcb079b4358e20f27ecf997633e4eadee7"
+      "bytes": 126740,
+      "object": "objects/04a559e8ed8fc9943c3e7747ecb03a000646c2520b6b29439ffc968151953c29.png",
+      "sha256": "04a559e8ed8fc9943c3e7747ecb03a000646c2520b6b29439ffc968151953c29"
     },
     "assets/car_database/images/JMEV~autohome~4388.webp": {
       "bytes": 24666,
@@ -8696,9 +8696,9 @@
       "sha256": "e001a62fb3f8f21ea52a3129c9cc63e9ecdeb205d56ef5b2240538f29efc6ec9"
     },
     "assets/car_database/images/JMEV~autohome~4765.webp": {
-      "bytes": 27436,
-      "object": "objects/8d652c9d79475764f9ed4952aaba24ccdb3fd8614558f2f320c38d6e3ed2e8d1.webp",
-      "sha256": "8d652c9d79475764f9ed4952aaba24ccdb3fd8614558f2f320c38d6e3ed2e8d1"
+      "bytes": 123741,
+      "object": "objects/66ab51cd6ab2cfafbb5ddb7c2a4092039edef1fac71f2580957041f3079a9ff0.png",
+      "sha256": "66ab51cd6ab2cfafbb5ddb7c2a4092039edef1fac71f2580957041f3079a9ff0"
     },
     "assets/car_database/images/JMEV~autohome~4949.webp": {
       "bytes": 20258,
@@ -8706,14 +8706,14 @@
       "sha256": "010d40f7be1f87e031ed7faa5ba590cd26a8566defc4e1c1324ee0731fa9d1a3"
     },
     "assets/car_database/images/JMEV~autohome~6005.webp": {
-      "bytes": 19292,
-      "object": "objects/f0d07670715db64fe005e5f7cac25bc531493e6e52532fdb7ba34971d52c74dd.webp",
-      "sha256": "f0d07670715db64fe005e5f7cac25bc531493e6e52532fdb7ba34971d52c74dd"
+      "bytes": 98230,
+      "object": "objects/026c2c68ce89537bafbd42ef14b7373e950dda060c7da9aaf9688b98c707d076.png",
+      "sha256": "026c2c68ce89537bafbd42ef14b7373e950dda060c7da9aaf9688b98c707d076"
     },
     "assets/car_database/images/JMEV~autohome~6720.webp": {
-      "bytes": 23662,
-      "object": "objects/65d1c9d329a83cbd6eba32ece5bd4c7fdd244e27fd685c08a11ff41e097c84b4.webp",
-      "sha256": "65d1c9d329a83cbd6eba32ece5bd4c7fdd244e27fd685c08a11ff41e097c84b4"
+      "bytes": 109338,
+      "object": "objects/0b03f43b436b0440c88c2cdc0c19b9b4bca80b55c3bd3165e98ee2b039e8525a.png",
+      "sha256": "0b03f43b436b0440c88c2cdc0c19b9b4bca80b55c3bd3165e98ee2b039e8525a"
     },
     "assets/car_database/images/JMEV~autohome~6955.webp": {
       "bytes": 17114,
@@ -9041,14 +9041,14 @@
       "sha256": "83145db051d47b5f4bb3ae28f5c4656e6759972616ddf35281d82bb9ac6fefd1"
     },
     "assets/car_database/images/Jetour~autohome~5052.webp": {
-      "bytes": 28314,
-      "object": "objects/ffc3247af6a20340490dda3a12fea27d24eb3448134d84268625556d80058868.webp",
-      "sha256": "ffc3247af6a20340490dda3a12fea27d24eb3448134d84268625556d80058868"
+      "bytes": 140052,
+      "object": "objects/35c9a06de54e978c1d129b6ca7c242b1ca697a49055e1edd3df4c2e895315255.png",
+      "sha256": "35c9a06de54e978c1d129b6ca7c242b1ca697a49055e1edd3df4c2e895315255"
     },
     "assets/car_database/images/Jetour~autohome~5081.webp": {
-      "bytes": 21962,
-      "object": "objects/74d322d7ac7c47de0a30f56f52f5b286c1e837aaf0edd269baa75c00aacac05d.webp",
-      "sha256": "74d322d7ac7c47de0a30f56f52f5b286c1e837aaf0edd269baa75c00aacac05d"
+      "bytes": 99403,
+      "object": "objects/aa4d90723ef1b671e8f07cdb299ebbcddde091f2ad2f31823fef16d326914bd2.png",
+      "sha256": "aa4d90723ef1b671e8f07cdb299ebbcddde091f2ad2f31823fef16d326914bd2"
     },
     "assets/car_database/images/Jetour~autohome~5255.webp": {
       "bytes": 27718,
@@ -9081,14 +9081,14 @@
       "sha256": "64235caed85f1825042e00ff71ae5595eaafacb061a5844a31dca23318ba1c88"
     },
     "assets/car_database/images/Jetour~autohome~6606.webp": {
-      "bytes": 23552,
-      "object": "objects/47bbc196e4e5c73e8237da92da2dbecb7e9d0ba939526ece5945ea63a0f682a6.webp",
-      "sha256": "47bbc196e4e5c73e8237da92da2dbecb7e9d0ba939526ece5945ea63a0f682a6"
+      "bytes": 94165,
+      "object": "objects/36df4e59a0b91b3908f0e789ebb7fb8cccb4e1449f8e151d59df7e2ba74944ed.png",
+      "sha256": "36df4e59a0b91b3908f0e789ebb7fb8cccb4e1449f8e151d59df7e2ba74944ed"
     },
     "assets/car_database/images/Jetour~autohome~6881.webp": {
-      "bytes": 19516,
-      "object": "objects/5e5dc67db33026babe76e12243f9f68a249c5422f2d92fea83d9740bdc5b4278.webp",
-      "sha256": "5e5dc67db33026babe76e12243f9f68a249c5422f2d92fea83d9740bdc5b4278"
+      "bytes": 88944,
+      "object": "objects/404f9c0f3141e041f608fabb76569715a5bcdbb7a7d08a9ce0f23c2ef12583d9.png",
+      "sha256": "404f9c0f3141e041f608fabb76569715a5bcdbb7a7d08a9ce0f23c2ef12583d9"
     },
     "assets/car_database/images/Jetour~autohome~7319.webp": {
       "bytes": 21914,
@@ -9096,9 +9096,9 @@
       "sha256": "a448b285afb582c41aec490e787b51c069000691b9ca369396e1c7d58968a1ce"
     },
     "assets/car_database/images/Jetour~autohome~7345.webp": {
-      "bytes": 22924,
-      "object": "objects/56cb114a4625fcf22e15394dcbb8d9f2d0affc7ccb634114e48dea88ea6b56e2.webp",
-      "sha256": "56cb114a4625fcf22e15394dcbb8d9f2d0affc7ccb634114e48dea88ea6b56e2"
+      "bytes": 93607,
+      "object": "objects/9511e201d51ec25e7af5dd5cd3bb1e194f33c66f84b06676e9e40c26ffa1d713.png",
+      "sha256": "9511e201d51ec25e7af5dd5cd3bb1e194f33c66f84b06676e9e40c26ffa1d713"
     },
     "assets/car_database/images/Jetour~autohome~7508.webp": {
       "bytes": 23562,
@@ -9166,9 +9166,9 @@
       "sha256": "47da176698044813510270264636619c549e318b0bac28981b8590dbe034bbde"
     },
     "assets/car_database/images/Jetta~autohome~8160.webp": {
-      "bytes": 23478,
-      "object": "objects/c4534461ff590e1659cfa8c75cd69014d76f7263063d410d99469e55fa38bb19.webp",
-      "sha256": "c4534461ff590e1659cfa8c75cd69014d76f7263063d410d99469e55fa38bb19"
+      "bytes": 116285,
+      "object": "objects/4a2a5b4f1229822e6376cb46c2b78989f35dbf6d4b8791dc3fbc6912da302534.png",
+      "sha256": "4a2a5b4f1229822e6376cb46c2b78989f35dbf6d4b8791dc3fbc6912da302534"
     },
     "assets/car_database/images/Jetta~autohome~8618.webp": {
       "bytes": 19686,
@@ -9176,9 +9176,9 @@
       "sha256": "3df0915e572e32893ef8d15a4472a5ecc2e98b04b5b39cc972c56b33e1562f40"
     },
     "assets/car_database/images/Jiangnan~autohome~6927.webp": {
-      "bytes": 21392,
-      "object": "objects/992dc64ff9e1863ff1d8087badfb152a60be5e756131c1d6e5922c86757d23cc.webp",
-      "sha256": "992dc64ff9e1863ff1d8087badfb152a60be5e756131c1d6e5922c86757d23cc"
+      "bytes": 97253,
+      "object": "objects/1692ee83f38e25ebaea3840172c370c07e317a87aaef88bf61ab44eb29da747c.png",
+      "sha256": "1692ee83f38e25ebaea3840172c370c07e317a87aaef88bf61ab44eb29da747c"
     },
     "assets/car_database/images/Jiyue~autohome~6769.webp": {
       "bytes": 18782,
@@ -9201,14 +9201,14 @@
       "sha256": "027893ce03e4ef77cf0e1dbde72bd1439b0efe6f4c68071e51feeccc297e8e8b"
     },
     "assets/car_database/images/Kaiyi~autohome~6844.webp": {
-      "bytes": 17934,
-      "object": "objects/f50b9ab17a12eff9599d3c9fdde3580e9d51f3a86d3e5475111007f4f4d5a07f.webp",
-      "sha256": "f50b9ab17a12eff9599d3c9fdde3580e9d51f3a86d3e5475111007f4f4d5a07f"
+      "bytes": 72724,
+      "object": "objects/85a0b843e2d39f26076c4222c02bc0760cbbe58c671145eb6b952d6356f08b24.png",
+      "sha256": "85a0b843e2d39f26076c4222c02bc0760cbbe58c671145eb6b952d6356f08b24"
     },
     "assets/car_database/images/Kaiyi~autohome~6845.webp": {
-      "bytes": 18822,
-      "object": "objects/da1a2876b105d353e8c06ab4a563d3c2a8f2901b41665dcb028e34878f651026.webp",
-      "sha256": "da1a2876b105d353e8c06ab4a563d3c2a8f2901b41665dcb028e34878f651026"
+      "bytes": 87508,
+      "object": "objects/e927857b22b5946513adad3b33c3ebd547fd510eaa675edd6b0d23bfec0e13f9.png",
+      "sha256": "e927857b22b5946513adad3b33c3ebd547fd510eaa675edd6b0d23bfec0e13f9"
     },
     "assets/car_database/images/Karma~wikimedia~51429225.webp": {
       "bytes": 245658,
@@ -9541,19 +9541,19 @@
       "sha256": "b4867a778f03c7d359f3eaa0f52c608bd861329702d9ed3bbc9b32283f8f39f2"
     },
     "assets/car_database/images/Koenigsegg~autohome~731.webp": {
-      "bytes": 23290,
-      "object": "objects/8d0f85cddb8e9a0ad270fac43ea01ce88791c0c8d5968bf5989091704669aab2.webp",
-      "sha256": "8d0f85cddb8e9a0ad270fac43ea01ce88791c0c8d5968bf5989091704669aab2"
+      "bytes": 115515,
+      "object": "objects/41eeece5d9d3e3b7c2251de01047bad521a9840fc548d816da6bff2964f4f7bf.png",
+      "sha256": "41eeece5d9d3e3b7c2251de01047bad521a9840fc548d816da6bff2964f4f7bf"
     },
     "assets/car_database/images/Koenigsegg~autohome~732.webp": {
-      "bytes": 16874,
-      "object": "objects/6ef8776a9a2f9a707810e6f887e07dce459220012d7852ad1cd1773eb2fcd671.webp",
-      "sha256": "6ef8776a9a2f9a707810e6f887e07dce459220012d7852ad1cd1773eb2fcd671"
+      "bytes": 73980,
+      "object": "objects/d0e5bcc43a2f73af6024c4fb97d3ec691509f6c04272c64f25c12104c54858a0.png",
+      "sha256": "d0e5bcc43a2f73af6024c4fb97d3ec691509f6c04272c64f25c12104c54858a0"
     },
     "assets/car_database/images/LEVC~autohome~5939.webp": {
-      "bytes": 27436,
-      "object": "objects/7891fe0e679322cec0209b5b9af5a9b018493e1bcd954f347ac0ffe1a768caf2.webp",
-      "sha256": "7891fe0e679322cec0209b5b9af5a9b018493e1bcd954f347ac0ffe1a768caf2"
+      "bytes": 139431,
+      "object": "objects/c53b6a1e3694dac63440a305fbfc2f6dd2b1dfdd07829b26da6d197adfa45635.png",
+      "sha256": "c53b6a1e3694dac63440a305fbfc2f6dd2b1dfdd07829b26da6d197adfa45635"
     },
     "assets/car_database/images/Lada~wikimedia~32785781.webp": {
       "bytes": 119674,
@@ -9771,9 +9771,9 @@
       "sha256": "8b62fb5e92b5bc1d7c9dfa7e283ab3d9704002ced7da500dab4d04408131f003"
     },
     "assets/car_database/images/Leapmotor~autohome~8569.webp": {
-      "bytes": 19946,
-      "object": "objects/1bf4a24cc503eaa13e088f814a15a915fd1f89655f681f480580ee06c45cb834.webp",
-      "sha256": "1bf4a24cc503eaa13e088f814a15a915fd1f89655f681f480580ee06c45cb834"
+      "bytes": 83035,
+      "object": "objects/b7fb029e07ac82ab436a0522a9b2d7c333156480d814e019408911e2a756fbdc.png",
+      "sha256": "b7fb029e07ac82ab436a0522a9b2d7c333156480d814e019408911e2a756fbdc"
     },
     "assets/car_database/images/Leopaard~autohome~706.webp": {
       "bytes": 25910,
@@ -9781,9 +9781,9 @@
       "sha256": "ccda69017f8f8640bfbb338655b0c3f18fc79a128602fe9c0a7d4a9302ac041c"
     },
     "assets/car_database/images/Leopaard~autohome~815.webp": {
-      "bytes": 26962,
-      "object": "objects/95ce6f53faab3c6a6129c76321fb9805061e1756fcffa5fd78234235f981f50a.webp",
-      "sha256": "95ce6f53faab3c6a6129c76321fb9805061e1756fcffa5fd78234235f981f50a"
+      "bytes": 127463,
+      "object": "objects/c6e298a0883b404f51d6ae389d572c7fd5c45d4d2954b849929b0bba3cb9e321.png",
+      "sha256": "c6e298a0883b404f51d6ae389d572c7fd5c45d4d2954b849929b0bba3cb9e321"
     },
     "assets/car_database/images/Lepas~wikimedia~178826803.webp": {
       "bytes": 307010,
@@ -10036,9 +10036,9 @@
       "sha256": "36b527c752004e2e00fb096eb93159f38db6f8475df0422495185ab5db5ae96a"
     },
     "assets/car_database/images/Li Auto~autohome~8183.webp": {
-      "bytes": 17240,
-      "object": "objects/45288843b0196100f761a72a6da9aafc3ff74c29e2938ad1e2d00b9f9b023c18.webp",
-      "sha256": "45288843b0196100f761a72a6da9aafc3ff74c29e2938ad1e2d00b9f9b023c18"
+      "bytes": 82575,
+      "object": "objects/e79fb3a6549a0ac0d4fdecf6f6388c50f2ee0c9b9f3c8ec0a0015cd8e90a267c.png",
+      "sha256": "e79fb3a6549a0ac0d4fdecf6f6388c50f2ee0c9b9f3c8ec0a0015cd8e90a267c"
     },
     "assets/car_database/images/Li Auto~autohome~8727.webp": {
       "bytes": 19372,
@@ -10051,14 +10051,14 @@
       "sha256": "d9a07242ddcfe01c2338b1babbfee6e8d2a60a5ed5ae6436f21ae2c2d3018018"
     },
     "assets/car_database/images/Lifan~autohome~2312.webp": {
-      "bytes": 24838,
-      "object": "objects/520ada17e060afd68440bd05a3602aaa714958a1c57b3d4cd621b07d551ef58a.webp",
-      "sha256": "520ada17e060afd68440bd05a3602aaa714958a1c57b3d4cd621b07d551ef58a"
+      "bytes": 117805,
+      "object": "objects/08c24fa75e603812e1961da0084affa93cff02c335c31dce21a1cabbdce0a250.png",
+      "sha256": "08c24fa75e603812e1961da0084affa93cff02c335c31dce21a1cabbdce0a250"
     },
     "assets/car_database/images/Lifan~autohome~2502.webp": {
-      "bytes": 29006,
-      "object": "objects/c5a528c1752761e73e7ca5e8ea419074e6334d49a24f3339625daed6548b5ae6.webp",
-      "sha256": "c5a528c1752761e73e7ca5e8ea419074e6334d49a24f3339625daed6548b5ae6"
+      "bytes": 135347,
+      "object": "objects/bce18afabc3eb92c4e4c23a89bcdf4cb6e4806d2df3c0acc677f51675530311c.png",
+      "sha256": "bce18afabc3eb92c4e4c23a89bcdf4cb6e4806d2df3c0acc677f51675530311c"
     },
     "assets/car_database/images/Lifan~autohome~2503.webp": {
       "bytes": 30694,
@@ -10066,9 +10066,9 @@
       "sha256": "ef1db5d9a9c7b5e693fddbd4a420705f37616683646e0ae523c2636e671a15b4"
     },
     "assets/car_database/images/Lifan~autohome~2800.webp": {
-      "bytes": 24766,
-      "object": "objects/d29e05bac36113b1ddab229f982c26e8177b0ddb574961ce644eaf9f4297a044.webp",
-      "sha256": "d29e05bac36113b1ddab229f982c26e8177b0ddb574961ce644eaf9f4297a044"
+      "bytes": 116133,
+      "object": "objects/cbd6af5ed085d24cf9552b4ae657a7e5ca84c4bab7ff6b194a3bef6e8289a079.png",
+      "sha256": "cbd6af5ed085d24cf9552b4ae657a7e5ca84c4bab7ff6b194a3bef6e8289a079"
     },
     "assets/car_database/images/Lifan~autohome~2957.webp": {
       "bytes": 24670,
@@ -10081,9 +10081,9 @@
       "sha256": "c9e1a38ae7e26f64125f6f0bb7da341e32f52322079a94ebaa71fb7b5abd535c"
     },
     "assets/car_database/images/Lifan~autohome~3083.webp": {
-      "bytes": 24510,
-      "object": "objects/78609050c3b99c7fa11849b3b9d4b1d50b217e79876a72a6dff2b0ede5a2978d.webp",
-      "sha256": "78609050c3b99c7fa11849b3b9d4b1d50b217e79876a72a6dff2b0ede5a2978d"
+      "bytes": 111752,
+      "object": "objects/57a4625dd968eb02cfbb10e3a6aa263c15735dc35c6820c9f5163986ddabcff4.png",
+      "sha256": "57a4625dd968eb02cfbb10e3a6aa263c15735dc35c6820c9f5163986ddabcff4"
     },
     "assets/car_database/images/Lifan~autohome~3220.webp": {
       "bytes": 24184,
@@ -10106,9 +10106,9 @@
       "sha256": "71d5d1b3254293446cb03057489b79bba09eb55cfbb72a89cf6f3ecf9bf6bc55"
     },
     "assets/car_database/images/Lifan~autohome~3631.webp": {
-      "bytes": 30660,
-      "object": "objects/62dc948e4dd672d48ad11833df59b4a21c0d6cf3977170454dedb8373864c934.webp",
-      "sha256": "62dc948e4dd672d48ad11833df59b4a21c0d6cf3977170454dedb8373864c934"
+      "bytes": 143197,
+      "object": "objects/cef1c793d2ea0d2a681fd22a1c37ef78d18d041f85ae2944b5b2ba847d549476.png",
+      "sha256": "cef1c793d2ea0d2a681fd22a1c37ef78d18d041f85ae2944b5b2ba847d549476"
     },
     "assets/car_database/images/Lifan~autohome~3759.webp": {
       "bytes": 22426,
@@ -10116,9 +10116,9 @@
       "sha256": "aec1b8a1942d80af2cc149404656dadb375f173c91db2265814efa7d2a346fdf"
     },
     "assets/car_database/images/Lifan~autohome~3987.webp": {
-      "bytes": 23884,
-      "object": "objects/5daa943c8ad43cb64ab840d4c7f33c595404c33b77725400503427ae75f995c5.webp",
-      "sha256": "5daa943c8ad43cb64ab840d4c7f33c595404c33b77725400503427ae75f995c5"
+      "bytes": 108978,
+      "object": "objects/46ceb66dfb0ee9d1d5ad04a0d0e071c4bb8ca0c0ef4d0298a53ff23d93bfca18.png",
+      "sha256": "46ceb66dfb0ee9d1d5ad04a0d0e071c4bb8ca0c0ef4d0298a53ff23d93bfca18"
     },
     "assets/car_database/images/Lifan~autohome~4194.webp": {
       "bytes": 22566,
@@ -10136,9 +10136,9 @@
       "sha256": "4de9e6f83639a39169b4bc923a45234d726cd7eb294aacf3daa8a54e1e9ac9c2"
     },
     "assets/car_database/images/Lifan~autohome~443.webp": {
-      "bytes": 24018,
-      "object": "objects/6ab3c98fef3252561649350aa98cfd5194bc2c5ad8850086f34be6bcf507f03c.webp",
-      "sha256": "6ab3c98fef3252561649350aa98cfd5194bc2c5ad8850086f34be6bcf507f03c"
+      "bytes": 111000,
+      "object": "objects/7f5c4f2d81d57330b44d5bb542eb312674dffa1b4ccb302ad2f7fbe6a1fe94f8.png",
+      "sha256": "7f5c4f2d81d57330b44d5bb542eb312674dffa1b4ccb302ad2f7fbe6a1fe94f8"
     },
     "assets/car_database/images/Lifan~autohome~4773.webp": {
       "bytes": 23316,
@@ -10146,14 +10146,14 @@
       "sha256": "791a72db9bd1044313a81cf6d1c217770be759eb7bfdbce53e0333cdd24a7c85"
     },
     "assets/car_database/images/Lifan~autohome~4873.webp": {
-      "bytes": 24300,
-      "object": "objects/5b23179262ca13a80b20a322dbb2374607dde05e5f849c7dff28de032e6e8a3f.webp",
-      "sha256": "5b23179262ca13a80b20a322dbb2374607dde05e5f849c7dff28de032e6e8a3f"
+      "bytes": 103187,
+      "object": "objects/43862fd6605bdf835e9821223d6274dfb6791d9b7921429a27808261a2efd37b.png",
+      "sha256": "43862fd6605bdf835e9821223d6274dfb6791d9b7921429a27808261a2efd37b"
     },
     "assets/car_database/images/Lifan~autohome~4977.webp": {
-      "bytes": 23236,
-      "object": "objects/94ae4852d388d4fbb21156c9e9581d2d4d85bcdafc3cb84c2a4aea7578768bd2.webp",
-      "sha256": "94ae4852d388d4fbb21156c9e9581d2d4d85bcdafc3cb84c2a4aea7578768bd2"
+      "bytes": 106526,
+      "object": "objects/a2b03cd7db62fd6890ab1fb7702af136d3c53b3da9ae131eff425959875d97e2.png",
+      "sha256": "a2b03cd7db62fd6890ab1fb7702af136d3c53b3da9ae131eff425959875d97e2"
     },
     "assets/car_database/images/Lifan~autohome~596.webp": {
       "bytes": 22030,
@@ -10226,14 +10226,14 @@
       "sha256": "3701ae0e57ef9873cc816cbf8c7a30a0f3c534c006ce8f96f9c2c002c12102ef"
     },
     "assets/car_database/images/Lingbao~autohome~5724.webp": {
-      "bytes": 24540,
-      "object": "objects/1180dbb71e9ca15c897ad31c10e3c0f5a256ba4dee4208180cb974a2a936217d.webp",
-      "sha256": "1180dbb71e9ca15c897ad31c10e3c0f5a256ba4dee4208180cb974a2a936217d"
+      "bytes": 113209,
+      "object": "objects/0d5df5f3431d9c5b27914743762421c23b4915660e24ffedfd39ab112f1138c8.png",
+      "sha256": "0d5df5f3431d9c5b27914743762421c23b4915660e24ffedfd39ab112f1138c8"
     },
     "assets/car_database/images/Lingbao~autohome~6436.webp": {
-      "bytes": 19904,
-      "object": "objects/b8cbaee68a0a9b2011cd106a1c6da31fa93d3ad589a4bddd3a0f07407db64367.webp",
-      "sha256": "b8cbaee68a0a9b2011cd106a1c6da31fa93d3ad589a4bddd3a0f07407db64367"
+      "bytes": 82103,
+      "object": "objects/9e3fc9561555f58becd4d8ab50fbf74f19b3ac2966aae309e08541c88b6e368b.png",
+      "sha256": "9e3fc9561555f58becd4d8ab50fbf74f19b3ac2966aae309e08541c88b6e368b"
     },
     "assets/car_database/images/Linghui~autohome~8522.webp": {
       "bytes": 17378,
@@ -10241,9 +10241,9 @@
       "sha256": "de62934132445a09d7524c5d97b3190107228f4a6e2ea801f1f5aa9f93de50c4"
     },
     "assets/car_database/images/Linghui~autohome~8525.webp": {
-      "bytes": 19516,
-      "object": "objects/74e6894cdf5917a6b6661e0869ca20cec5f9224dbe99ff45a21ff0afe01d3a0a.webp",
-      "sha256": "74e6894cdf5917a6b6661e0869ca20cec5f9224dbe99ff45a21ff0afe01d3a0a"
+      "bytes": 90817,
+      "object": "objects/e52d1a839b5e71c4b9bb95f530095d28760be6c2030f4d075c3549eaa8427365.png",
+      "sha256": "e52d1a839b5e71c4b9bb95f530095d28760be6c2030f4d075c3549eaa8427365"
     },
     "assets/car_database/images/Lingxi~autohome~7407.webp": {
       "bytes": 18162,
@@ -10261,9 +10261,9 @@
       "sha256": "b2aebf5733e65bc7bcd32fdee8ba075a9b1b5c4c3e2657ad3a2d980a9c8e02be"
     },
     "assets/car_database/images/Livan~autohome~6215.webp": {
-      "bytes": 17686,
-      "object": "objects/ec8b4cb84f9916dd8562aabae858a9b38d570c84db42420bbc33c860b03586dd.webp",
-      "sha256": "ec8b4cb84f9916dd8562aabae858a9b38d570c84db42420bbc33c860b03586dd"
+      "bytes": 83832,
+      "object": "objects/431a7cad9e801c61f3181728420d4af364f0f709bf4e549c344c584d7d59473b.png",
+      "sha256": "431a7cad9e801c61f3181728420d4af364f0f709bf4e549c344c584d7d59473b"
     },
     "assets/car_database/images/Livan~autohome~6607.webp": {
       "bytes": 19750,
@@ -10276,9 +10276,9 @@
       "sha256": "449e1f7ae45fd96fb6e27175f267dc9b5986e8e95475d4bc7128ea2e1cff9fa7"
     },
     "assets/car_database/images/Livan~autohome~6792.webp": {
-      "bytes": 19392,
-      "object": "objects/1c65b7c4d23fe400535f88fe6bf09b6c6c5bbb8cb1fe1469990fabc2c799fc13.webp",
-      "sha256": "1c65b7c4d23fe400535f88fe6bf09b6c6c5bbb8cb1fe1469990fabc2c799fc13"
+      "bytes": 88177,
+      "object": "objects/4118e77aebb4374b5a8af9056c4fb34f8d00180d3dd5875ad85ddf225a90d62c.png",
+      "sha256": "4118e77aebb4374b5a8af9056c4fb34f8d00180d3dd5875ad85ddf225a90d62c"
     },
     "assets/car_database/images/Livan~autohome~6947.webp": {
       "bytes": 22260,
@@ -10471,14 +10471,14 @@
       "sha256": "e87316451c07a87ba4ea82f46cf5444457a9fc0a10ebc13c256cd8c132cdd547"
     },
     "assets/car_database/images/Lynk & Co~autohome~7812.webp": {
-      "bytes": 19400,
-      "object": "objects/72de6f320c03cc500c785b93b2ce0c01c5a01e0764fcc875d60f65d27c1da72d.webp",
-      "sha256": "72de6f320c03cc500c785b93b2ce0c01c5a01e0764fcc875d60f65d27c1da72d"
+      "bytes": 85934,
+      "object": "objects/451daa9bfa4c3e7521254d64c92b10eeffccf3e8709c22370259709db664edb2.png",
+      "sha256": "451daa9bfa4c3e7521254d64c92b10eeffccf3e8709c22370259709db664edb2"
     },
     "assets/car_database/images/Lynk & Co~autohome~8002.webp": {
-      "bytes": 20346,
-      "object": "objects/5b074dd7ba27615805612eff070d81e665cf1b251a2d69fca42350e60c528771.webp",
-      "sha256": "5b074dd7ba27615805612eff070d81e665cf1b251a2d69fca42350e60c528771"
+      "bytes": 97783,
+      "object": "objects/e776310333a1332329d0506718aac93361d6b6ed60e8a9a9cbc43986e786d137.png",
+      "sha256": "e776310333a1332329d0506718aac93361d6b6ed60e8a9a9cbc43986e786d137"
     },
     "assets/car_database/images/Lynk & Co~autohome~8176.webp": {
       "bytes": 20150,
@@ -10856,14 +10856,14 @@
       "sha256": "8cad47422c2f63d0cf41f93f8bafd28f28ff79c53d4064ed007cc167c89db707"
     },
     "assets/car_database/images/Maxus~autohome~3064.webp": {
-      "bytes": 24314,
-      "object": "objects/613b77e89a3f7146b74bdd159ee50211ee4e07708c899f630eab09db66f848e3.webp",
-      "sha256": "613b77e89a3f7146b74bdd159ee50211ee4e07708c899f630eab09db66f848e3"
+      "bytes": 109032,
+      "object": "objects/c8eeb9f569a3881830239498ef25f69d37ab3e940d0f1fc898e04f0ba35e2ec6.png",
+      "sha256": "c8eeb9f569a3881830239498ef25f69d37ab3e940d0f1fc898e04f0ba35e2ec6"
     },
     "assets/car_database/images/Maxus~autohome~3192.webp": {
-      "bytes": 22992,
-      "object": "objects/265e8ed6e4ee7af83157b148fc27f44a099ab1d4bae773e7f868182598d6e86d.webp",
-      "sha256": "265e8ed6e4ee7af83157b148fc27f44a099ab1d4bae773e7f868182598d6e86d"
+      "bytes": 108274,
+      "object": "objects/c885010dc1ca519226ee3afc94b4d080b26fdcaa3f7a98d43467a9c4842d1349.png",
+      "sha256": "c885010dc1ca519226ee3afc94b4d080b26fdcaa3f7a98d43467a9c4842d1349"
     },
     "assets/car_database/images/Maxus~autohome~4120.webp": {
       "bytes": 27694,
@@ -10911,9 +10911,9 @@
       "sha256": "a27371c4c3b4c3413ce159e185db5b6b525f6b39dd2960a908fce592e499e7d4"
     },
     "assets/car_database/images/Maxus~autohome~5244.webp": {
-      "bytes": 25786,
-      "object": "objects/238fe4670808ffac8c1e2d5f4ff5e3e2f7754c7274aed8158b187504964adc3b.webp",
-      "sha256": "238fe4670808ffac8c1e2d5f4ff5e3e2f7754c7274aed8158b187504964adc3b"
+      "bytes": 122093,
+      "object": "objects/c5836dd2b09f0b39987f965eeabd6f5b43e95c6fc9e0f443288b8a2d1db8e8f7.png",
+      "sha256": "c5836dd2b09f0b39987f965eeabd6f5b43e95c6fc9e0f443288b8a2d1db8e8f7"
     },
     "assets/car_database/images/Maxus~autohome~5258.webp": {
       "bytes": 20462,
@@ -10926,39 +10926,39 @@
       "sha256": "49886142fb54e5a72d434cc5fa5889ef679ed13bd7bb83c7232e684664d671da"
     },
     "assets/car_database/images/Maxus~autohome~5391.webp": {
-      "bytes": 25748,
-      "object": "objects/8c8489550126d1ffc50a2eb1b14b095fc365dc87b990fca072327c2cfe269e7e.webp",
-      "sha256": "8c8489550126d1ffc50a2eb1b14b095fc365dc87b990fca072327c2cfe269e7e"
+      "bytes": 121000,
+      "object": "objects/e35db676ebe66ce3b9fe9a54251930d42823f3bce4ab34ef9e10e680cecef274.png",
+      "sha256": "e35db676ebe66ce3b9fe9a54251930d42823f3bce4ab34ef9e10e680cecef274"
     },
     "assets/car_database/images/Maxus~autohome~5494.webp": {
-      "bytes": 25382,
-      "object": "objects/857a2560f5456cc8ed338d768b8120b6c41c5c06e8914aa4c388ac0cf8f04dc5.webp",
-      "sha256": "857a2560f5456cc8ed338d768b8120b6c41c5c06e8914aa4c388ac0cf8f04dc5"
+      "bytes": 118985,
+      "object": "objects/a86a295995200b9bcd9c0a8428d42a5e4522cc5a818b05bed8174c310cd986b4.png",
+      "sha256": "a86a295995200b9bcd9c0a8428d42a5e4522cc5a818b05bed8174c310cd986b4"
     },
     "assets/car_database/images/Maxus~autohome~5727.webp": {
-      "bytes": 26128,
-      "object": "objects/572372f6c7b354e4fc8fab4dedd0ec81647091837d44a4ee29ff1221afe15b7a.webp",
-      "sha256": "572372f6c7b354e4fc8fab4dedd0ec81647091837d44a4ee29ff1221afe15b7a"
+      "bytes": 120861,
+      "object": "objects/8740575f733c8b4d7154577ef2de237e3d6b149d1ab052cc2e9077074ecac94a.png",
+      "sha256": "8740575f733c8b4d7154577ef2de237e3d6b149d1ab052cc2e9077074ecac94a"
     },
     "assets/car_database/images/Maxus~autohome~5751.webp": {
-      "bytes": 25254,
-      "object": "objects/538c68b08fafcd52b8e96ae725b795ce97a4900d352c95e7c543978bb98a4afa.webp",
-      "sha256": "538c68b08fafcd52b8e96ae725b795ce97a4900d352c95e7c543978bb98a4afa"
+      "bytes": 116765,
+      "object": "objects/e94732534410e2d089e2ecb233262e739e48fdf2e424cc48ba7cac7a1f56b738.png",
+      "sha256": "e94732534410e2d089e2ecb233262e739e48fdf2e424cc48ba7cac7a1f56b738"
     },
     "assets/car_database/images/Maxus~autohome~5834.webp": {
-      "bytes": 30406,
-      "object": "objects/8ab121203bd7c563ce8b4fda1414a72f38a404b564ed8799b03dcb1a7b795d30.webp",
-      "sha256": "8ab121203bd7c563ce8b4fda1414a72f38a404b564ed8799b03dcb1a7b795d30"
+      "bytes": 144453,
+      "object": "objects/9aafdaeab998039ab5de0c79c762fcafd6fc9b676ed8c2bf60059ce2769691b0.png",
+      "sha256": "9aafdaeab998039ab5de0c79c762fcafd6fc9b676ed8c2bf60059ce2769691b0"
     },
     "assets/car_database/images/Maxus~autohome~5882.webp": {
-      "bytes": 26728,
-      "object": "objects/16a862c479e324f653bea3db0fe748b73ff7df4bd7fe98a668bfcdca1f1b897a.webp",
-      "sha256": "16a862c479e324f653bea3db0fe748b73ff7df4bd7fe98a668bfcdca1f1b897a"
+      "bytes": 126826,
+      "object": "objects/adda517f6e2063b5a59b99016a520e22b7d9af75595bfa3798ccad5044bc0948.png",
+      "sha256": "adda517f6e2063b5a59b99016a520e22b7d9af75595bfa3798ccad5044bc0948"
     },
     "assets/car_database/images/Maxus~autohome~5913.webp": {
-      "bytes": 27288,
-      "object": "objects/9c8dbe8e25b357699c236e344cc23cc057370b6bf8eda7edd611cf748583e6e5.webp",
-      "sha256": "9c8dbe8e25b357699c236e344cc23cc057370b6bf8eda7edd611cf748583e6e5"
+      "bytes": 135219,
+      "object": "objects/ee47bc9471da6ca50aadd81aad93b43aaee1af5c6703beea53ce9e7384cae856.png",
+      "sha256": "ee47bc9471da6ca50aadd81aad93b43aaee1af5c6703beea53ce9e7384cae856"
     },
     "assets/car_database/images/Maxus~autohome~5930.webp": {
       "bytes": 21032,
@@ -10976,9 +10976,9 @@
       "sha256": "3dab1cee169d43dcea1f92d964cc0acc012965d91785683acd3b9556fbd8ffbc"
     },
     "assets/car_database/images/Maxus~autohome~6148.webp": {
-      "bytes": 17332,
-      "object": "objects/1c8f867664497ce756942e66223759dab7b2fe4b434aea71da9483724591e366.webp",
-      "sha256": "1c8f867664497ce756942e66223759dab7b2fe4b434aea71da9483724591e366"
+      "bytes": 81784,
+      "object": "objects/9993991661ca7ec3f7330ecb51688b09a8a4ae9b696094832f46b06ad8ef3b12.png",
+      "sha256": "9993991661ca7ec3f7330ecb51688b09a8a4ae9b696094832f46b06ad8ef3b12"
     },
     "assets/car_database/images/Maxus~autohome~6446.webp": {
       "bytes": 22410,
@@ -11011,9 +11011,9 @@
       "sha256": "a6ff4041e8f6894a1c2abb370180816f35a35f1c7cfa71539c5930dbd44b8be5"
     },
     "assets/car_database/images/Maxus~autohome~6810.webp": {
-      "bytes": 25254,
-      "object": "objects/538c68b08fafcd52b8e96ae725b795ce97a4900d352c95e7c543978bb98a4afa.webp",
-      "sha256": "538c68b08fafcd52b8e96ae725b795ce97a4900d352c95e7c543978bb98a4afa"
+      "bytes": 116765,
+      "object": "objects/e94732534410e2d089e2ecb233262e739e48fdf2e424cc48ba7cac7a1f56b738.png",
+      "sha256": "e94732534410e2d089e2ecb233262e739e48fdf2e424cc48ba7cac7a1f56b738"
     },
     "assets/car_database/images/Maxus~autohome~6830.webp": {
       "bytes": 25844,
@@ -11331,14 +11331,14 @@
       "sha256": "82f0b0525fb17dcb54045b491ddc32c9dfd19cb263cd83f3be48f50f87d95c71"
     },
     "assets/car_database/images/McLaren~autohome~2902.webp": {
-      "bytes": 21666,
-      "object": "objects/8bdf662414ddca82e8ba1849477877248450673bcd1ba760e7d189fc456dd3b5.webp",
-      "sha256": "8bdf662414ddca82e8ba1849477877248450673bcd1ba760e7d189fc456dd3b5"
+      "bytes": 92651,
+      "object": "objects/ce7fa0d0180a4584b43d83b1f5b992cae582dd8051add8260d5eebc5bef5fe4c.png",
+      "sha256": "ce7fa0d0180a4584b43d83b1f5b992cae582dd8051add8260d5eebc5bef5fe4c"
     },
     "assets/car_database/images/McLaren~autohome~3382.webp": {
-      "bytes": 20520,
-      "object": "objects/5b2220d63ffd5dd7eff0f0a51d9d78ec31b0d14624be3c1ca9d2c9de77fb6575.webp",
-      "sha256": "5b2220d63ffd5dd7eff0f0a51d9d78ec31b0d14624be3c1ca9d2c9de77fb6575"
+      "bytes": 89348,
+      "object": "objects/9d9e0432f74807cc8902ea0aabc749d260b83ce3d2d65de7b33b1440ac6b3a6c.png",
+      "sha256": "9d9e0432f74807cc8902ea0aabc749d260b83ce3d2d65de7b33b1440ac6b3a6c"
     },
     "assets/car_database/images/McLaren~autohome~3620.webp": {
       "bytes": 24242,
@@ -11346,9 +11346,9 @@
       "sha256": "341421d3fd0f799ffe963a61cfe3f6a68f9427786e05240f1e276e5b862a0f85"
     },
     "assets/car_database/images/McLaren~autohome~3733.webp": {
-      "bytes": 23008,
-      "object": "objects/8259e667db2e831cee9c6e45b93e37cbbeb312580c98b45519f4405ad82a07b9.webp",
-      "sha256": "8259e667db2e831cee9c6e45b93e37cbbeb312580c98b45519f4405ad82a07b9"
+      "bytes": 102238,
+      "object": "objects/788dbadec16d932d98c1b7b799cf3c00404ac6a03827ba3a01dbc2187f43a929.png",
+      "sha256": "788dbadec16d932d98c1b7b799cf3c00404ac6a03827ba3a01dbc2187f43a929"
     },
     "assets/car_database/images/McLaren~autohome~3767.webp": {
       "bytes": 23160,
@@ -11356,9 +11356,9 @@
       "sha256": "1b5582ad82be9e316bb3495a80eefd009d35fead7ba8464aaa8978eb50c1d014"
     },
     "assets/car_database/images/McLaren~autohome~3809.webp": {
-      "bytes": 20430,
-      "object": "objects/8956e1f004fa1545bd66532ae7b353d0f1917a29776275a516cbddd190b357c9.webp",
-      "sha256": "8956e1f004fa1545bd66532ae7b353d0f1917a29776275a516cbddd190b357c9"
+      "bytes": 92489,
+      "object": "objects/04609ef782d41aa95613adf05ef6380f5d7b23fa31e473fbf5429308627661ea.png",
+      "sha256": "04609ef782d41aa95613adf05ef6380f5d7b23fa31e473fbf5429308627661ea"
     },
     "assets/car_database/images/McLaren~autohome~4366.webp": {
       "bytes": 22016,
@@ -11376,9 +11376,9 @@
       "sha256": "2c7602bae5c064f436370cdf0698e0d0a729eccbf3d6732cceaf9b94ab837c8f"
     },
     "assets/car_database/images/McLaren~autohome~5986.webp": {
-      "bytes": 19002,
-      "object": "objects/0fec53d8b0970bba9d73af2f76f2460a8ec3e4abc37e95747092243b7a29bed0.webp",
-      "sha256": "0fec53d8b0970bba9d73af2f76f2460a8ec3e4abc37e95747092243b7a29bed0"
+      "bytes": 87202,
+      "object": "objects/53ffbc0a76e96306939c25b96bc9a2d2e5db7e2ae6ef939353f38ec0effd0d90.png",
+      "sha256": "53ffbc0a76e96306939c25b96bc9a2d2e5db7e2ae6ef939353f38ec0effd0d90"
     },
     "assets/car_database/images/Mercedes Benz~A Class~2856f9131ce00305cb98a709a3a4361e.webp": {
       "bytes": 30394,
@@ -11941,9 +11941,9 @@
       "sha256": "da21ea80972830141eddb448dd38e44229a03f751bb425079ad996e24e37e322"
     },
     "assets/car_database/images/Morgan~autohome~3151.webp": {
-      "bytes": 29202,
-      "object": "objects/0e8c07337fd970507f5f92155243bcdbbb723a3e521454ba7ad7dc3d32a3af80.webp",
-      "sha256": "0e8c07337fd970507f5f92155243bcdbbb723a3e521454ba7ad7dc3d32a3af80"
+      "bytes": 124067,
+      "object": "objects/0d0470d608d5dec2f8e055516e82b960e3402861e8585a23b72df2af7ec7ada6.png",
+      "sha256": "0d0470d608d5dec2f8e055516e82b960e3402861e8585a23b72df2af7ec7ada6"
     },
     "assets/car_database/images/Morgan~autohome~3152.webp": {
       "bytes": 17652,
@@ -11976,9 +11976,9 @@
       "sha256": "38e8b6770a3b158ce32da6e5080f2a852d540a75a1a3ad099e7c7a821e1f17e9"
     },
     "assets/car_database/images/NIO~autohome~5264.webp": {
-      "bytes": 17126,
-      "object": "objects/a7c09cb9d04e1a93d21b0f1f2a889f848d1eb9f0d7a4c0f0d0c4ceed12720c89.webp",
-      "sha256": "a7c09cb9d04e1a93d21b0f1f2a889f848d1eb9f0d7a4c0f0d0c4ceed12720c89"
+      "bytes": 80073,
+      "object": "objects/716b47ed9369b289310a4248aaaf989fdad30745b6d8164039dd41b183e4bec5.png",
+      "sha256": "716b47ed9369b289310a4248aaaf989fdad30745b6d8164039dd41b183e4bec5"
     },
     "assets/car_database/images/NIO~autohome~5569.webp": {
       "bytes": 23610,
@@ -11991,9 +11991,9 @@
       "sha256": "deb398469612295681c58c801a580707af392bf2d9eb1d6e3febcedcb585eb0a"
     },
     "assets/car_database/images/NIO~autohome~6700.webp": {
-      "bytes": 19630,
-      "object": "objects/3681ee5a20294a300c1e2301b7c27598083d56168e132d18e75ca48c0c8f68bf.webp",
-      "sha256": "3681ee5a20294a300c1e2301b7c27598083d56168e132d18e75ca48c0c8f68bf"
+      "bytes": 93500,
+      "object": "objects/bbb490a74ed17497312269a5a5e0e42b98f2124c0e56b58f49883805234e3901.png",
+      "sha256": "bbb490a74ed17497312269a5a5e0e42b98f2124c0e56b58f49883805234e3901"
     },
     "assets/car_database/images/NIO~autohome~6994.webp": {
       "bytes": 18798,
@@ -12021,9 +12021,9 @@
       "sha256": "2946351340833cb1b88809907efdea34f8aae74cc496b14d1e556dcc79fe16fa"
     },
     "assets/car_database/images/Neta~autohome~5191.webp": {
-      "bytes": 22342,
-      "object": "objects/05383e712a1843f66b326e67b45cff2ad5769f773ac8e22fe51b933fdc87e1fc.webp",
-      "sha256": "05383e712a1843f66b326e67b45cff2ad5769f773ac8e22fe51b933fdc87e1fc"
+      "bytes": 101475,
+      "object": "objects/576c76d7db4137566ba34e7572c65a289ab01d5c7d39987c4a6b9dc6253083f0.png",
+      "sha256": "576c76d7db4137566ba34e7572c65a289ab01d5c7d39987c4a6b9dc6253083f0"
     },
     "assets/car_database/images/Neta~autohome~5819.webp": {
       "bytes": 22178,
@@ -12046,9 +12046,9 @@
       "sha256": "f4afcae53271a872506a925fac4597e254009a2cb66615dda41cf83316692cd0"
     },
     "assets/car_database/images/Neta~autohome~7389.webp": {
-      "bytes": 21046,
-      "object": "objects/0fa39d6dfc5f01a6b35abda5c59f0e21be54baa056a9dcf63811babd43f81970.webp",
-      "sha256": "0fa39d6dfc5f01a6b35abda5c59f0e21be54baa056a9dcf63811babd43f81970"
+      "bytes": 91101,
+      "object": "objects/9a133e850c160b28fcc867130e7c573154f2e232b93140824ea0e241741cc643.png",
+      "sha256": "9a133e850c160b28fcc867130e7c573154f2e232b93140824ea0e241741cc643"
     },
     "assets/car_database/images/Neta~autohome~7531.webp": {
       "bytes": 18736,
@@ -12976,14 +12976,14 @@
       "sha256": "35f9ec2245cf215805ad33f3cbd6f8c035aa57fc49e1878080f2301325c5b2bf"
     },
     "assets/car_database/images/Qoros~autohome~2974.webp": {
-      "bytes": 17452,
-      "object": "objects/70496458003679fe849cab6fb8521bacdaa5da895ff99739156d4fbb25d18451.webp",
-      "sha256": "70496458003679fe849cab6fb8521bacdaa5da895ff99739156d4fbb25d18451"
+      "bytes": 78440,
+      "object": "objects/c6b1a1a608c975bbd08e5ab4a397ee63e99b90eef1a77c1cb628638a76d85e3a.png",
+      "sha256": "c6b1a1a608c975bbd08e5ab4a397ee63e99b90eef1a77c1cb628638a76d85e3a"
     },
     "assets/car_database/images/Qoros~autohome~6628.webp": {
-      "bytes": 17166,
-      "object": "objects/ec38a587f7b0e84748f6873b00a5550edf879f5c1c0613195c1d676539616acc.webp",
-      "sha256": "ec38a587f7b0e84748f6873b00a5550edf879f5c1c0613195c1d676539616acc"
+      "bytes": 71719,
+      "object": "objects/94db194a4d998881c80a5e62a18ea20db08643a66ab34a95facb9cf4e81352af.png",
+      "sha256": "94db194a4d998881c80a5e62a18ea20db08643a66ab34a95facb9cf4e81352af"
     },
     "assets/car_database/images/RAM~1500 Classic~343db5ca7c1d08b37a3ed794e62c4f31.webp": {
       "bytes": 26906,
@@ -13121,9 +13121,9 @@
       "sha256": "5871aca4fbd0f1f1a94b2a3799d5b7ce1e2168223ca02966a5b433bd8b2b9f14"
     },
     "assets/car_database/images/RUF~autohome~2970.webp": {
-      "bytes": 19956,
-      "object": "objects/3e9c29ba67cdd5a81340a75c40e0987b414e67039a318dda5e70d6ecfd8c2b01.webp",
-      "sha256": "3e9c29ba67cdd5a81340a75c40e0987b414e67039a318dda5e70d6ecfd8c2b01"
+      "bytes": 88843,
+      "object": "objects/67611215e5bb5eb78e90f0beba59243a3d0da01a29a378b9a69231f19cce6c45.png",
+      "sha256": "67611215e5bb5eb78e90f0beba59243a3d0da01a29a378b9a69231f19cce6c45"
     },
     "assets/car_database/images/RUF~autohome~2972.webp": {
       "bytes": 19154,
@@ -13401,9 +13401,9 @@
       "sha256": "21cccfdad1ff778458f117eb02ba77e38d913f6a8ae02fb28f7336b0c1780899"
     },
     "assets/car_database/images/Roewe~autohome~2779.webp": {
-      "bytes": 27232,
-      "object": "objects/932c77cac5535f8c375a63b3261ba5645d59ba41fdb1706a15d7444d4771aa40.webp",
-      "sha256": "932c77cac5535f8c375a63b3261ba5645d59ba41fdb1706a15d7444d4771aa40"
+      "bytes": 119784,
+      "object": "objects/5f64d63c0b3f66428f519169315f99d68f2b0c672861f14a96e35f9d649e429e.png",
+      "sha256": "5f64d63c0b3f66428f519169315f99d68f2b0c672861f14a96e35f9d649e429e"
     },
     "assets/car_database/images/Roewe~autohome~3857.webp": {
       "bytes": 21796,
@@ -13421,9 +13421,9 @@
       "sha256": "110dc9b7f41e23b68e54b27e9cc160d11e2d934f2d2b2822fff255d3bd25dca1"
     },
     "assets/car_database/images/Roewe~autohome~4080.webp": {
-      "bytes": 23660,
-      "object": "objects/af08b7435f71f45361124bba4fafbfc9d650196941d7d473bb9e509c0c60e02e.webp",
-      "sha256": "af08b7435f71f45361124bba4fafbfc9d650196941d7d473bb9e509c0c60e02e"
+      "bytes": 103611,
+      "object": "objects/6e0e666add712f321a86bf4deb66dd81dff34f0656b2fb7e0b52d6f9e4f60b41.png",
+      "sha256": "6e0e666add712f321a86bf4deb66dd81dff34f0656b2fb7e0b52d6f9e4f60b41"
     },
     "assets/car_database/images/Roewe~autohome~4240.webp": {
       "bytes": 21824,
@@ -13436,9 +13436,9 @@
       "sha256": "ee000bcba81e3f08c5635fe2c99f6a1889d360939cfe08b8fdf8c621fe300ea5"
     },
     "assets/car_database/images/Roewe~autohome~4263.webp": {
-      "bytes": 27306,
-      "object": "objects/fcc61fb35a9858661897510fb6648e5323875fc092ca6cb58303ca9891729d24.webp",
-      "sha256": "fcc61fb35a9858661897510fb6648e5323875fc092ca6cb58303ca9891729d24"
+      "bytes": 123716,
+      "object": "objects/24abe504e519342ab98c00d9057fa479f4405dadafeaa924ce18eea94b87fb80.png",
+      "sha256": "24abe504e519342ab98c00d9057fa479f4405dadafeaa924ce18eea94b87fb80"
     },
     "assets/car_database/images/Roewe~autohome~4473.webp": {
       "bytes": 27470,
@@ -13471,9 +13471,9 @@
       "sha256": "4a5bf53501e810d0284dcae4b51dd2f09596d47c06c3b56800fcb2d586cc3f0e"
     },
     "assets/car_database/images/Roewe~autohome~5071.webp": {
-      "bytes": 25600,
-      "object": "objects/f0785261b47ca1e1c882df788e77a83fb25ce7604932c9eac46825b5281b33ce.webp",
-      "sha256": "f0785261b47ca1e1c882df788e77a83fb25ce7604932c9eac46825b5281b33ce"
+      "bytes": 127577,
+      "object": "objects/b7419d95007ee15d8a702a53c97cf10da30cb782d2133b8a0033bf81244f8be7.png",
+      "sha256": "b7419d95007ee15d8a702a53c97cf10da30cb782d2133b8a0033bf81244f8be7"
     },
     "assets/car_database/images/Roewe~autohome~5226.webp": {
       "bytes": 22294,
@@ -13481,9 +13481,9 @@
       "sha256": "2c76aa7068e0dab487cdf8c263c26c65e95034b4286a3a0619bf52e65ef61740"
     },
     "assets/car_database/images/Roewe~autohome~5282.webp": {
-      "bytes": 19512,
-      "object": "objects/fafca89de26f9f2b3745d945659d12b195a9f9ab39b02632ab4fab8dbf79e268.webp",
-      "sha256": "fafca89de26f9f2b3745d945659d12b195a9f9ab39b02632ab4fab8dbf79e268"
+      "bytes": 91886,
+      "object": "objects/124c7bd8212164b3c842cf2644def9a0eec3d319aecf3e28bebaecead8c7a1aa.png",
+      "sha256": "124c7bd8212164b3c842cf2644def9a0eec3d319aecf3e28bebaecead8c7a1aa"
     },
     "assets/car_database/images/Roewe~autohome~537.webp": {
       "bytes": 23246,
@@ -13556,9 +13556,9 @@
       "sha256": "5911533d4b9b8a36d4989c2bfbb198db630f394c8830467161383e78890f93f9"
     },
     "assets/car_database/images/Roewe~autohome~7980.webp": {
-      "bytes": 16716,
-      "object": "objects/c386dcbfde49900bb9e15fbd18bf36cce2ab5082ca1a146c2849e1d5925874c5.webp",
-      "sha256": "c386dcbfde49900bb9e15fbd18bf36cce2ab5082ca1a146c2849e1d5925874c5"
+      "bytes": 72733,
+      "object": "objects/3c1d8f5cebacac8b7ead1ca415d80c429fa23fef6ae0eeafdf768d026c5527ab.png",
+      "sha256": "3c1d8f5cebacac8b7ead1ca415d80c429fa23fef6ae0eeafdf768d026c5527ab"
     },
     "assets/car_database/images/Roewe~autohome~8161.webp": {
       "bytes": 18352,
@@ -13601,9 +13601,9 @@
       "sha256": "d4671b5e0a673bc4a3cf7ba42307b800f84efbc29b867b3dd9588c02b5eb6d25"
     },
     "assets/car_database/images/Rolls-Royce~autohome~3838.webp": {
-      "bytes": 21950,
-      "object": "objects/ed984ec80ff323ea2fc97879f8c13f64b7258654bfc891ca5cbebdc73c4ef398.webp",
-      "sha256": "ed984ec80ff323ea2fc97879f8c13f64b7258654bfc891ca5cbebdc73c4ef398"
+      "bytes": 103176,
+      "object": "objects/d969f75d34c098d467c20b8555e6a4ccede26de35c7e660cc938994ccc8932e5.png",
+      "sha256": "d969f75d34c098d467c20b8555e6a4ccede26de35c7e660cc938994ccc8932e5"
     },
     "assets/car_database/images/Rolls-Royce~autohome~6421.webp": {
       "bytes": 18076,
@@ -13691,9 +13691,9 @@
       "sha256": "abcbe6aa6a7006662f64e9450c81991e23f9f45e97d48cb4ff4311fdef49be7a"
     },
     "assets/car_database/images/SWM~autohome~6781.webp": {
-      "bytes": 20390,
-      "object": "objects/e6b0684b24f8e2f9904fccc6bfedc288d92d7b646373f8b7988d5d83b3e8af71.webp",
-      "sha256": "e6b0684b24f8e2f9904fccc6bfedc288d92d7b646373f8b7988d5d83b3e8af71"
+      "bytes": 91106,
+      "object": "objects/da8258591435def086f165ea56ba8871739f68a8f43cd3d76b42418d49d63d36.png",
+      "sha256": "da8258591435def086f165ea56ba8871739f68a8f43cd3d76b42418d49d63d36"
     },
     "assets/car_database/images/Saab~autohome~211.webp": {
       "bytes": 22688,
@@ -13701,9 +13701,9 @@
       "sha256": "75d247c81b32d6b05555e8798ed3500de623b724e2c96fde2afe8b8a6304327c"
     },
     "assets/car_database/images/Saab~autohome~343.webp": {
-      "bytes": 22910,
-      "object": "objects/7e59724e62f529b22e3375afdfe9048b8c48d6be2b0a9eb63dc12ffc55b278c6.webp",
-      "sha256": "7e59724e62f529b22e3375afdfe9048b8c48d6be2b0a9eb63dc12ffc55b278c6"
+      "bytes": 114511,
+      "object": "objects/45eaeb8484dda1387efa8da37240147328fb976c53348c21e0b915f8c107587e.png",
+      "sha256": "45eaeb8484dda1387efa8da37240147328fb976c53348c21e0b915f8c107587e"
     },
     "assets/car_database/images/Scion~wikimedia~13232579.webp": {
       "bytes": 245242,
@@ -13726,9 +13726,9 @@
       "sha256": "dac674eb828fe1b5105f4f9a71e59605bc38f8fe223821f0bf6e9ac2871ac369"
     },
     "assets/car_database/images/Seres~autohome~4752.webp": {
-      "bytes": 20000,
-      "object": "objects/22c9c57c32b583f0974452ca449d7c7594ecf83e416c6ac0bf115b92e5d9330a.webp",
-      "sha256": "22c9c57c32b583f0974452ca449d7c7594ecf83e416c6ac0bf115b92e5d9330a"
+      "bytes": 90027,
+      "object": "objects/19b7f7701f39aa75a635513316497fefa3e2926fdc52462fb3d4840af9928d41.png",
+      "sha256": "19b7f7701f39aa75a635513316497fefa3e2926fdc52462fb3d4840af9928d41"
     },
     "assets/car_database/images/Shangjie~autohome~8508.webp": {
       "bytes": 17072,
@@ -13766,9 +13766,9 @@
       "sha256": "f2b65322fc8967f91aa9a387030b0bd2eedf4434869996b356ba570767b1b1e8"
     },
     "assets/car_database/images/Skyworth Auto~autohome~7297.webp": {
-      "bytes": 22982,
-      "object": "objects/c4c3c217a46127c7eb5310229f13c2cc88f841375e6fae862ef6c463469655c6.webp",
-      "sha256": "c4c3c217a46127c7eb5310229f13c2cc88f841375e6fae862ef6c463469655c6"
+      "bytes": 108640,
+      "object": "objects/78bea82f4a79cabc46d40886b0f4b9805ebfdfe112179e1e88f03a81c36b8d68.png",
+      "sha256": "78bea82f4a79cabc46d40886b0f4b9805ebfdfe112179e1e88f03a81c36b8d68"
     },
     "assets/car_database/images/Skyworth Auto~autohome~7374.webp": {
       "bytes": 25150,
@@ -13876,9 +13876,9 @@
       "sha256": "5ed575da57018368b49aee7431bf4a4879b1361797b65821274488140faa69c9"
     },
     "assets/car_database/images/Soueast~autohome~5308.webp": {
-      "bytes": 22386,
-      "object": "objects/b6ececad977f29bc12d9199e0547b4cb65e729aae11aa16039fe6ccb22f07ade.webp",
-      "sha256": "b6ececad977f29bc12d9199e0547b4cb65e729aae11aa16039fe6ccb22f07ade"
+      "bytes": 103570,
+      "object": "objects/23f11556c097b3b1b5862978f90f6e19ac7b5d7bf33848d042d7183ab45d55bc.png",
+      "sha256": "23f11556c097b3b1b5862978f90f6e19ac7b5d7bf33848d042d7183ab45d55bc"
     },
     "assets/car_database/images/Soueast~autohome~606.webp": {
       "bytes": 18422,
@@ -14131,9 +14131,9 @@
       "sha256": "4016226386072be7473f954d1a4a7485ff34b0227c3d8cf5e44770a24af891bf"
     },
     "assets/car_database/images/Suzuki~autohome~2534.webp": {
-      "bytes": 34866,
-      "object": "objects/809cfae0ab686932d9834a5eb3a414dfd13dc07f9b8e7b9c9213018bac0413e0.webp",
-      "sha256": "809cfae0ab686932d9834a5eb3a414dfd13dc07f9b8e7b9c9213018bac0413e0"
+      "bytes": 161924,
+      "object": "objects/e009e7e680baee5b13e59b8654bcd8421be27f64cc6b5690316f6136cfd508eb.png",
+      "sha256": "e009e7e680baee5b13e59b8654bcd8421be27f64cc6b5690316f6136cfd508eb"
     },
     "assets/car_database/images/Suzuki~autohome~3112.webp": {
       "bytes": 21932,
@@ -14181,9 +14181,9 @@
       "sha256": "23ddfa91219f06732fef4d4520a73e7904ae20d66d3766f8d11492ee874a8bce"
     },
     "assets/car_database/images/Suzuki~autohome~500.webp": {
-      "bytes": 20010,
-      "object": "objects/77e86cdb8853417403411bb876d3d3bff808b841e6b7e237de6027e2bed9f3b7.webp",
-      "sha256": "77e86cdb8853417403411bb876d3d3bff808b841e6b7e237de6027e2bed9f3b7"
+      "bytes": 92987,
+      "object": "objects/261cac270d05f746db7f31d8fe52f7af211dc20f1ab41f9134aebbe160324e9f.png",
+      "sha256": "261cac270d05f746db7f31d8fe52f7af211dc20f1ab41f9134aebbe160324e9f"
     },
     "assets/car_database/images/Suzuki~autohome~508.webp": {
       "bytes": 22936,
@@ -14196,9 +14196,9 @@
       "sha256": "b98f48d699505fc5b36c094e75a77b999c9c65a756209d07225be2f197afb72c"
     },
     "assets/car_database/images/Suzuki~autohome~75.webp": {
-      "bytes": 25444,
-      "object": "objects/267562a99967125fea070d49592fcf6dc613f726cf9d9725161ad2e5c93f0f2d.webp",
-      "sha256": "267562a99967125fea070d49592fcf6dc613f726cf9d9725161ad2e5c93f0f2d"
+      "bytes": 115489,
+      "object": "objects/4c87e0e9005144c302707f49aaaa9f93a7900224264296f93b2e7d1e4232fec0.png",
+      "sha256": "4c87e0e9005144c302707f49aaaa9f93a7900224264296f93b2e7d1e4232fec0"
     },
     "assets/car_database/images/Suzuki~autohome~872.webp": {
       "bytes": 27720,
@@ -14231,9 +14231,9 @@
       "sha256": "82bce28da5ef03cc1deeb83638e4b47d1a922db0930f60e868b877bc06ab6f89"
     },
     "assets/car_database/images/Tank~autohome~8723.webp": {
-      "bytes": 24888,
-      "object": "objects/b00c93a97cbe1f680bb620d7428c494fa4d55863bf18a930d0f8a44da94fb44a.webp",
-      "sha256": "b00c93a97cbe1f680bb620d7428c494fa4d55863bf18a930d0f8a44da94fb44a"
+      "bytes": 98768,
+      "object": "objects/3bae20c3ed65be29e9831690f2d25910e8c7ceb1a789b0b578dd51d9ed9842b9.png",
+      "sha256": "3bae20c3ed65be29e9831690f2d25910e8c7ceb1a789b0b578dd51d9ed9842b9"
     },
     "assets/car_database/images/Tata~wikimedia~48751184.webp": {
       "bytes": 185426,
@@ -15511,9 +15511,9 @@
       "sha256": "05c48d3749f42d8ed08b3aa761d0a05e7bc0241a12939633a399fd53f1517bb8"
     },
     "assets/car_database/images/Weltmeister~autohome~6214.webp": {
-      "bytes": 19712,
-      "object": "objects/818d0f8d161c261668bf65784c8012fab01d3bca591bf6b315b45bf3000ad348.webp",
-      "sha256": "818d0f8d161c261668bf65784c8012fab01d3bca591bf6b315b45bf3000ad348"
+      "bytes": 90467,
+      "object": "objects/d7334116d48ab468f363275313772541b68cd298dbd7b1b3d169fd6751a17f3b.png",
+      "sha256": "d7334116d48ab468f363275313772541b68cd298dbd7b1b3d169fd6751a17f3b"
     },
     "assets/car_database/images/Wey~autohome~4252.webp": {
       "bytes": 23042,
@@ -15541,9 +15541,9 @@
       "sha256": "eb02c2b164d4b4149e64200aaa83ea661244409f88b8e314f33d619f8f52d5ae"
     },
     "assets/car_database/images/Wey~autohome~5415.webp": {
-      "bytes": 23258,
-      "object": "objects/d94346fa41b10f3a4f50332d78c229058326d83df8f1eb0c5cc398715aeec31f.webp",
-      "sha256": "d94346fa41b10f3a4f50332d78c229058326d83df8f1eb0c5cc398715aeec31f"
+      "bytes": 109765,
+      "object": "objects/03fae5ca8017e9e6616b1a5b35e44d3090e3e61679a6b268caa900f0b724d0ce.png",
+      "sha256": "03fae5ca8017e9e6616b1a5b35e44d3090e3e61679a6b268caa900f0b724d0ce"
     },
     "assets/car_database/images/Wey~autohome~5416.webp": {
       "bytes": 21168,
@@ -15556,9 +15556,9 @@
       "sha256": "33aedd448dadb8b5ba6d9973540ba75e4de50236e0c775d3197d859a35d008bd"
     },
     "assets/car_database/images/Wey~autohome~6011.webp": {
-      "bytes": 19822,
-      "object": "objects/6ccf7506b3b340e9c81c853db5360fd5c0738e7380133b90613539663d821170.webp",
-      "sha256": "6ccf7506b3b340e9c81c853db5360fd5c0738e7380133b90613539663d821170"
+      "bytes": 91689,
+      "object": "objects/79f1182736e5f1b620530ad353fb7f7416730f0db92db6a46a7d32b55d17b72f.png",
+      "sha256": "79f1182736e5f1b620530ad353fb7f7416730f0db92db6a46a7d32b55d17b72f"
     },
     "assets/car_database/images/Wey~autohome~6037.webp": {
       "bytes": 23186,
@@ -15621,14 +15621,14 @@
       "sha256": "05e415f0433e3c2b6263a106ae8da819d3494178286b7e30f046e6f815e8a165"
     },
     "assets/car_database/images/Wuling~autohome~2451.webp": {
-      "bytes": 30636,
-      "object": "objects/dadc2225d7db9937d1e72b5755271593f7c9ca34115e1be58fa70026422a467c.webp",
-      "sha256": "dadc2225d7db9937d1e72b5755271593f7c9ca34115e1be58fa70026422a467c"
+      "bytes": 141015,
+      "object": "objects/7c7a3b5ddfad2c11ba912e7da6146fc90e0705029a0fdfce6596a93d9db342b7.png",
+      "sha256": "7c7a3b5ddfad2c11ba912e7da6146fc90e0705029a0fdfce6596a93d9db342b7"
     },
     "assets/car_database/images/Wuling~autohome~2456.webp": {
-      "bytes": 30970,
-      "object": "objects/ffdeb50adbf98f98c60420f9572fb85ad1643a5407bd111dbf912fc628f1c95c.webp",
-      "sha256": "ffdeb50adbf98f98c60420f9572fb85ad1643a5407bd111dbf912fc628f1c95c"
+      "bytes": 148873,
+      "object": "objects/5b8aa2e6372d1ce26563324d8467404a3300ed134b098fa768962b7a63afbacf.png",
+      "sha256": "5b8aa2e6372d1ce26563324d8467404a3300ed134b098fa768962b7a63afbacf"
     },
     "assets/car_database/images/Wuling~autohome~2506.webp": {
       "bytes": 22034,
@@ -15646,14 +15646,14 @@
       "sha256": "ad1a56f0bae7b192b4d7a1e03dc25f57e2cf7831289fc05c27d39254e193c96e"
     },
     "assets/car_database/images/Wuling~autohome~3657.webp": {
-      "bytes": 27400,
-      "object": "objects/031ee0064a158795cf0c47775f2738b5d3781ab156725f52b26625e304fee190.webp",
-      "sha256": "031ee0064a158795cf0c47775f2738b5d3781ab156725f52b26625e304fee190"
+      "bytes": 127224,
+      "object": "objects/e4206d3a51a460e3a688e7f96b21257cfa9b5fb8abcfa4f0cabd4997f8275537.png",
+      "sha256": "e4206d3a51a460e3a688e7f96b21257cfa9b5fb8abcfa4f0cabd4997f8275537"
     },
     "assets/car_database/images/Wuling~autohome~3946.webp": {
-      "bytes": 25610,
-      "object": "objects/968194fc177887d93f92cfadde28a439f41628d12d146047e1a55f28c4a4c09a.webp",
-      "sha256": "968194fc177887d93f92cfadde28a439f41628d12d146047e1a55f28c4a4c09a"
+      "bytes": 114659,
+      "object": "objects/0e3098f076825254ee293bcf5abdde3b26586bbb04f1d999eb2f520f98894d2f.png",
+      "sha256": "0e3098f076825254ee293bcf5abdde3b26586bbb04f1d999eb2f520f98894d2f"
     },
     "assets/car_database/images/Wuling~autohome~4270.webp": {
       "bytes": 28272,
@@ -15661,9 +15661,9 @@
       "sha256": "def4779e2e48a2bc5b7a513b5f812c561c1ba773b73727bdef0920e03ceb4652"
     },
     "assets/car_database/images/Wuling~autohome~4408.webp": {
-      "bytes": 23020,
-      "object": "objects/f1ddf862f1621f49a9730e041233a7ae038ae149e12e6281c00a145ea39073c4.webp",
-      "sha256": "f1ddf862f1621f49a9730e041233a7ae038ae149e12e6281c00a145ea39073c4"
+      "bytes": 106114,
+      "object": "objects/920a18426ea8f3648dc03021a9455df8fedd0db4094a76f6b7bc1813b61085cc.png",
+      "sha256": "920a18426ea8f3648dc03021a9455df8fedd0db4094a76f6b7bc1813b61085cc"
     },
     "assets/car_database/images/Wuling~autohome~4884.webp": {
       "bytes": 24826,
@@ -15676,9 +15676,9 @@
       "sha256": "1be6756f176ea4474c1b3eebd8158a83dc14fb37fc6ac484256087647872b576"
     },
     "assets/car_database/images/Wuling~autohome~5353.webp": {
-      "bytes": 21486,
-      "object": "objects/20f7fcb87b2f7c313d70efdfc0a8198c4960a477043ced4f515190c5236975eb.webp",
-      "sha256": "20f7fcb87b2f7c313d70efdfc0a8198c4960a477043ced4f515190c5236975eb"
+      "bytes": 98266,
+      "object": "objects/aacfd99bfb23260e1262a61f5e9c37b80e45a8d374e6ccacafd7f739774d9d65.png",
+      "sha256": "aacfd99bfb23260e1262a61f5e9c37b80e45a8d374e6ccacafd7f739774d9d65"
     },
     "assets/car_database/images/Wuling~autohome~5450.webp": {
       "bytes": 29614,
@@ -15686,9 +15686,9 @@
       "sha256": "9967a4caae93ed6b82b090ab6fd31e4e953b309dbb56abae571510a28e669c3c"
     },
     "assets/car_database/images/Wuling~autohome~5708.webp": {
-      "bytes": 28056,
-      "object": "objects/cdcb6ed18215c77915fcaad7212b93710ad9a42cd7b668aa4417d7e90a8c481f.webp",
-      "sha256": "cdcb6ed18215c77915fcaad7212b93710ad9a42cd7b668aa4417d7e90a8c481f"
+      "bytes": 147890,
+      "object": "objects/491ce3dc844ec6fc5ee0aa51775e8b3fec9841ec7e3f437f65ea65436c7a270d.png",
+      "sha256": "491ce3dc844ec6fc5ee0aa51775e8b3fec9841ec7e3f437f65ea65436c7a270d"
     },
     "assets/car_database/images/Wuling~autohome~5714.webp": {
       "bytes": 20344,
@@ -15696,9 +15696,9 @@
       "sha256": "f45d39ad022236b73e8b1cc8e0088e4ac2585453f1e323fbaeccdda4b28a63a5"
     },
     "assets/car_database/images/Wuling~autohome~5715.webp": {
-      "bytes": 20888,
-      "object": "objects/c85e062d97ee7a7d5737d21d6606e99fb6b6a9684aec735e1f266f3dae6eac0c.webp",
-      "sha256": "c85e062d97ee7a7d5737d21d6606e99fb6b6a9684aec735e1f266f3dae6eac0c"
+      "bytes": 99747,
+      "object": "objects/091aac3c6914970b1865333cf17e314e04c412a999d19b422ac733a5154d753f.png",
+      "sha256": "091aac3c6914970b1865333cf17e314e04c412a999d19b422ac733a5154d753f"
     },
     "assets/car_database/images/Wuling~autohome~5772.webp": {
       "bytes": 21680,
@@ -15711,9 +15711,9 @@
       "sha256": "55078899648e64931ae1bdf48da3c7a65a29baf64697805c484329e6e886df25"
     },
     "assets/car_database/images/Wuling~autohome~5775.webp": {
-      "bytes": 24708,
-      "object": "objects/ed59114cec55ccefa04c8e4286a614e444a717f6cb4362cfb4e96ef6e4f5b162.webp",
-      "sha256": "ed59114cec55ccefa04c8e4286a614e444a717f6cb4362cfb4e96ef6e4f5b162"
+      "bytes": 110361,
+      "object": "objects/31779664c50942430839ab40fe04e6f479bb20c42aeeac798cb8f3ad6bac75d1.png",
+      "sha256": "31779664c50942430839ab40fe04e6f479bb20c42aeeac798cb8f3ad6bac75d1"
     },
     "assets/car_database/images/Wuling~autohome~5881.webp": {
       "bytes": 20564,
@@ -15721,34 +15721,34 @@
       "sha256": "1956b1138c7f2232c7e2cc500c5be8cb1efd610b39e205f0289553407f36411e"
     },
     "assets/car_database/images/Wuling~autohome~6039.webp": {
-      "bytes": 20138,
-      "object": "objects/abdd7022341b9fcac009eb2a2c0947647fb006b0313f0ac42ced4216386d5e96.webp",
-      "sha256": "abdd7022341b9fcac009eb2a2c0947647fb006b0313f0ac42ced4216386d5e96"
+      "bytes": 92045,
+      "object": "objects/aebd202d749dc73e39fcad95a5dbf19ac4340bdec795126c4584e664b8af5dc3.png",
+      "sha256": "aebd202d749dc73e39fcad95a5dbf19ac4340bdec795126c4584e664b8af5dc3"
     },
     "assets/car_database/images/Wuling~autohome~6117.webp": {
-      "bytes": 21348,
-      "object": "objects/89dad2bf655a9a79b28c6db3c490a9ef875b99d6fd7ea7e0bb0662dc075a7462.webp",
-      "sha256": "89dad2bf655a9a79b28c6db3c490a9ef875b99d6fd7ea7e0bb0662dc075a7462"
+      "bytes": 102111,
+      "object": "objects/ddbbf5a00e5eb3b9ec3bcb507d4fe8059ca9982bd91a7d9ef9a36db4c01ea531.png",
+      "sha256": "ddbbf5a00e5eb3b9ec3bcb507d4fe8059ca9982bd91a7d9ef9a36db4c01ea531"
     },
     "assets/car_database/images/Wuling~autohome~6121.webp": {
-      "bytes": 24848,
-      "object": "objects/d0730c7a6bb22a5fcdb00e4fca92072bb7105398cf2a277007954321b274901e.webp",
-      "sha256": "d0730c7a6bb22a5fcdb00e4fca92072bb7105398cf2a277007954321b274901e"
+      "bytes": 126134,
+      "object": "objects/5d0947559f15798e7696dfeb7b2d32923d07bc12582760ebfb9db84ac9032a1a.png",
+      "sha256": "5d0947559f15798e7696dfeb7b2d32923d07bc12582760ebfb9db84ac9032a1a"
     },
     "assets/car_database/images/Wuling~autohome~6204.webp": {
-      "bytes": 22312,
-      "object": "objects/d53176c5dd23c52a976eb539509690ea028a2c6be1683a389f60280c38f9bcad.webp",
-      "sha256": "d53176c5dd23c52a976eb539509690ea028a2c6be1683a389f60280c38f9bcad"
+      "bytes": 96305,
+      "object": "objects/84bfe0871460c852993b1646aa644dfe0894b08b235ddea885d78f92a4c979ac.png",
+      "sha256": "84bfe0871460c852993b1646aa644dfe0894b08b235ddea885d78f92a4c979ac"
     },
     "assets/car_database/images/Wuling~autohome~6218.webp": {
-      "bytes": 21804,
-      "object": "objects/2c8c6a3bc98f8b78b9dd2c8f0e8d1f2ea11fa3cdc1b010b560207fc685660725.webp",
-      "sha256": "2c8c6a3bc98f8b78b9dd2c8f0e8d1f2ea11fa3cdc1b010b560207fc685660725"
+      "bytes": 102758,
+      "object": "objects/89c8ba98047e7339d6a37bd27819b0721d0941fb1b597080569c0bc6b80bc826.png",
+      "sha256": "89c8ba98047e7339d6a37bd27819b0721d0941fb1b597080569c0bc6b80bc826"
     },
     "assets/car_database/images/Wuling~autohome~6553.webp": {
-      "bytes": 19620,
-      "object": "objects/00809c8a1cbfb455a043e49cabd78a50996522a211f12c315a1b7858a0f36383.webp",
-      "sha256": "00809c8a1cbfb455a043e49cabd78a50996522a211f12c315a1b7858a0f36383"
+      "bytes": 88747,
+      "object": "objects/d00408ad249048380c39ac720e21c513125986b3f651052dba2e398bb9b2534c.png",
+      "sha256": "d00408ad249048380c39ac720e21c513125986b3f651052dba2e398bb9b2534c"
     },
     "assets/car_database/images/Wuling~autohome~6647.webp": {
       "bytes": 21582,
@@ -15791,9 +15791,9 @@
       "sha256": "de0b57b50fc0d925a1964ec9f92ba62c1e2dba71d731d53f69271cc8f1b4e7c0"
     },
     "assets/car_database/images/Wuling~autohome~7199.webp": {
-      "bytes": 23374,
-      "object": "objects/4f58f165daf79b195add2703914abb933744ddbbf94588f2731f613b627ce2bc.webp",
-      "sha256": "4f58f165daf79b195add2703914abb933744ddbbf94588f2731f613b627ce2bc"
+      "bytes": 103771,
+      "object": "objects/db86017becd5da6ba1916c9029a937ad0852b010b2459e1ce85eb6f72d2a6c97.png",
+      "sha256": "db86017becd5da6ba1916c9029a937ad0852b010b2459e1ce85eb6f72d2a6c97"
     },
     "assets/car_database/images/Wuling~autohome~7272.webp": {
       "bytes": 23886,
@@ -15841,9 +15841,9 @@
       "sha256": "d7d02702f566f3194ee454652afc786cf27fcf386542022f10d603047b6725fd"
     },
     "assets/car_database/images/Wuling~autohome~7897.webp": {
-      "bytes": 21772,
-      "object": "objects/216eeae90e37e984a89b2b3e0fcbbd0497c9e4db7b49fd35cfce30fca6b55c8e.webp",
-      "sha256": "216eeae90e37e984a89b2b3e0fcbbd0497c9e4db7b49fd35cfce30fca6b55c8e"
+      "bytes": 96509,
+      "object": "objects/fe3049d26508ebe0c8220af6f90327feb012cf2e370f269bdbcb7d55625a2b5b.png",
+      "sha256": "fe3049d26508ebe0c8220af6f90327feb012cf2e370f269bdbcb7d55625a2b5b"
     },
     "assets/car_database/images/Wuling~autohome~7920.webp": {
       "bytes": 18670,
@@ -16021,9 +16021,9 @@
       "sha256": "0481f3f0769a59795e55d2797872e0d4176adc645ab0bae5e3e4a7030669989d"
     },
     "assets/car_database/images/Yudo~autohome~4320.webp": {
-      "bytes": 26896,
-      "object": "objects/2049cfd91647120dc1c281526a5e976652fe10ed17cb53472341857fd9a961f1.webp",
-      "sha256": "2049cfd91647120dc1c281526a5e976652fe10ed17cb53472341857fd9a961f1"
+      "bytes": 125735,
+      "object": "objects/d02417123ddc4d7a584c726e01b30dcc11ec432f1cd2a745394ace6bc5cbcc9e.png",
+      "sha256": "d02417123ddc4d7a584c726e01b30dcc11ec432f1cd2a745394ace6bc5cbcc9e"
     },
     "assets/car_database/images/Yudo~autohome~7124.webp": {
       "bytes": 20456,
@@ -16071,9 +16071,9 @@
       "sha256": "2cc5b2a6680e8561a71139a7093916e709aa4034f13cf9aaac4f8ab69eecf8be"
     },
     "assets/car_database/images/Zeekr~autohome~8010.webp": {
-      "bytes": 17324,
-      "object": "objects/eb1b3ec40a185af8698cdd38a29cff0bfc7c29c1aa5a9d249d7b782b7792990b.webp",
-      "sha256": "eb1b3ec40a185af8698cdd38a29cff0bfc7c29c1aa5a9d249d7b782b7792990b"
+      "bytes": 75325,
+      "object": "objects/e6864d43cf5658e242e3f258d4e890bef9524758b6d0ed2e3ddbe61c486bcf84.png",
+      "sha256": "e6864d43cf5658e242e3f258d4e890bef9524758b6d0ed2e3ddbe61c486bcf84"
     },
     "assets/car_database/images/Zeekr~autohome~8148.webp": {
       "bytes": 22370,
@@ -16101,9 +16101,9 @@
       "sha256": "ddda59b796fc9f28939697b25655b7d1b06bd190d7f8650d79c0b650637fda7f"
     },
     "assets/car_database/images/Zinoro~autohome~4146.webp": {
-      "bytes": 23298,
-      "object": "objects/7cece4314dc32f93cc9c3d8cd09a6d6fa9f49c5c545b9f7ecf5e396ae0479fe8.webp",
-      "sha256": "7cece4314dc32f93cc9c3d8cd09a6d6fa9f49c5c545b9f7ecf5e396ae0479fe8"
+      "bytes": 105402,
+      "object": "objects/8682e31ab79222ec4920b27a0c28f97ed0fabb057451a2ceb9c57c08f8337b05.png",
+      "sha256": "8682e31ab79222ec4920b27a0c28f97ed0fabb057451a2ceb9c57c08f8337b05"
     },
     "assets/car_database/images/Zongheng~autohome~8023.webp": {
       "bytes": 22060,
@@ -16121,9 +16121,9 @@
       "sha256": "da205765f157aee6ba9cdad3638933ba4abd35ccba8c7cea21bcf5df59d904d4"
     },
     "assets/car_database/images/Zotye~autohome~2230.webp": {
-      "bytes": 29620,
-      "object": "objects/78d1848ad6e2fd07d1244bdd7118f2d4f6c2c7057b0beef3b9a7f29fdd3d9c08.webp",
-      "sha256": "78d1848ad6e2fd07d1244bdd7118f2d4f6c2c7057b0beef3b9a7f29fdd3d9c08"
+      "bytes": 130580,
+      "object": "objects/b72eba13d16a79cf67a4849c55ff09fe4c94b6a6a20a64dc03c96951d243c151.png",
+      "sha256": "b72eba13d16a79cf67a4849c55ff09fe4c94b6a6a20a64dc03c96951d243c151"
     },
     "assets/car_database/images/Zotye~autohome~2333.webp": {
       "bytes": 21814,
@@ -16136,9 +16136,9 @@
       "sha256": "5b8390b676b95179f12420f233a6b8604f75a9f66345f6142dd280abf21df849"
     },
     "assets/car_database/images/Zotye~autohome~2336.webp": {
-      "bytes": 28114,
-      "object": "objects/b6adf98d25a28d640210e82dfcf70bda1f8737f6e3e169a074c3c045741bb8a1.webp",
-      "sha256": "b6adf98d25a28d640210e82dfcf70bda1f8737f6e3e169a074c3c045741bb8a1"
+      "bytes": 130300,
+      "object": "objects/ff6935df68ac5e94f8b4df01ceb1474a0261542e77051fc2f44d54f02fafd2de.png",
+      "sha256": "ff6935df68ac5e94f8b4df01ceb1474a0261542e77051fc2f44d54f02fafd2de"
     },
     "assets/car_database/images/Zotye~autohome~2337.webp": {
       "bytes": 21666,
@@ -16161,9 +16161,9 @@
       "sha256": "e71172c9c81c68eebb81ea0a12e266b93d8af4647668c228898fca6a101d9a88"
     },
     "assets/car_database/images/Zotye~autohome~3529.webp": {
-      "bytes": 22036,
-      "object": "objects/4c0a8378c7d2cca4f16bd16df6118558a571c9c1c7943a04f8f3d55f95885727.webp",
-      "sha256": "4c0a8378c7d2cca4f16bd16df6118558a571c9c1c7943a04f8f3d55f95885727"
+      "bytes": 105147,
+      "object": "objects/b657e10eb5f0327443c544c23b2fdea16f72857482238774a7650a221080d2ab.png",
+      "sha256": "b657e10eb5f0327443c544c23b2fdea16f72857482238774a7650a221080d2ab"
     },
     "assets/car_database/images/Zotye~autohome~3575.webp": {
       "bytes": 29128,
@@ -16171,9 +16171,9 @@
       "sha256": "7db8754ff6d4fede54f014d89b12179f2d1154aa45bb1c2c93148110ee793958"
     },
     "assets/car_database/images/Zotye~autohome~3627.webp": {
-      "bytes": 22878,
-      "object": "objects/6f5c9f203362a1cae39119365c0f9e32cc828612900944944c1882b2fd4a9587.webp",
-      "sha256": "6f5c9f203362a1cae39119365c0f9e32cc828612900944944c1882b2fd4a9587"
+      "bytes": 102062,
+      "object": "objects/7570a030ca5301448eacc5cab1bb9ffc90730472dc5091a3be7164f675238f88.png",
+      "sha256": "7570a030ca5301448eacc5cab1bb9ffc90730472dc5091a3be7164f675238f88"
     },
     "assets/car_database/images/Zotye~autohome~3779.webp": {
       "bytes": 25100,
@@ -16196,14 +16196,14 @@
       "sha256": "2e6501eee2567b90082c2689a2285b9af254454a770b1c855566888ff7131c92"
     },
     "assets/car_database/images/Zotye~autohome~4038.webp": {
-      "bytes": 18940,
-      "object": "objects/3591474fc5832bbdafd6b7bca4fbbedabcc0952fa1cfc5d021ee6b0227aea92f.webp",
-      "sha256": "3591474fc5832bbdafd6b7bca4fbbedabcc0952fa1cfc5d021ee6b0227aea92f"
+      "bytes": 98000,
+      "object": "objects/c443b0e03c4fabb6793e12628d3cccb064e76b0b1431e48d2253ca8e7924d67a.png",
+      "sha256": "c443b0e03c4fabb6793e12628d3cccb064e76b0b1431e48d2253ca8e7924d67a"
     },
     "assets/car_database/images/Zotye~autohome~4070.webp": {
-      "bytes": 25994,
-      "object": "objects/6a753752a147d7c9e8dd600fb7423335028d667a976fd3819e7e2a781b69c3f8.webp",
-      "sha256": "6a753752a147d7c9e8dd600fb7423335028d667a976fd3819e7e2a781b69c3f8"
+      "bytes": 129575,
+      "object": "objects/2521a89a2620db1fee98f122c33d45b35a77d48f0c2177373986afedcbd4f926.png",
+      "sha256": "2521a89a2620db1fee98f122c33d45b35a77d48f0c2177373986afedcbd4f926"
     },
     "assets/car_database/images/Zotye~autohome~4092.webp": {
       "bytes": 23090,
@@ -16241,9 +16241,9 @@
       "sha256": "46d99a1f2996c59a9e64da32a447db74f37a1b099bc548679fc3dc7cc2ca8b76"
     },
     "assets/car_database/images/Zotye~autohome~4757.webp": {
-      "bytes": 24902,
-      "object": "objects/c9a2229ed44e168b8f47cf9793d0914ffbb7b44dca1bfaad629b63d177d4de25.webp",
-      "sha256": "c9a2229ed44e168b8f47cf9793d0914ffbb7b44dca1bfaad629b63d177d4de25"
+      "bytes": 125386,
+      "object": "objects/df1155f3353e6c783dabba94c93d459fddeaa909650c2c516fae37150028d851.png",
+      "sha256": "df1155f3353e6c783dabba94c93d459fddeaa909650c2c516fae37150028d851"
     },
     "assets/car_database/images/Zotye~autohome~5277.webp": {
       "bytes": 29820,
@@ -16261,9 +16261,9 @@
       "sha256": "2eed252aa22c38d605ec9186d2eec87d62f1821d477982b7c398a95f3d2943cc"
     },
     "assets/car_database/images/Zotye~autohome~663.webp": {
-      "bytes": 26742,
-      "object": "objects/e15cbad835ae118238b8961a71573ff3fc5860a567a9e2d14ee43ad24d94f31e.webp",
-      "sha256": "e15cbad835ae118238b8961a71573ff3fc5860a567a9e2d14ee43ad24d94f31e"
+      "bytes": 123736,
+      "object": "objects/a5d59596b0e397b0b8877a4a422b9f7f53c7747ea18df1fc24e3fd1a1b02e011.png",
+      "sha256": "a5d59596b0e397b0b8877a4a422b9f7f53c7747ea18df1fc24e3fd1a1b02e011"
     },
     "assets/car_database/images/Zotye~autohome~708.webp": {
       "bytes": 23898,
@@ -16571,14 +16571,14 @@
       "sha256": "b5f32b8bb449dc4675a7c98ac079c64df8336c676879805983a0378c8f922dc7"
     },
     "assets/car_database/images/iCAR~autohome~7649.webp": {
-      "bytes": 22432,
-      "object": "objects/f3b8be1f27f37eb1f5020fc4e52613708bb1be4c79d18c111924bffb5a25a5ab.webp",
-      "sha256": "f3b8be1f27f37eb1f5020fc4e52613708bb1be4c79d18c111924bffb5a25a5ab"
+      "bytes": 99595,
+      "object": "objects/c384f83ef3af0289a73b58f8a95ab094e07c3cc212b34fce365d1041d25b6acf.png",
+      "sha256": "c384f83ef3af0289a73b58f8a95ab094e07c3cc212b34fce365d1041d25b6acf"
     },
     "assets/car_database/images/iCAR~autohome~8232.webp": {
-      "bytes": 21168,
-      "object": "objects/65fb70e5c15d6f21a0ff067fb388f803e5f4010cb2c26a44d9b07d1ba63dab80.webp",
-      "sha256": "65fb70e5c15d6f21a0ff067fb388f803e5f4010cb2c26a44d9b07d1ba63dab80"
+      "bytes": 90748,
+      "object": "objects/5fde357fd9f068c7db0e25dbe2c8e809d93dd8760b9a1a86793de035d0a56784.png",
+      "sha256": "5fde357fd9f068c7db0e25dbe2c8e809d93dd8760b9a1a86793de035d0a56784"
     },
     "assets/car_database/images/iCAR~autohome~8736.webp": {
       "bytes": 22178,
