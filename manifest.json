@@ -1496,9 +1496,9 @@
       "sha256": "0e558583281084f182454c68a7945cc282376d14614b39e4a9184a37cab117c2"
     },
     "assets/car_database/images/Aion~autohome~5622.webp": {
-      "bytes": 19500,
-      "object": "objects/2f5821ba4a953355ad8c0983ade13c7ab04cbde706d333d44e848bfb2c20934a.webp",
-      "sha256": "2f5821ba4a953355ad8c0983ade13c7ab04cbde706d333d44e848bfb2c20934a"
+      "bytes": 93743,
+      "object": "objects/eea1d4b5656a5958c6a342abb214f34ae2b6cd3e61f811f3547e924b5ebc1f88.png",
+      "sha256": "eea1d4b5656a5958c6a342abb214f34ae2b6cd3e61f811f3547e924b5ebc1f88"
     },
     "assets/car_database/images/Aion~autohome~5976.webp": {
       "bytes": 104774,
@@ -1516,9 +1516,9 @@
       "sha256": "9eec3b8d8938cdfdcd4bdf7e063a635a1781608911877bc8198ef3ff7ad747b9"
     },
     "assets/car_database/images/Aion~autohome~7860.webp": {
-      "bytes": 18192,
-      "object": "objects/f597cdd68525733da69fdef3ce6899d56be24142a0c1934d2c7766e5f3822c7e.webp",
-      "sha256": "f597cdd68525733da69fdef3ce6899d56be24142a0c1934d2c7766e5f3822c7e"
+      "bytes": 82287,
+      "object": "objects/d93aeee831ab16d0bf14c559e014be018b07788a33375eb0a388eebd792ad570.png",
+      "sha256": "d93aeee831ab16d0bf14c559e014be018b07788a33375eb0a388eebd792ad570"
     },
     "assets/car_database/images/Aion~autohome~7918.webp": {
       "bytes": 78825,
@@ -1526,9 +1526,9 @@
       "sha256": "cb48173c8ecedd07e0b9830608189507134b93133920acbc92a9c366d67ca544"
     },
     "assets/car_database/images/Aion~autohome~8245.webp": {
-      "bytes": 23804,
-      "object": "objects/821ac56fb0ef56dfce6b59a656583618b483df72d810f4afb5e48c0992c2f385.webp",
-      "sha256": "821ac56fb0ef56dfce6b59a656583618b483df72d810f4afb5e48c0992c2f385"
+      "bytes": 102503,
+      "object": "objects/eaee68a97705a270e43f5b7ff8da8621c1e9153d737668d26b886013c29d6a3a.png",
+      "sha256": "eaee68a97705a270e43f5b7ff8da8621c1e9153d737668d26b886013c29d6a3a"
     },
     "assets/car_database/images/Aion~autohome~8422.webp": {
       "bytes": 109407,
@@ -1536,9 +1536,9 @@
       "sha256": "92c9316689c6c8c3166c778fdab98a1592fbfec7c174c981ed200d26a1c3e7ea"
     },
     "assets/car_database/images/Aion~autohome~8469.webp": {
-      "bytes": 21376,
-      "object": "objects/c8915e0be3d5d9d53a8409dbc657b4c60f48ed0ccfc1ba9247bf9d600b544d4c.webp",
-      "sha256": "c8915e0be3d5d9d53a8409dbc657b4c60f48ed0ccfc1ba9247bf9d600b544d4c"
+      "bytes": 90111,
+      "object": "objects/1e816b411d0f51093c9e0b0c75c6a49e664af1148b573f357f892e1c4bb03802.png",
+      "sha256": "1e816b411d0f51093c9e0b0c75c6a49e664af1148b573f357f892e1c4bb03802"
     },
     "assets/car_database/images/Aion~autohome~8757.webp": {
       "bytes": 91926,
