@@ -981,9 +981,9 @@
       "sha256": "5514d9bbe206005b67125a318c8e556b9097a117724c85fe7375f88b7e120fae"
     },
     "assets/car_cutouts/0d31f1af893c7c6f.webp": {
-      "bytes": 767468,
-      "object": "objects/99bcaf1595fc2c98c2c173fd8c9bc1b2938e4ef990d847bcbb2e2491358c47a0.webp",
-      "sha256": "99bcaf1595fc2c98c2c173fd8c9bc1b2938e4ef990d847bcbb2e2491358c47a0"
+      "bytes": 298116,
+      "object": "objects/0a9d15f9ebad95b9284762614753f7dc0537b8d7c8815c08daa7e3b20f28267f.webp",
+      "sha256": "0a9d15f9ebad95b9284762614753f7dc0537b8d7c8815c08daa7e3b20f28267f"
     },
     "assets/car_cutouts/0ef6fea0b9046a58.webp": {
       "bytes": 614296,
@@ -1156,9 +1156,9 @@
       "sha256": "6cb155b6afdd9e82f01d59b4ba9e8477bed0f5086f8242fa00aa922b93704963"
     },
     "assets/car_cutouts/7d5e542e4a8b727c.webp": {
-      "bytes": 617256,
-      "object": "objects/640f07bb5948f4bcb9cc98d8b7594b6adc95f9204c8466f8290bd2631917179a.webp",
-      "sha256": "640f07bb5948f4bcb9cc98d8b7594b6adc95f9204c8466f8290bd2631917179a"
+      "bytes": 212922,
+      "object": "objects/2a7edcb4a836304a80a82b3cd268cf31621b90ef0f79622d146ba022939ce269.webp",
+      "sha256": "2a7edcb4a836304a80a82b3cd268cf31621b90ef0f79622d146ba022939ce269"
     },
     "assets/car_cutouts/7e7d9896a610de28.webp": {
       "bytes": 764792,
